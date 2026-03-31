@@ -1,0 +1,51 @@
+SAURABH SARVE
+(+91) 9890498372 | saurabhsarve25@gmail.com | Linkedin | Github
+PROFILE SUMMARY
+Enthusiastic Full Stack Developer with a passion for AI-driven solutions and building scalable web applications.
+Experienced in integrating intelligent automation to enhance efficiency and user experience. Strong problem-
+solving skills with a keen interest in emerging technologies. Motivated to deliver impactful solutions combining
+web development and AI.
+TECHNICAL SKILLS
+• Programming Languages: C, Java, JavaScript, Python
+• Frontend: React.js,HTML5, CSS3, Bootstrap, EJS
+• Backend: Node.js, Express.js, Spring Boot
+• Databases: MongoDB, SQL
+• Tools & APIs: Git, GitHub, Postman, REST APIs, JWT Authentication, Map Tiler API, Axios
+• AI/ML: Transformers, LLMs, OCR (Tesseract.js), NLP Summarization, Pandas, NumPy, Scikit-learn
+EDUCATION
+Bachelor of Technology in Information Technology ( Nov’22 – June’26)
+J D College of Engineering and Management, Nagpur
+CGPA: 9.14
+XII (MSBSHSE)
+Providence Junior College
+77% | 2022
+EXPERIENCE
+Java Full Stack Web Development Intern
+Main Flow Services and Technologies (July’24 – Sep’24)
+• Assembled dynamic web applications using Java, Spring Boot, HTML, CSS, and JavaScript.
+• Integrated REST APIs with databases, improving response efficiency by 25%.
+• Optimized UI load speed by 30%, enhancing user experience.
+Web Development Intern
+Cognifyz Technologies (Dec’23 – Jan’24)
+• Constructed responsive frontends using HTML, CSS, JavaScript, Bootstrap.
+• Enhanced UI/UX consistency and component reusability, improving design efficiency by 40%.
+PROJECTS
+HealthSync – AI Powered Health Report Analyzer
+Technologies: React.js, Node.js, Express.js, MongoDB, TailwindCSS, @xenova/transformers, Tesseract.js
+• Engineered an AI-driven platform leveraging transformer models and OCR for extracting and summarizing
+medical reports with 95% accuracy.
+• Implemented NLP summarization and rule-based lab data interpretation to generate intelligent.
+• Secured access via JWT authentication and Formulated a user-friendly dashboard for real-time analytics.
+• Decreased manual data analysis time by 60%.
+Cargo Shipment Tracker
+Technologies: React.js, Node.js, Express.js, MongoDB, Axios
+• Designed a real-time shipment tracking dashboard displaying live ETAs and streamlined notifications.
+• Created custom React hooks that decreased re-render time by 35% and optimized data fetching.
+• Enhanced API performance and scalability for large dataset handling.
+POSITION OF RESPONSIBILITY
+AXIS Technical Fest, VNIT Nagpur (July’23 – May’24)
+• Led outreach and registration drives, increasing participation by 20%.
+• Acted as liaison between organizers and participants, improving engagement.
+ACHIEVEMENTS
+• Programming in Java (NPTEL)
+• Google Cloud Computing Foundations (NPTEL)

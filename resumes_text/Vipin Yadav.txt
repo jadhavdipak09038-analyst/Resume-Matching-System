@@ -1,0 +1,37 @@
+Vipin Yadav
+cy7795151@gmail.com | (+91) 9784607058
+vipin8797 Vipin Yadav
+SKILLS
+1. Frontend: - HTML, CSS, JavaScript, React.js
+2. Backend: - Node.js, Express.js, RESTful APIs, Socket.io, WebRTC
+3. Databases: - MongoDB, SQL
+4. Other Tools: - Git, GitHub, Docker
+EDUCATION
+❖ CSE(AIML) | Starex University
+❖ XII (RBSE) | Cambridge Convent Sr Sec School 89%| 2022
+EXPERIENCE
+Worked on the frontend using HTML, CSS, and JavaScript, and used Node.js and
+Express.js for the backend. Collaborated with a team to design features like course
+uploads, authentication, and a responsive UI.
+ACADEMIC PROJECTS
+ Link Pulse – URL Management & Analytics Platform
+Build a scalable web application for URL management, click tracking, and advanced
+analytics. Implemented backend APIs database persistence, and responsive.
+frontend. Focused on clean architecture, authentication-ready design, and live on live
+ Real-Time Chat Application
+Build a real-time chat application with one-to-one and group messaging using
+WebSocket. Implemented user authentication, REST APIs for chat persistence, and a
+responsive UI. Designed for low-latency communication and scalable backend
+architecture. Live at live ,Git-repo
+ Wanderlust – Airbnb Mini Clone
+A simplified Airbnb clone featuring user authentication, property listings, and
+comments. Implemented secure login and signup with authorization. Developed using
+Node.js, Express.js, MongoDB templating. GitHub- repo.
+POSITION OF RESPONSIBILITY
+❖ Class Representative (CR)** – Starex University (2025)
+Act as the liaison between students and faculty, representing class concerns and
+feedback. Coordinate academic and extracurricular activities for the class.
+ACHIEVEMENTS / HOBBIES
+Participated in IBM’s Encode National Hackathon (2025) and developed a full stack
+e-learning platform. Consistently scored above 85% in academic exams throughout
+school and college.

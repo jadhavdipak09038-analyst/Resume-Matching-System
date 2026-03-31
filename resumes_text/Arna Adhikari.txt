@@ -1,0 +1,58 @@
+Arna Adhikari
+arna.adhikari2006@gmail.com • Greater Noida, Delhi NCR, India
+https://www.linkedin.com/in/arna-adhikari-615206320/
+https://github.com/Arnahhh
+Career Summary
+Detail-oriented Software Engineering student skilled in SQL and front-end development with Bootstrap. Thrive under
+pressure, adapt quickly to challenges, and work effectively both independently and in team settings. Passionate about
+learning new technologies and building efficient, reliable solutions.
+Education
+Bachelor of Technology (Btech) | Vellore Institute of Technology, Vellore 2028
+CBSE Board (Class 12) | Seth Anandram Jaipuria School | 96.5% 2024
+CBSE Board (Class 10) | Seth Anandram Jaipuria School | 90% 2022
+Internships
+Future Interns | [January 2026– February 2026]
+ Used Python and Pandas together with SQL to handle datasets which allowed them to find useful information through
+their analysis work.
+ Processed structured datasets through data cleaning and transformation operations while conducting exploratory
+data analysis (EDA) to analyze their data.
+ Created queries and scripts which allowed them to handle data operations through efficient data management.
+ Used analytical skills together with problem-solving skills to finish real-world assignments which involved task-
+based work.
+ Completed assigned tasks by delivering correct results on time while using feedback to enhance their solutions.
+Projects and Social Links
+● T-Stellar Website | Vercel Deployment
+• Built and deployed a responsive web app with seamless cloud hosting on Vercel
+• Implemented fast builds, automatic deployments, and optimized performance
+• Live demo: https://t-stellar-website.vercel.app
+● Arduino Smoke Detection System
+• Designed a sensor-based fire/smoke detection device using Arduino
+• Integrated Wi-Fi hotspot for independent wireless connectivity and alerts
+• Enabled real-time monitoring without external infrastructure
+● Technical Blogging & Freelance Writing
+• Publish technical and non-technical articles on Medium and personal blog
+• Deliver freelance content for clients across multiple platforms
+• Focus on research-driven writing, clarity, and audience engagement
+● Design & Media Projects
+• Designed posters, social media creatives, and visual assets using Figma
+• Edited short videos and promotional content for digital platforms
+• Applied clean design principles and visual storytelling to enhance engagement
+Languages
+English Proficient
+Hindi Proficient
+Bengali Proficient
+German Fluent
+Certifications
+● SQL Analytics & BI on Databricks – SimpliLearn
+Data querying, cleaning, transformation, and dashboard-driven insights; applied learning through practical Kaggle dataset.● JavaScript & Web Development – SimpliLearn
+Front-end development using JavaScript, HTML, and CSS to create responsive and dynamic websites
+Skills
+• Proficient in C, C++, Python, and Java
+• Strong in Data Structures, Algorithms, and problem-solving
+• Web development: HTML, CSS, JavaScript, Bootstrap
+• SQL and Jupyter Notebook for data analysis
+• UI/UX design using Figma and CanvaA
+• Technical and non-technical content writing
+• Effective team management and leadership abilities
+• Strong communication and collaboration skills
+• Able to work efficiently under pressure and meet deadlines

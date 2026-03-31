@@ -1,0 +1,23 @@
+VISHAL MANE
+vishalmane80777@gmail.com
+8767743929
+Final-year Computer Engineering student skilled in Python, Excel, and SQL. Passionate about data
+analysis, and developing efficient solutions. Seeking a role in data analytics
+EDUCATION
+Bachelor of Engineering in Computer Engineering
+JSPM Narhe Technical Campus Expected
+Graduation Year - 2026
+F.E SGPA-7.89
+S.E SGPA-8.2
+T.E SGPA-8.6
+SKILLS
+Programming Languages - Python,Java(basics)
+Database -M ySQL
+Tools - Excel,Github
+Soft Skills - Teamwork,Problem solving,Communication
+PROJECTS
+Salary Dashboard Using Excel
+Collected and cleaned job data using Excel functions and pivot tables.
+Designed interactive visuals using charts and slicers to analyze salaries
+by job title, experience, and location.
+Helped users compare salary trends effectively.

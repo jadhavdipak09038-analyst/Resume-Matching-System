@@ -1,0 +1,44 @@
+Het Patel
+hetp82259@gmail.com +91 9662003947 Portfolio LinkedIn
+EDUCATION
+G.H Patel College of Engineering & Technology
+B.Tech in Computer Science Engineering (IOT), Sept 2022 – Oct 2026
+Current GPA: 8.60/10.00
+ACHIEVEMENTS
+• Winner of Best Business Idea Contest in CVM University
+• Winner of IEEE Business plan competition
+Experience
+UI/UX Lead – Graphura India Private Limited Jan 2025 - Dec 2025
+• Led an 8-member UI/UX team for 9 months, coordinating design efforts, reviews, and stakeholder collaboration.
+• Delivered UI/UX designs for CRM software, a jewellery website, and a placement portal.
+Freelance Logo Designer – EPOCHFOLIO Aug 2025
+• Designed a clean and professional logo for EPOCHFOLIO, aligning the visual identity with the brand’s modern
+and creative direction.
+Freelance UI/UX Designer – Kaashi Jewels Nov 2024 - Jan 2025
+• Designed UI/UX for a jewellery website using Figma and created graphic assets for promotions.
+• Shot, edited, and produced photo and video content for social media marketing.
+Freelance Logo Designer – QALA Exim Sep 2024
+• Designed a minimalist and professional logo aligned with the brand’s import-export business identity.
+PROJECTS
+CRM Software for Graphura India Private Limited
+• BuiltaresponsivefrontendinterfaceanddesignedUI/UXfortheCRMplatformusingHTML,CSS,andJavaScript,
+ensuring smooth user interaction and accessibility across devices.
+• Designed and integrated dashboard and data management features, improving usability for client and sales track-
+ing.
+Project Air: Nike UX Redesign
+• Redesigned the Nike website in Figma, focusing on a modern, user-centric interface with a clean and dynamic
+layout.
+• Developed detailed wireframes and interactive components to ensure design consistency and efficient prototyping.
+QALA EXIM
+• Created a modern and minimalist visual identity reflecting the brand’s global presence and reliability in interna-
+tional trade.
+EXTRACURRICULARS
+• ISA, Leader - Decoration Team (2024) – Led the decoration team for college-level cultural events, managing
+theme design, visual elements, and on-ground execution.
+• Technica, Team Leader - Decoration(2024)–Supervisedandexecutedcreativesetupsfortheannualtechnical
+fest, ensuring aesthetic appeal and event branding consistency.
+SKILLS
+Design Tools: Figma, Adobe Photoshop, Adobe Illustrator, Canva, CorelDRAW
+Programming Languages: Javascript, HTML, CSS
+Development Tools & IDEs: VS Code, Sublime Text, Github
+UI/UX Design Skills: Wireframing, Prototyping, Visual Design, User Research, Interaction Design

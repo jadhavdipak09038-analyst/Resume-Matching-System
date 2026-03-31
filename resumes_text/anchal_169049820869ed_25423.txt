@@ -1,0 +1,36 @@
+Anchal Kasettiwar
++919156723732 kasettiwaranchal@gmail.com MH, India
+LinkedIn: www.linkedin.com/in/anchal-kasettiwar-830a21282
+OBJECTIVE
+"B.Tech AI graduate pursuing Data Analyst with AI-ML course, skilled in Excel, SQL, Python, Tableau and data visualization.
+Developed a voice-controlled email system for visually impaired users, demonstrating problem-solving and implementation skills.
+Passionate about leveraging data insights to drive informed decisions and business growth."
+EDUCATION
+B -TECH Artificial Intelligence 2021 - 2025
+GH. Raisoni Institute of Engineering And Technology Nagpur 7.63 CGPA
+HSC (PCM) 2021
+Tip Top Convent, Nagpur 97%
+SSC (State Board) 2019
+Somalwar Nikalas High School & Junior College, Nagpur 90%
+TECHNICAL SKILLS
+Programming Language : C++, Python, SQL
+Database : MySQL
+BI Tools : PowerBI, Tableau, Excel
+PROJECTS AND WORK EXPERIENCE
+Voice-Controlled Email Management System (College Major Project) 2025
+ Technologies: Python, Google Email API, Speech Recognition, Text-to-Speech
+ Developed a voice-driven email management system for visually impaired users, integrating speech
+recognition and text-to-speech modules to enable hands-free reading, composing, sending, and
+deleting of emails, enhancing accessibility and user experience
+E-Learning Platform(College Minor Project) 2024
+ Technologies: Python, Flask, AI/ML, Data Analytics
+ Designed and implemented an AI-based fraud detection system with 98% accuracy, reducing
+false positives by 20%, while employing advanced data analytics techniques to enhance predictive
+modeling accuracy by 15%, improving overall platform security and reliability.
+Restaurant Management Portal System 2023
+ Technologies: Python, Gradient Boosting, Tableau, SQL
+ Built a retail sales prediction model using Gradient Boosting and designed an inventory management
+dashboard to help local retail clients monitor sales trends and manage stock more effectively.
+CERTIFICATIONS
+ ItVedant : Excel, Power BI, MySQL , Tableau , Python Programming
+ 6 Month Internship in Skysia Technology Pvt. Ltd.

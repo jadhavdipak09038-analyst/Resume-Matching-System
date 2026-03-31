@@ -1,0 +1,45 @@
+Akash Kumar Verma
++ Lucknow, U.P. # 10072001ak@gmail.com (cid:132) 8172916647 (cid:18) Home (cid:240) LinkedIn § GitHub
+Education
+Indian Institute of Information Technology, Lucknow July 2023 – June 2025
+M.S. in Economics and Management
+University of Lucknow Aug 2019 – June 2022
+B.Sc. in Mathematics
+Projects
+Retail Pulse: Walmart Analytics 2
+◦ Performed data cleaning, EDA, and SQL analysis to uncover sales trends, customer demographics, and product perfor-
+mance.
+◦ Tech Stack: Python (Pandas), MySQL, Jupyter Notebook, Kaggle API.
+Real Time Power-BI Dashboard for Blinkit-Analytics 2
+◦ Drove strategic insights by developing an end-to-end Power BI solution that visualized key performance indicators and
+sales trends through advanced data modeling and DAX measures.
+◦ Tech Stack: Power BI (DAX, Power Query), Data Modeling.
+Sales & Customer Dynamics: Supermarkets
+◦ Applied Python-based econometrics: EDA, hypothesis testing, and regression to study customer and product behavior.
+◦ Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels), Jupyter Notebook.
+Master Thesis
+Determinants of Household Expenditure Patterns in Uttar Pradesh: Analyzing the Feb 2025 – July 2025
+Impact of Income, Demographics and Asset Ownership 2
+◦ Applied OLS regression modeling to a primary dataset to quantify the drivers of household spending in Uttar Pradesh.
+The analysis validated income as the most statistically significant factor and revealed that household structure, particu-
+larly the number of dependents, significantly influences consumption behavior.
+Skills
+Data Analytics: EDA, Hypothesis Testing, Regression, Forecasting, A/B Testing, Econometric Modeling
+Programming: Python (Pandas, NumPy, Seaborn, Statsmodels), R, SQL, MySQL
+BI & Tools: Power BI, Excel (Advanced Analytics, Pivots, Macros), Jupyter Notebook, Git/GitHub, JIRA, VS Code
+Business & Market: Market Analysis, Data-Driven Strategy, Consumer Insights, Decision-Making
+Soft Skills: Problem-Solving, Communication, Leadership, Time Management, Client Management.
+Certifications
+Advanced Google Analytics Credential Link 2
+MDP on Fin-tech Credential Link 2
+Data Analytics Credential Link 2
+SQL (Advanced) - HackerRank Credential Link 2
+Python Credential Link 2
+Achievements & Activities
+IIT JAM 2023 - Qualified
+Badminton- Gold Medalist: Organised by Infinito, IIIT Lucknow
+5-Star in SQL (HackerRank) 2
+Class Representative : (All Semesters) – M.S. Economics and Management, IIIT Lucknow.
+Volunteer Coordinator: Convocation Coordinator at IIIT Lucknow’s 2nd Convocation, overseeing Volunteers, Board of
+Governors, Travel, & Administration, attended by the President of India & CM of UP and BOGs.
+Host and Volunteer: MDP( Advance Management Development Program ) On FINTECH by MSME.

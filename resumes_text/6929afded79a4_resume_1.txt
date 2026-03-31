@@ -1,0 +1,47 @@
+PRAVIN KUMAR MAHATO
+BIT Mesra,Ranchi • +918434934649 • kumar02pravin@gmail.com
+EDUCATION
+Birla Institute of Technology, Mesra
+2023 - 2027
+Btech in Chemical Engineering
+Gayatri Shiksha Niketan,Adityapur Jamshedpur, CBSE Board
+2020 - 2022
+Percentage: 75.4%
+Atomic Energy Central School,Narwapahar, CBSE Board 2019- 2020
+Percentage: 88.4%
+SKILLS
+Analytics & Visualization: Advanced MS Excel, Power BI, Tableau, Matplotlib, Seaborn
+Programming Languages: Python (NumPy, Pandas, Matplotlib), SQL
+Tools & Platforms: GitHub, Jupyter Notebook, VS Code, MS PowerPoint, Google Sheets
+Databases: MySQL, MongoDB (Basic)
+Soft Skills: Problem Solving, Teamwork, Communication, Critical Thinking
+Relevant Coursework: Data Structures and Algorithms, Probability & Statistics, Database
+Management System,Market Research,Business Strategy,Pricing Analysis
+PROJECTS & EXPERIENCES
+Diabetes Prediction Classifier Comparison & Evaluation
+Built and compared multiple ML classifiers (Logistic Regression, SVM, Random Forest, KNN) to predict
+diabetes using structured healthcare data.
+Performed data cleaning, feature scaling, and EDA to identify key predictors affecting model accuracy.
+Evaluated models using accuracy, precision, recall, F1-score, and ROC-AUC to select the best-performing
+algorithm.
+MLflow Tracking & Experiment Management
+Implemented MLflow to log experiments, parameters, metrics, and models for streamlined ML
+workflow management.
+Automated versioning of datasets and models to improve reproducibility and experiment tracking.
+Deployed an organized ML pipeline enabling faster comparison of model performance across
+iterations.
+July 2024 - Septemper 2024
+Alchemist AI
+Stratergy Consulting Intern
+Conducted in-depth market and competitor analysis of B2B SaaS companies, assessing product
+strategies, pricing models, and market positioning.
+Collaborated with cross-functional teams to develop go-to-market strategies and align product
+direction with market trends.
+Analyzed performance and market data to deliver actionable insights that improved customer
+engagement and strategic decision-making.
+ACHIEVEMENTS & EXTRA-CURRICULAR ACTIVITIES
+Earned certification in Alchemist AI
+Built and published multiple data analysis projects on GitHub (e.g., AppSight-EDA, customer
+segmentation), demonstrating proficiency in Python (Pandas, NumPy) and visualization tools.
+Completed Top 50 SQL practice questions sheet on LeetCode, enhancing query writing and
+problem-solving skills.

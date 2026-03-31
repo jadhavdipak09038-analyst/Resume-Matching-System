@@ -1,0 +1,42 @@
+ASHMIT RANA
+Faridabad , Haryana, India | ashmitrajput009@gmail.com | 9810375121
+www.linkedin.com/in/ashmit-rana-network | https://github.com/ashmit821
+Summary
+A very optimistic and positive developer equipped with all vital skills that fuels growth and achieves the targets. I
+work with my full potential to deliver the results that speaks and count.
+Technologies
+Programming Languages: Java, Python, JavaScript and C++
+Development Practices: Data Structures and Algorithms, Object-Oriented Programming, software design
+Other: Marketing, branding and software development
+Experience
+• Clearly understood the concepts of C++ language and Data structures.
+• Worked on various projects that are necessary to understand the concepts of C++ and OOPS.
+• Bootcamp on big data & data science from CDAC, Noida in association with K.R. Mangalam University
+• Completed a Google Analytics certification, gaining hands-on expertise in tracking, reporting, and audience
+targeting
+• Certified in Data Analytics by Technoglobe (Course completed in English)
+Projects
+HR and Employee Attrition Analysis
+• Performed HR analytics to identify key drivers of employee attrition using EDA and statistical modeling.
+• Built dashboards to track attrition by department, tenure, and performance.
+• Delivered insights to support retention strategies and reduce turnover.
+Sales Performance Analysis
+• Conducted sales analytics to evaluate revenue trends, customer segments, and product performance.
+• Used data visualization to highlight sales patterns and support data-driven decisions.
+• Improved forecasting accuracy using historical data and KPI tracking.
+Customer Churn Analysis
+• Analyzed customer churn using data cleaning, EDA, and predictive modeling.
+• Identified churn-driving factors and segmented customers based on risk scores.
+• Provided actionable recommendations to improve customer retention.
+Weather Forecasting
+• Built a weather forecasting model using time-series analysis and machine learning.
+• Analyzed historical climate data to identify seasonal and temporal patterns.
+• Improved prediction accuracy through model tuning and feature engineering.
+KR Mangalam University, BCA (AI&DS), Currently Pursuing Aug 2023 – Aug 2026
+Carmel Convent School , Class 12, Percentage: 90 Apr 2026 – June 2023
+Achievements
+• IBM Python developer certified
+• IBM Big Data Engineer certified
+• Amazon AWS computing certified
+• Regularly participated in university Hackathon.
+• Google Analytics Certified (2024)

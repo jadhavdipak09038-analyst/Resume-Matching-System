@@ -1,0 +1,53 @@
+Gaurav
+Gorakhpur, U.P 273407 | +91- 6394150329
+gauravt7848@gmail.com| LinkedIn Profile | GitHub Link | LeetCode Link
+PROFILE SUMMARY
+Enthusiastic B.Tech (CSE) student at Buddha Institute of Technology, Gorakhpur (AKTU) with strong skills in C, Java,
+Python, web development (HTML, CSS, JavaScript), and MERN stack. Experienced in building responsive web
+projects such as a Grocery Store Website and a Bike-EV Subscription Platform. Ranked 1st in the first year with a
+passion for continuous learning, innovation, and teamwork.
+EDUCATION
+AKTU, LUCKNOW – Buddha Institute of Technology, Gida, Gorakhpur, UP 2023 – 2027
+B.Tech in Computer Science and Engineering (CGPA – 8.36)
+Sri Ram Rekha Singh Inter College, Uruwa Bazar, Gorakhpur, Uttar Pradesh 2022 – 2023
+12th PCM (Percentage – 81.40%)
+Sri Ram Rekha Singh Inter College, Uruwa Bazar, Gorakhpur, Uttar Pradesh 2020 – 2021
+10th PCM (Percentage – 77.33%)
+TECHNICAL SKILLS
+Programming Languages: C, Java, Python, DSA
+Frontend: HTML5, CSS, JavaScript, React.js, Bootstrap
+Backend: Java, Node.js, Express.js
+Databases: MySQL, MongoDB
+Tools & IDEs: Eclipse, VS Code, Turbo C++, Dev C++
+Office & Data Analysis: MS Excel, PowerPoint, Google Sheets
+WORK EXPERIENCE
+Google student ambassador | Google Sep 2025 - Jan 2026
+• Represented Google on campus to promote digital literacy, organize technology workshops, and support students
+in exploring Google products, developer tools, and learning platforms.
+Full Stack Development Intern | Indolike Oct 2025 - Nov 2025
+• Completed a Full-Stack Web Development Internship using the MERN stack, focusing on frontend and backend
+integration.
+• Implemented RESTful APIs, optimized code, and improved overall application performance.
+PROJECT
+1. Bike/Ev subscription platform
+Technologies: HTML5, CSS, JavaScript, EJS, MongoDB, Express.js, Node.js
+• Flexible plans daily, weekly and monthly options and Secure user authentication and online payment integration
+• Real time vehicle availability and booking management and Admin dashboard for monitoring users and subscriptions
+• Dynamic front-end developed using EJS, HTML5, CSS and JavaScript MongoDB used for storing user, vehicle and
+subscription data
+2. Grocery Store Website
+Technologies: HTML5, CSS, JavaScript
+• Built a responsive online grocery store website with dynamic product listings and cart features.
+• Implemented filtering and search functionality to improve user experience.
+• Designed a mobile friendly UI compatible across major browsers.
+.
+CERTIFICATIONS
+• I got first position in 1st year of B.Tech (CSE)
+• I got second position in Data Structure competition
+• Certified Course on Java by Infosys Springboard
+INTERESTS
+• Coding and exploring new technologies.
+• Playing Cricket
+DECLARATION
+I hereby declare that all the details mentioned above are in the accordance with the truth and fact as per my knowledge
+and I hold the responsibility for the correctness of the above mentioned particulars.

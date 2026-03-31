@@ -1,0 +1,64 @@
+Lokesh Patil lokeshpatil8261@gmail.com
+Frontend developer 8261020494
+Enthusiastic and detail-oriented Front End Developer with a strong AT.Post Therole, pune, India
+foundation in web technologies like HTML, CSS, and JavaScript.
+Adept at creating responsive and user-friendly interfaces, and linkedin.com/in/lokesh-patil-2b138a2b3
+passionate about learning and applying new technologies in real
+world applications. Demonstrated hands-on experience through
+github.com/lokeshpatil8261
+academic projects and industry-certified training in AI and
+development.
+EDUCATION SKILLS
+Bachelor of Computer Application (BCA)
+HTML CSS Javascript python cpp
+North Maharashtra University, Maharashtra
+07/2022 - 05/2025, Maharashtra github git Web Develpoment
+Higher Secondary Certificate (HSC)
+Sardar G G High School, Raver, Maharashtra
+PERSONAL PROJECTS
+06/2021 - 04/2022, Maharashtra
+Real Time Object Detection
+Secondary School Certificate (SSC)
+Developed a high-performance object detection application using
+Swami Vivekanand Vidya Mandir, Raver, Python and OpenCV.
+Maharashtra Integrated live camera feed to identify and classify multiple objects
+in real-time.
+06/2020 - 04/2021, Maharashtra Improved detection accuracy by tuning algorithm thresholds and
+frame processing speed.
+Interactive Resume Website
+INTERNSHIP EXPERIENCE
+Designed and deployed a professional personal resume website
+using HTML and CSS.
+MERN Stack Developer Intern
+Implemented a fully responsive layout for seamless viewing across
+Skillected Pvt. Ltd., Pune devices.
+Applied best practices in semantic HTML and modern CSS to
+05/2025 - Present, Pune
+enhance accessibility and user experience.
+Achievements/Tasks Showcased frontend skills and deployed the site as part of a
+Collaborating on real-time web application projects using personal branding initiative.
+the MERN stack (MongoDB, Express.js, React.js,
+Node.js) . LinkedIn Layout Clone – Frontend Project
+Designed interactive and responsive frontend interfaces Developed a responsive LinkedIn UI clone using HTML5 , CSS3 , and
+Font Awesome icons.
+with React.js , utilizing components, props, state, and
+hooks. Developed a responsive LinkedIn UI clone using HTML5 , CSS3 , and
+Font Awesome icons.
+Practiced version control using Git & GitHub , managing
+Designed a sticky navigation bar with interactive icons including
+branches and resolving merge conflicts in team Home, My Network, Jobs, Messaging, and Notifications.
+workflows.
+AICTE INTERN AI
+CERTIFICATES
+AICTE – Remote
+AICTE INTERNSHIP AI
+01/2025 - 03/2025,
+AICTE
+Achievements/Tasks
+Completed a 3-month internship focused on AI
+Python
+fundamentals and tools.
+Ninja Coder Hub
+Collaborated on mini machine learning modules in a
+project-based environment. CPP Certificate
+Explored core AI concepts under guided mentorship. Ninja Coder Hub

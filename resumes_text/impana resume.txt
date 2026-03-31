@@ -1,0 +1,32 @@
+Impana P Jain
+Karnataka, India | impanapjain@gmail.com | +91-6362625406
+Career Objective
+Motivated and detail-oriented MCA student with a strong foundation in software development, data analytics, and
+problem-solving. Seeking a challenging software engineering role to apply technical skills in building scalable and innovative
+technology solutions.
+Education
+Master of Computer Applications (MCA), NIE College
+2024 - 2026 | Pursuing
+Bachelor of Computer Applications (BCA), PES College
+2022 - 2024 | CGPA: 9.0/10
+Technical Skills
+Languages: Java, Python, C++
+Web: HTML, CSS, JavaScript (Basics), REST APIs
+Database: MySQL, SQLite
+Tools: Git, VS Code, Eclipse
+Cloud Basics: AWS (EC2, S3 – Beginner Level)
+CS Concepts: Data Structures, OOPs, DBMS, OS
+Projects
+1. Online Course Recommendation System (Python, Flask)
+- Built a course recommendation app using cosine similarity on course descriptions.
+- Integrated with SQLite for course data management and deployed locally.
+2. College Event Management System (Java, MySQL)
+- Developed a Java Swing-based desktop application to manage college events.
+- Enabled student registration, event tracking, and admin-level access using JDBC.
+3. Personal Portfolio Website (HTML/CSS/JS)
+- Designed and hosted a personal portfolio showcasing projects and certifications.
+- Optimized for responsiveness and mobile viewing.
+Certifications
+- Python Fundamentals – Great Learning
+- Google AI Essentials – Google
+- Data Analytics Job Simulation – Deloitte via Forage

@@ -1,0 +1,42 @@
+Abhinash Kumar
+Bhilai,India | abhinashkumarshb7@gmail.com | +918084532602 | Linkedin | Github | Portfolio
+Education
+RungtacollegeofEngineeringandTechnology,Bhilai,InformationTechnology Sept2022–June2026
+• CGPA:7.1
+• Coursework: ComputerNetwork,DatabaseManagementSystem,OperatingSystem,DataStructures.
+Skills
+ProgrammingLanguages: Java,Python,C,JavaScript
+CoreComputerScience: DataStructures&Algorithms,Object-OrientedDesign,DBMS,OS
+Databases: MicrosoftSQLServer(MSSQL),MONGODB
+Backend&APIs:Node.js,Express.js,RESTfulAPIs
+Tools&Technologies: Git,GitHub,VSCode,Eclipse
+Experience
+PackagedAppDevelopmentAssociateIntern,Accenture–Pune,India May2025–July2025
+• Workedonenterprise-level,database-drivenapplicationswithfocusonMicrosoftSQLServer(MSSQL).
+• Assistedinwriting,debugging,andoptimizingSQLqueriesforstructureddatasetsinproduction-like
+environments.
+• Collaboratedwithcross-functionalteamstoanalyzeapplicationissuesandproposetechnicalsolutions.
+• Gainedexposuretolarge-scalesystems,structureddevelopmentworkflows,andprofessionalcodingstandards.
+Projects
+OnlineExamProctoringSystem-Full-StackApplication—LiveDemo github
+• DesignedanddevelopedascalablebackendarchitectureusingRESTfulAPIstomanageexams,users,evidence
+logs,andresults.
+• Implementedreal-timemonitoringfeaturesincludingfacedetection,objectdetection,audioanalysis,and
+tab-switchtracking.
+• Builtsession-basedevidencestorageforsnapshots,alerts,andactivitylogstosupportintegrityandauditability.
+• Developedadmindashboardsforexamcreation,monitoring,automatedevaluation,andresultgeneration.
+AutomatedAttendanceSystem-React.js,Node.js,MongoDB github
+• Developedafull-stackattendancesystemusingreal-timefacedetectionandfacialembeddingcomparison.
+• BuiltbackendAPIstohandlesecurestudentenrollment,attendancerecords,andverificationworkflows.
+• Designedamodulararchitectureseparatingfrontendcomponents,backendservices,anddatabaselayers.
+Achievements
+• Solved700+DataStructures&AlgorithmsproblemsinJavaacrossmultipleplatforms.
+• TCSCodeVitasession13clearedRound1andRound2
+• FinalistinHackIndiaWeb3BlockchainBasedHACKATHON
+Certification
+• AdvancedproblemsolvingandDSAwithJava—GeeksforGeeks
+• GDGSolutionChallenge—Hack2Skill
+• ArtificialIntelligencePrimerCertification—InfosysSpringboard!
+Additional Information
+• Strongproblem-solvingabilitywithafocusonwritingclean,maintainable,andefficientcode.
+• Fastlearnerwiththeabilitytoadaptquicklyinafast-paced,agileengineeringenvironment.

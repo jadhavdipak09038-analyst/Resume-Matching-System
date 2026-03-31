@@ -1,0 +1,51 @@
+ashwin.patel@avantika.edu.in
+ASHWIN PATEL
+www.linkedin.com/in/ashwin-patel-160b98248
+https://leetcode.com/u/Ash-win_patel/
+https://github.com/Ashwin880077
+SUMMARY
+Detail-oriented Computer Science student with a strong background in data analysis and full-stack
+development. Proficient in Python and C++, with hands-on experience in predictive modeling, data
+visualization, and machine learning. Skilled in developing data-driven solutions and dashboards
+(Tableau, Power BI) and building full-stack applications (MERN). Experienced with Linux systems and
+cloud computing (AWS) and familiar with container orchestration (Docker, OpenShift). Proven ability
+to apply analytical and software engineering skills in projects and internships.
+PROJECTS
+EDUCATION
+Avantika University
+Walmart Sales Data Analysis
+B tech Cleaned and preprocessed large retail datasets to ensure
+Computer Science Engineering accuracy and consistency.
+July 2022 - April 2026 Designed interactive Tableau dashboards for sales
+performance by region, category, and time.
+Jawahar Navodaya Vidhyalaya
+Built a churn prediction model using Random Forest,
+July 2014 - April 2021
+improving customer retention targeting.
+10th CBSE Board - 89% (2018-19) Applied DBSCAN clustering for geospatial demand analysis,
+12th CBSE Board - 93.4% (2020-21) identifying high-demand zones.
+SKILLS Electric Vehicle Usage Forecasting
+Developed predictive models to forecast EV adoption
+Data Analysis: Python (Pandas, trends using Python (Pandas, scikit-learn).
+NumPy), SQL, Excel Conducted exploratory data analysis to uncover key usage
+Visualization: Tableau, Power drivers.
+BI, Matplotlib, Seaborn Provided insights to assist stakeholders in strategic
+Machine Learning: Scikit-learn, planning.
+predictive modeling, clustering
+Other Tools: MERN, AWS. Blood Bank Management System
+Soft Skills: Analytical problem- Built a full-stack blood bank system using MERN with
+solving, communication, features like API integration, middleware, program
+teamwork management and inventory management.
+Implemented data handling workflows and analytics for
+hospital and admin users.
+CERTIFICATIONS
+Internship
+Google Cloud Data Analytics
+Certification Intern at National Human Rights Commission (NHRC)
+Advanced Statistics for Machine Jan 2025 - Feb 2025
+learning by Infosys Enhancing team productivity and project outcomes, and
+Data Science with Python by won the competition with first prize of Rs 15,000.
+infosys Intern at UptoSkills as a mern developer and working on
+Data Analytics Essential by cisco hrms project.
+Under top 15 performer at April 2025 - July 2025
+national level hackathon, Ddn.

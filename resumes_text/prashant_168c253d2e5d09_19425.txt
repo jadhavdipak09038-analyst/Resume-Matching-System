@@ -1,0 +1,100 @@
+Prashant Bhosale
+prash.bhosale04@gmail.com 8999814169 Pune LinkedIn GitHub
+PROFILE
+Data Analyst with hands-on experience in Power BI, SQL, Tableau, and Excel.
+•
+Developed interactive dashboards to simplify data visualization and enhance decision-making processes.
+•
+Proficient in writing SQL queries for data extraction, transformation, and analysis.
+•
+Skilled in data cleaning and transformation to ensure accuracy and consistency in analysis.
+•
+Created actionable reports and insights for stakeholders, driving data-driven decisions.
+•
+Utilized Advanced Excel functions and DAX for performance analysis and creating dynamic visualizations.
+•
+Strong background in data-focused tasks, stakeholder collaboration, and ability to take ownership of tasks.
+•
+SKILLS
+Power BI Tableau Data Visualization Data Modeling
+SQL Data Extraction Advanced Excel Excel Pivot Table
+Data Cleaning ETL Competitive Predictive Analysis
+Analysis
+Python Market Trend Power Point
+Analysis SAP
+Communication
+(Verbal/Written)
+PROFESSIONAL EXPERIENCE
+Data Analyst & Manufacturing Support, S M Auto. Aug 2022 – Sep 2024 | Pune
+Designed and developed Power BI dashboards with advanced DAX functions, created custom visuals, KPI,
+•
+and interactive filters. Enabled data-driven decisions by visual insights below
+- Total Sheet metal consumption Grade & thickness wise (To plan procurement & reorders)
+- Weld Wire, Welding gas consumption benchmarks
+- Assembly line defect & its causes analysis with visuals to make an action plan.
+Used basic DAX function to create custom measures such as material consumption grade & Thk.-wise.
+•
+Delivered actionable insights through detailed reports, dashboards, and visualizations.
+•
+Leveraged Advanced Excel features (VLOOKUP, INDEX-MATCH, pivot tables) for streamlined data analysis.
+•
+Conducted data cleaning and validation to ensure dataset accuracy for analytics and reporting.
+•
+Asst. Manager Product & Process Development, S M Auto Oct 2018 – Aug 2022 | Pune
+Conducted data-driven feasibility analysis for New Product Development, optimizing manufacturing
+•
+processes & collaborating with stakeholders.
+Successfully led multiple projects from initial feasibility and product/process validation through to final
+•
+handover for plant production, ensuring timely and smooth launches.
+QA / QC Lead Engineer, Gloria Engineering May 2014 – Oct 2018 | Pune
+Dynamic and result-oriented Quality Assurance professional with a progressive career started as a Junior
+•
+QA Engineer and grew into the role of QA Lead.
+Achieved & maintained zero PPM (zero quality issues at the customer) for a continuous 12 months.
+•PROJECTS
+1. Students Expenditure Analysis & Insights – Power BI Dashboard
+Objective:
+Educational institutions needed insights into student spending to design financial support programs and
+•
+improve student financial well-being.
+Project Highlights:
+Built an interactive Power BI dashboard to analyze student spending trends, income distribution, and
+•
+financial aid impact for informed decision-making.
+Extracted and cleaned data using SQL queries and Excel functions (PivotTables, VLOOKUP) to ensure data
+•
+readiness and accuracy.
+Performed data cleaning and transformation using Power Query to maintain consistency and quality.
+•
+Created visualizations (bar charts, line charts, pie charts, KPI cards) to uncover expenditure patterns,
+•
+savings behavior, and financial gaps.
+Utilized DAX to build KPIs highlighting spending habits, budgeting trends, and potential financial support
+•
+opportunities.
+2. Christmas Sales Performance Analysis – Power BI Dashboard
+Objective:
+To evaluate holiday sales trends and guide business decisions on marketing
+•
+Project Highlights:
+Designed a Power BI dashboard to analyze sales trends, product performance, and customer buying
+•
+patterns.
+Extracted and cleaned data using SQL queries and Excel functions (PivotTables, VLOOKUP), ensuring data
+•
+readiness for analysis.
+Performed data modeling and transformation using Power Query and Excel.
+•
+Built interactive visualizations (bar charts, line charts, pie charts, KPI cards) to display revenue trends,
+•
+discount effectiveness, and category-wise performance.
+Applied DAX calculations to derive insights via custom columns and measures, supporting data-driven
+•
+decision making.
+EDUCATION
+Bachelor's Of Engineering (Mechanical) Jul 2013
+CERTIFICATES
+Power BI SQL Excel
+Tableau IBM- Data Analytics with
+Python

@@ -1,0 +1,42 @@
+Vaibhav Pant
+Passionate Computer Science student skilled in JavaScript and React.js, eager to build scalable web
+applications and grow in a dynamic tech environment.
+vaibhavpant2002@gmail.com +91 7465029287 Dineshpur, Uttarakhand
+vaibhav-pant-744414292 vaibhavpant10
+EDUCATION
+Jigyasa University, Dehradun
+Bachelor of Technology in Computer Science and Engineering July 2023 - June 2026
+Govt. Polytechnic, Kaladhungi
+Diploma in Computer Science and Engineering July 2020 - June 2023
+Late C. Raha G. I. C. Dineshpur
+12th Grade passout 2020
+PROJECTS
+TechTonic Labs (techtoniclabs.vercel.app)
+• Developed and deployed a startup website using HTML, Tailwind CSS, and JavaScript, with GSAP animations
+for smooth transitions. Integrated Web3Forms API for the contact page and hosted the project on Vercel and
+GitHub for seamless deployment and version control.
+TechTonic Games (techtonicgames.vercel.app)
+• Developed a website for hosting online gaming tournaments for BGMI, Free Fire, and other popular games.
+Built using HTML, Tailwind CSS, JavaScript, and GSAP animations for an engaging user experience.
+Integrated Web3Forms API for seamless user interactions and deployed using Vercel and GitHub for efficient
+hosting and version control.
+E-commerce Site UI
+• Designed a modern e-commerce website interface using HTML, Tailwind CSS, and JavaScript. Created
+product listing, cart UI, and interactive hover effects to enhance user experience. Focused on a clean and
+responsive design for different screen sizes.
+SKILLS
+• Front-End Devel opment: HTML, CSS, Tailwind CSS, JavaScript, GSAP Animation
+• Back-End Development: Node.js, Express.js, REST API Development, MongoDB (Basic)
+• Programming & Problem-Solving: Python, DSA and Problem Solving
+• Databases & Frameworks: Familiar with SQL and React.js
+• Deployment: Vercel
+• Version Control: Git, GitHub
+CERTIFICATE
+Practical Web Design & Development
+• Completed a comprehensive course on web design technologies, covering Photoshop, HTML5, CSS3, and
+Bootstrap. Gained hands-on experience in UI/UX design, wireframing, responsive design, and interactive web
+development. The course provided practical insights into modern web design techniques and industry best
+practices.
+LANGUAGE
+English
+Hindi

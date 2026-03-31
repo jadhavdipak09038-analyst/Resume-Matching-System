@@ -1,0 +1,38 @@
+SUMIT SIDDHESHWAR KAPLE
+A/P Akluj, Tal-Malshrius, Dis.-Solapur,413101
+Sumitkaple26@gmail.com | +91-9156077515 | 06-March-2004
+https://www.linkedin.com/in/sumit-kaple
+SUMMARY
+I’m a BBA Computer Applications student with hands-on experience in full-stack web
+development. I know how to work with Java, PHP, MySQL, HTML, CSS, and JavaScript.
+I'm passionate about building easy-to-use and efficient websites and looking for an
+opportunity to work on real projects, learn from others, and grow as a developer.
+SKILLS
+Frontend: HTML, CSS, Bootstrap, JavaScript, Basic React.
+Backend: C, C++, Core Java, Advanced Java, PHP, JDBC.
+Databases: MYSQL, MS Access.
+Tools & IDEs: GitHub, VS Code, Eclipse IDE, NetBeans, Visual Studio 2022.
+Key Skills: Full Stack Development, Java Development, SQL DB Management, Web
+Application Design.
+EDUCATION
+Bachelor of Business Administration (Computer Application)
+A.S.C. I. College, Indapur | Pune University
+- 2022 – 2025
+PROJECTS
+Task Management System
+Role: Full Stack Developer
+Technologies: PHP, MySQL, HTML, CSS, JavaScript
+Description: Built a task management system with features like task categories, deadlines,
+and status updates. Used PHP and MySQL for the backend and created a mobile-friendly,
+responsive design for the user interface.
+Employee Management System
+Role: Java Developer
+Technologies: Core Java, MySQL, HTML, CSS, JavaScript, Bootstrap
+Description: Created an employee management system to help HR manage attendance and
+payroll more easily. Built the backend with Core Java and MySQL, and used Bootstrap to
+make the front-end responsive. Helped reduce manual work by 40%.
+ACHIVEMENTS
+o Participated in problem-solving round using java at Vidya Tech Competition,
+Baramati, 2023
+o Web Development Essential - it-Vedant,2025
+o JavaScript Essential - it-Vedant,2025

@@ -1,0 +1,53 @@
+NIKHIL DUBEY
+SOFTWARE ENGINEER
++91 9098309221 | work.nikhildubey@gmail.com | LinkedIn | Github | Portfolio | Leetcode | GFG
+SUMMARY
+Final year Computer Science Engineering student passionate about Generative AI, Large Language Models (LLMs), and scalable AI systems. Skilled in
+Python, C++, SQL, and full-stack development, with hands-on experience in deep learning, transformers, prompt engineering, and vector databases.
+Experienced in building end-to-end AI applications, optimizing models, and integrating them into production-ready systems. Strong leadership
+background in coding communities and hackathons.
+TECHNICAL SKILLS
+Programming: Python, C++, SQL, JavaScript
+AI/ML & Generative AI: PyTorch, TensorFlow, Hugging Face, LangChain, OpenAI API, Pinecone, FAISS. n8n, Zapier, Make
+Web Development: React.js, Node.js, Flask, FastAPI, REST API
+Databases & Cloud: MySQL, MongoDB, Firebase, Google Cloud (GCP)
+Tools & Systems: Git/GitHub, Docker, REST APIs, Postman, Jupyter, Streamlit
+Concepts: Data Structures & Algorithms, Machine Learning, LLM Fine-tuning, RAG (Retrieval-Augmented Generation), Prompt Engineering, Scalable
+System Design
+PROJECTS
+StudySync - AI 2025
+Built an AI-powered study planner using Next.js, Firebase, and Google Gemini API, enabling students to generate personalized study schedules and
+receive task prioritization through a conversational chat interface.
+Implemented Firebase Authentication and Firestore integration for secure Google Sign-In, real-time task management, and persistent user data
+storage with role-based access rules.
+Developed accountability features including a prototype “Buddy Sync” system to connect students with peers, share progress, and enhance
+motivation, supported by a responsive, mobile-friendly UI (Tailwind CSS + shadcn/ui)
+Cognito – AI Voice Assistant 2025
+Developed an AI-powered voice assistant ("Cognito") using Next.js, TypeScript, and Google’s Gemini AI, enabling real-time speech-to-text, natural
+language processing, and text-to-speech interactions.
+Implemented voice-first features including intelligent command execution, note-taking system with local persistence, and application launcher,
+improving hands-free accessibility and user productivity.
+Integrated Firebase Hosting and Google AI Genkit flows for scalable deployment, ensuring secure API integration, responsive UI, and seamless AI
+driven query handling with modern design principles (Tailwind, Radix UI)
+EDUCATION
+Bachelors of Technology (B.Tech) Aug 2022 - Present
+Avantika University, Ujjain
+Major in Computer Science and Engineering
+7.75 CGPA
+Class 12 2021 - 2022
+Vidhyanjali International School, Barnagar (CBSE)
+88.4 %
+LEADERSHIP AND VOLUNTEERING
+GDG on Campus Organizer (Present)
+President – Programmers Club, Avantika University
+Directed 20+ events, coding competitions, and workshops
+Promoted peer learning and collaborative development
+Technical Lead – GeeksforGeeks Chapter Link
+Mentored juniors in DSA and project building
+Organized data science hackathons and training programs
+CERTIFICATIONS
+Full Stack Programming – Udemy
+Javascript – Udemy
+Python Programming- Udemy
+C Programming - Udemy
+MySQL Bootcamp - Udemy

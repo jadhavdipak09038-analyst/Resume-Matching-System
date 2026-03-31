@@ -1,0 +1,38 @@
+SANJANA C R
++91-98808-38875 | sanjanacr54@gmail.com | LinkedIn: www.linkedin.com/in/sanjana-c-r-
+587ab7359
+CAREER OBJECTIVE
+To secure a position in a reputed IT organization where I can contribute using my skills in programming,
+software development, web development, data analysis, and machine learning to drive organizational
+growth.
+EDUCATION
+Master of Computer Applications (MCA) — Ongoing
+The National Institute of Engineering, Mysuru | CGPA: 8.83
+Bachelor of Science (B.Sc.) in Computer Science, Physics — Mar 2024
+PES College of Science, Arts, and Commerce, Mandya | CGPA: 9.45
+Pre-University Course (PUC) — Apr 2021
+Sri Geetha Composite Excellence PU College, Mandya | Percentage: 96.66%
+TECHNICAL SKILLS
+• Programming Languages: C, Python (NumPy, Pandas, Matplotlib), Java
+• Computer Science concepts: Operating Systems, Software Engineering
+• Fundamentals of Data Structures and Algorithms
+• Environments: Windows
+• Web Development: HTML, CSS, JavaScript, AngularJS
+• Databases: SQL
+• Data and Machine Learning: Classification, Regression, Data Preprocessing
+• Productivity Tools: MS Word, Excel, PowerPoint, Google Drive
+CERTIFICATIONS
+• Google AI Essentials Specialization - Coursera, Authorized by Google
+[Verify](https://coursera.org/share/dfd1837255deedbab9bf8079ee346903)
+• Python Programming Fundamentals - Coursera, Authorized by Microsoft
+[Verify](https://coursera.org/share/f8fc4bb97f95096af8a477a783fa5433)
+INTERNSHIP
+Machine Learning Intern – Audaz Group of Training Company, Bangalore (Mar 2024 – May 2024)
+• Implemented ML algorithms (Regression, Classification) and data preprocessing techniques.
+• Applied ML on real datasets, gaining hands-on exposure to analytics workflows.
+PROJECTS
+-Student Fees Structure and Payment Portal (Academic Project)
+Technologies: HTML, CSS, JavaScript
+Developed a front-end web portal for managing student fees and payment records.
+LANGUAGES KNOWN
+Kannada, English

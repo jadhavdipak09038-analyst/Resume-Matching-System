@@ -1,0 +1,41 @@
+Harshal Modi
+harshal.modi@avantika.edu.in - +91 74895 94206 - GitHub: Harshalmodi17
+Education
+Avantika University (MIT ID), Ujjain
+Bachelor of Technology in Computer Science - CGPA: 8.0 (Expected 2022–2026)
+Schooling:
+Vidya Bhavan School, Ujjain (UKG–Class 6, Class 9 & 10)
+Takshshela School, Ujjain (Class 7 & 8)
+IBS Global Academy, Ujjain (Class 11 & 12) - Class 12 Aggregate: 83%
+Experience
+IoT Technology Mentor for Design Students (Dec 2022–Present)
+- Guided design students in integrating IoT solutions into projects.
+- Assisted in the practical implementation of IoT technologies.
+Chakraview Tech Fest Volunteer (Dec 2022–Present)
+- Organized a college-level Esports event with 50+ participants.
+- Assisted in event planning and coordination.
+Positions of Responsibility
+CIS Member (Aug 2024–Present)
+Projects
+Jalsanchay (Flutter, Python, TensorFlow, Flask, Heroku, AI/ML, Firebase)
+- Winner of SIH 2024.
+- Developed an AI-powered app to help farmers track water requirements for crops.
+Battle Info (ReactJS, Python, Flask, Draft.js, Firebase)
+- A website for BGMI esports enthusiasts to view the latest updates related to the game and tournaments.
+CurfewGuard (ReactJS, Firebase, ESP32, Fingerprint Sensor)
+- A hostel administration system to track students going out for outings using fingerprint authentication.
+Chakraview (HTML, CSS, JavaScript)
+- Official website for the college tech fest, containing event details and schedules.
+Achievements
+- Winner, Smart India Hackathon 2024 (Ministry of Jal Shakti - SIH1690).
+- CurfewGuard IoT project is in the process of IPR copyright registration.
+- Winner, Project Competition (Kaushal 5.0) hosted by CSI National Student Convention, Vaishnav College,
+Indore.
+1Skills
+Languages: Python, Dart, SQL, HTML/CSS
+Frameworks & Tools: Flutter, React, MySQL
+Computer Fundamentals: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP),
+Database Management Systems (DBMS)
+Developer Tools: Git, VS Code, Jupyter Notebook
+Design Tools: Figma
+2

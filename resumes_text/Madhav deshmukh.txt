@@ -1,0 +1,40 @@
+Madhav Kanta Deshmukh
+Full Stack Python Developer
+8485068701
+PROFESSIONAL SUMMARY
+Full Stack Python Developer with hands-on experience in building scalable and responsive web applications using
+Django, React.js, and relational databases such as MySQL and SQLite3. Skilled in designing and implementing
+RESTful APIs, role-based authentication, and delivering end-to-end solutions. Demonstrates strong problem-solving,
+teamwork, and adaptability, with proven experience developing School Management and Train Management Systems.
+TECHNICAL SKILLS
+• Backend: Python, Django, Django REST Framework (DRF), Core Java
+• Frontend: HTML5, CSS3, JavaScript, React.js
+• Databases: MySQL, SQLite3
+• Version Control: Git, GitHub
+• Tools & IDEs: VS Code, NetBeans
+• Soft Skills: Problem-Solving, Team Collaboration, Time Management, Leadership, Adaptability
+PROJECTS
+Developed a full-featured web-based transport management system designed to digitalize and automate MSRTC
+operations such as bus scheduling, route management, and ticket booking with role-based access for Admin, Staff, and
+Passengers.
+• Admin Module:
+• Manage bus routes, schedules, ticket prices, and staff details.
+• Monitor bookings, revenue, and real-time performance reports.
+• Approve or reject new route and driver entries.
+• Staff Module:
+• Manage bus information, maintenance logs, and assigned routes.
+• Update trip status, vehicle availability, and driver details.
+• View assigned tasks and shift schedules.
+• Passenger Module:
+• Search buses by route, destination, and travel date.
+• Book and cancel tickets online with real-time availability.
+• View booking history and download e-tickets.
+EDUCATION
+August 2021 – June 2025 B.Tech, Electronics And Telecommunication.
+Satara, India Dnyanshree Institute Of Engineering And Technology
+B.Tech degree in E&TC with current SGPA 6.3
+August 2019 – June 2021 HSC
+Satara, India Chhatrapati Shahu Academy, Satara.
+Completed my HSC in Science with 73.00%
+CERTIFICATIONS
+• Python Full Stack Development – ITVedant Private LTD (2025)

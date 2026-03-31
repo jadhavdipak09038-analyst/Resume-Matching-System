@@ -1,0 +1,47 @@
+Latika Gupta
++91 7208560823 | Email | LinkedIn | LeetCode | GitHub | Mumbai, India
+Education
+Fr. Conceicao Rodrigues College of Engineering Mumbai, India
+B.E. Electronics & Computer Science (Honours in AI/ML) Aug. 2023 – May 2027
+Narayana Junior College Mumbai, India
+Higher Secondary Certificate (Science) Jul. 2022 – May 2023
+Experience
+1Stop Remote
+Machine Learning Intern Jan. 2024 – Apr. 2024
+• Fine-tuned pre-trained models and implemented evaluation pipelines to benchmark model performance across
+tasks.
+• Built modular data preprocessing and model training scripts; implemented REST inference endpoints to integrate
+models with frontend services.
+• Improved model inference performance and aided reproducible experiment tracking.
+Mozilla Campus Club Mumbai, India
+Vice Chair Person Jul. 2025 – Present
+• Organized AI/ML and full-stack workshops; mentored students on model deployment, testing and best practices.
+• Led technical sessions on practical ML tooling and pipelines.
+Fr. CRCE Mumbai, India
+Head — Student Training & Placement Coordinator 2025 – Present
+• Coordinated placement training, mock interviews and recruiter interactions; designed DSA and system-design
+practice modules.
+Projects
+TechCollab | React, Flask, Socket.IO, ML June 2024 – Feb 2025
+• Built a full-stack collaboration platform with a real-time editor and session management APIs.
+• Integrated ML models for context-aware code suggestions and in-editor debugging assistance; added CI and basic
+testing for reliability.
+Patentra | SBERT, NLP pipeline, Flask, Firebase Jan 2025 – Feb 2025
+• Implemented semantic search using SBERT and classical ML models for CPC (classification) tagging and document
+recommendation.
+• Developed scalable Flask APIs and React frontend with Firebase authentication for document workflows.
+FaceMask | YOLO, DeepSORT, OpenCV, TensorFlow, PyTorch Dec 2023 – Jan 2024
+• Built a multi-camera face detection and tracking pipeline using YOLO and DeepSORT; served inference via Flask
+REST endpoints.
+• Achieved 95%+ face recognition accuracy and reduced ID-switches; deployed a React dashboard for monitoring and
+alerts.
+Technical Skills
+Languages: Java, Python, C
+Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, OpenCV
+AI/ML & Tools: Supervised & Unsupervised Learning, Deep Learning, YOLO, DeepSORT, SBERT, LLMs (DeepSeek)
+Web & Backend: React, Next.js, Django, Flask, Firebase, PostgreSQL, MongoDB
+Dev Tools: Git, GitHub, Vercel, Docker, Socket.IO
+Certifications & Achievements
+GenAI Apps with Streamlit (Google Cloud)
+100 Days of Code — Full Stack Web Development Bootcamp
+Hackathons: Smart India Hackathon, IIIT Lucknow Hackathon (Suraksha Netra)

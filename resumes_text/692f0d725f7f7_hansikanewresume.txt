@@ -1,0 +1,36 @@
+Hansika Saini
+§ GitHub | (cid:239) LinkedIn | E-mail: sainihansika97165@gmail.com | Mobile: +91 7988876205
+ABOUT
+Dedicatedandresults-drivenComputerSciencestudentwithknowledgeinWebDevelopment, DataStruc-
+tures & Algorithms, Operating Systems, Compiler Design, and Theory of Computation. Actively seeking
+a Software Engineer Internship to apply technical skills and problem-solving abilities. Skilled in collabo-
+rating with cross-functional teams and contributing to innovative, global technology projects.
+Projects
+NAUKRI-MITRA (Full stack job portal)
+• Created a comprehensive job portal featuring user authentication, job listings, and application track-
+ing.
+• Integrated front-end technologies (React.js, HTML, CSS) with a back-end framework (Node.js, Ex-
+press) and a database (MongoDB) for a seamless user experience.
+HANZELLE (Local Clothing Shop)
+• Built “Hanzelle”, a MERN-stack eCommerce website customized for a local clothing shop.
+• Added user authentication, product catalog, cart management, responsive UI, and an admin dash-
+board for inventory management and order tracking.
+• Currently enhancing features by improving UI/UX, adding advanced filters, and optimizing backend
+performance for better scalability.
+Education
+2022 - 2026 B.Tech CSE at DCRUST (Percentage:74)
+2022 Class 12th CBSE (Percentage:90)
+2020 Class 10th HBSE (Percentage:96)
+Skills
+Languages : C++, HTML, CSS, JAVASCRIPT, SQL
+Web Dev Tools : Node.js, Axios, Postman , MongoDB, Tailwind CSS
+Frameworks : Express.js , Bootstrap, React.js
+Concepts-Topics : Data Structures and Algorithms, OOPs, Operating Systems, TOC
+Extracurricular Activities & Achievements
+Extracurricular Activities:
+• Organizer at Rhythm Cultural Fest.
+• Member of Haryanvi Mandli (Dancing Society) , NSS (National Service Scheme).
+Achievements:
+• Participated in Smart India Hackathon (SIH).
+• Secured 2nd prize in Technova Technical Fest.
+• Secured 2nd prize in dance at Rhythm Cultural Fest.

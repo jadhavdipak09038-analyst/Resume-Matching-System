@@ -1,0 +1,33 @@
+PAVAN RAMI
+Vavol, Gandhinagar • +91 7859921623 • ramipavan001@gmail.com
+LinkedIn : https://www.linkedin.com/in/pavan-rami
+Github : https://github.com/PAVANRAMI001
+SUMMARY
+Passionate and motivated person with a keen interest in all areas of technology, including software,
+web, and mobile application development. Curious and adaptable, with a strong drive to explore
+emerging tools, learn continuously, and contribute innovative, user-focused solutions. Dedicated to
+growing as a versatile developer while making a meaningful impact through technology.
+PROJECTS
+E‑Commerce Mobile Application
+Developed a mobile e‑commerce application that enables shop owners to register their store
+with location details and manage their business digitally. The app allows owners to update
+shop information, add or remove products, and track orders with location details. Customers
+can browse available stores and use location‑based filters to find shops nearest to them,
+whether home‑based or physical stores.
+Web‑Based Communication Platform
+Built a web communication platform with room‑based chat functionality, allowing users to create
+and join rooms for real‑time interaction. Designed for simplicity, smooth performance, and
+user‑friendly communication.
+Hire‑Artist Platform
+Developed a platform for musical artists to showcase their talent by creating and managing
+profiles with photos, videos, and editable details. Users can search and filter artists based on
+skills, making it easier to discover and connect with performers.
+EDUCATION
+Diploma in Information Technology
+Gujarat Technological University, GP Gandhinagar
+SKILLS
+Programming : Python, JAVA , JavaScript ,C, C++, PHP , Assembly x86
+Front-End : React , React Native, Expo , next.js , JAVA
+Back-End : JAVA , Node.js, Express.js,next.js,API
+Database : MongoDB, MySQL
+Tools : Git, VS Code, Android SDK , Android Studio , Linux

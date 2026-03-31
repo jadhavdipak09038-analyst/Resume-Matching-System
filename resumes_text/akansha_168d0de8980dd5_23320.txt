@@ -1,0 +1,62 @@
+Akansha Manohar Pendorkar
+Nagpur, Maharashtra
+📧 akanshapendorkar96@gmail.com | 📧 +91 82759 65419
+www.linkedin.com/in/akansha-pendorkar-a27414375
+Objective
+Motivated and detail-oriented Data Science enthusiast with a solid foundation in Excel, Power
+BI, and MySQL, and hands-on experience in data cleaning, ETL, and data visualization. Seeking
+an entry-level position in Data Analytics to apply analytical skills and contribute to data-driven
+decision-making.
+Education
+ B.Ed – Physics & Mathematics, Nagpur University — First Class, 2024
+ M.Sc – Mathematics, Nagpur University — First Class, 2022
+ B.Sc – Science, Gondwana University — First Class, 2020
+Technical Skills
+ Concepts & Techniques: Data Cleaning & Transformation (ETL), Data Visualization &
+Dashboarding, Regression & Statistical Analysis, Predictive Modeling
+ MySQL: Data Queries, Joins, Subqueries
+ Tableau: Charts, Filters, Parameters, Clustering, Reference Lines, Dashboards
+ Power BI: DAX, Interactive Dashboards, Charts, Slicers
+ Data Analytics Tools: Excel (Advanced): PivotTables, VLOOKUP, Data Cleaning
+ Other Tools: Microsoft Office Suite (Word, PowerPoint, Outlook), Typing Speed: 30–40 WPM
+(English)
+Certifications
+ Master’s in Data Science & Analytics – In Progress
+ Cyber Security Awareness
+ Online Net BankingProjects
+Excel Dashboard – Student Mental Health During Online Classes
+ Analyzed survey data from over 1000 students on screen time, stress, sleep, and health
+issues
+ Built dynamic Excel dashboard using slicers and DAX
+ Reduced data interpretation time by 30%
+ Identified 20% of students at high risk for burnout
+SQL Project – Student Course Registration System
+ Designed and implemented a relational database schema using MySQL with tables:
+Students, Courses, Instructors, Registrations, and Grades
+ Populated tables with realistic sample data (200+ rows)
+ Performed complex SQL queries using JOINs, GROUP BY, and subqueries to extract:
+ - Number of students per course and instructor
+ - Students with pending registrations or no grades
+ - Course-wise average grades and pass percentages
+ Created views for performance reports and dashboards
+ Ensured referential integrity and optimized query performance
+Power BI Project – Contoso Sales Interactive Dashboard
+ Improved decision-making capability by highlighting high-performing and
+underperforming segments
+ Enabled dynamic drill-through and cross-filtering for detailed business insights
+ Visualized KPIs such as Total Sales, Profit Margin, and Sales by Product Category
+ Built an interactive Power BI dashboard with filters, slicers, and DAX measures
+ Used Contoso Sales dataset to analyze sales performance across regions, products, and
+time periods
+Power BI Project – Sales Analysis and Profit Trends Interactive Dashboard
+ Designed and developed an interactive Power BI dashboard to analyze sales performance,
+profit margins, and customer segments.
+ Created KPIs and DAX measures for dynamic reporting, including sales forecasting and
+profitability analysis.
+ Visualized regional trends, product category performance, and discount impact, enabling
+data-driven decision-making.Core Strengths
+ Strong analytical and quantitative skills
+ Effective data storytelling and reporting
+ Self-motivated and quick learner
+ Comfortable working both independently and in teams
+ Fluent in English, Hindi, and Marathi

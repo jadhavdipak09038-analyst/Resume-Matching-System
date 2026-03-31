@@ -1,0 +1,38 @@
+P Sagar
+India | saisagaryadav143@gmail.com | 8978721002 | linkedin.com/in/sagar-yadav-7460a328b
+Career Objective
+PassionatePythonFullStackDeveloperwithexpertiseinPythonanddatabases,alongwithknowledgeofDjango
+andReact. Skilledinbuildingscalable,efficientwebapplicationsandAPIs. Eagertoworkinadynamicand
+collaborativeteamenvironment,leveragingtechnicalskillstodeliverinnovativesolutions. Aspiringtocontribute
+tocutting-edgeprojectsthatimproveuserexperienceswhilegrowingprofessionallyinafast-paceddevelopment
+setting.
+Education
+SriVenkatesaPerumalCollegeofEngineeringandTechnology,Puttur–MCA 2022–2024
+• CGPA:7.0
+BSRDegreeCollege,Tirupati–B.ScinComputerScience 2019–2022
+• CGPA:7.7
+NRIJuniorCollege,Tirupati–Intermediate(10+2) 2017–2019
+• CGPA:8.3
+JnanaJyothiVidyaMandir,Puttur–SSC 2017
+• CGPA:9.0
+Projects
+Multi-ClassKidneyAbnormalitiesDetectingNovelSystemThroughComputedTomography June2023–Dec2023
+• BuiltanautomatedsystemtodetectandclassifykidneyabnormalitiesusingCTscanimages.
+• Preprocessedmedicalimagedatasetsandappliedaugmentationforimprovedmodelgeneralization.
+• UsedConvolutionalNeuralNetworks(CNNs)withTensorFlowandKerastoachievehighaccuracy.
+• DeployedthesystemusingFlaskforreal-timeinferencewithauser-friendlywebinterface.
+• ProjectStack: Anaconda(Software),Python(PrimaryLanguage),Flask(FrontendFramework),Jupyter
+Notebook(Back-endEnvironment),SQLite3(Database),HTML,CSS,JavaScript,Bootstrap4(Front-End
+Technologies)
+• TechnologiesUsed: Python,TensorFlow,Keras,OpenCV,Flask,NumPy
+Technical Skills
+• Languages: Python,SQL
+• Libraries: Pandas,NumPy,Matplotlib
+• Frameworks: Django,Flask
+• Databases: MySQL,NoSQL
+• Tools: Git,VSCode,JupyterNotebook
+Training
+FullStackPythonDevelopment–PySpidersInstitute,Bengaluru June2024–Jan2025
+• Completedhands-ontraininginPythonfull-stackwebdevelopment.
+• BuiltRESTfulAPIsandfront-endinterfacesusingDjangoandReact.
+• Workedonreal-timemini-projectsintegratingdatabaseanddeployment.

@@ -1,0 +1,48 @@
+JEETU LODHI
+[Software Developer]
++91-7906296372 jeeturajput0010gmail.com Rampur, Uttar-Pradesh, India
+OBJECTIVE
+To work in a dynamic environment that fosters innovation and growth, where I can apply my skills to
+contribute meaningfully to organizational success while enhancing my professional expertise.
+EDUCATION
+High School form Up Board (2021-2022)
+Intermediate from Up Board (2022-2023)
+B. Tech (Computer Sc. & Engg.) (2023 – Pursuing)
+IFTM University, Moradabad, Uttar-Pradesh
+SKILLS
+F rontend Development
+Backend Development
+Problem - Solving
+Po werPoint Presentation
+Communication Skills
+AI/ML Basics
+PROJECTS
+AI-Powered Career Recommendation App
+• Built ML-powered recommendation engine (classification + NLP) trained on 10K+ profiles,
+achieving 92% accuracy in predicting career roles.
+• Enhanced match relevance by 65% with multi-factor scoring; reduced decision-making time by 40%
+via interactive React + Tailwind UI.
+• Integrated Open-AI API for resume analysis & insights, boosting precision by 30%; pilot-tested with
+200+ users, achieving 85%+ satisfaction.
+• Deployed on AWS (Node.js + MongoDB + Socket.IO), supporting 5K+ concurrent users with <200ms
+latency.
+Weather App
+• Built a real-time weather application using React.js and OpenWeatherMap API to display live
+temperature, humidity, and weather conditions.
+• Implemented city-based search, dynamic UI updates, and responsive design for mobile and desktop
+users.
+• Utilized React Hooks (useState, useEffect) for API integration and state management.• Ensured error handling for invalid user inputs and optimized API calls for faster response.
+Realtime Device Track
+• Developed a Realtime Device Tracking System using React, Node.js, Express, MongoDB, and
+Socket.io
+• Integrated Google Maps API to display live device locations with dynamic marker movement
+• Implemented WebSocket communication for instant location updates without page reload
+• Designed a responsive and modern UI for smooth user experience across all devices
+• Ensured secure user authentication and data storage using JWT and MongoDB
+• Showcased strong skills in full-stack development, API integration, and real-time data handling
+LANGUAGES
+• Hindi
+• English
+Certificates
+• Hack Shastra Hackathon
+• Innovation Hackathon of TechFEST’25

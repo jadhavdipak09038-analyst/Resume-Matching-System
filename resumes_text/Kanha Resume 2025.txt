@@ -1,0 +1,42 @@
+Kanha Yadav
+Delhi, Gurugram
++91-9560709505 Email GIT Linkedin
+EDUCATION
+National Institute of Technology, Jamshedpur 06 2023 – Present
+MCA – Computer Applications - CGPA - 7.54 Jamshedpur
+Jagannath University 07 2021 – 05 2024
+BCA – Computer Applications - Percentage - 74% New Delhi
+COURSEWORK / SKILLS
+Computer Networks
+• Data Structures & • Object-Oriented •
+Algorithms Programming (OOP) Familiarity with AI/ML
+•
+• Operating Systems • Database Management Concepts
+Systems
+PROJECT
+AI Flappi Bird | JavaScript, HTML5 Canvas, Genetic Algorithms, GitHub, Netlify 10 2025
+Integrated a Neural Network with a Genetic Algorithm (GA) to create an AI agent that learns to autonomously play Flappy
+•
+Bird.
+Simple CND | Node.js, Netlify, Tailwind, Github, React.js 08 2025
+Created a lightweight tool to host and serve private images via Netlify, reducing load time and improving SEO of external
+•
+sites. Automated the image Fetching and URL generation to offload heavy assets securely.
+INTERNSHIP
+Rejuve India Meditor 06 2023 – 07 2023
+SEO & Digital Marketing Intern Gurugram, India
+Conducted keyword and competitor research, fixed errors via Google Search Console, and implemented on-page SEO
+•
+optimizations, resulting in an 18% improvement in site performance.
+TECHNICAL SKILLS
+Languages: Java (Academic), C, C++ (DSA), JavaScript (Learning), SQL(basic)
+Developer Tools: VS Code
+Technologies/Frameworks: Linux, HTML5/CSS3, Tailwind, GitHub, ReactJS(Learning), NodeJS(Learning), Git
+EXTRACURRICULAR(ACHIEVEMENTS)
+Google Code – in 2017 – 2019
+Role Remote
+Contributed to open-source organizations (e.g., OpenMRS) over two years as a selected participant.
+•
+Completed front-end and design tasks (HTML, CSS, JavaScript), gaining practical experience in Git version control,
+•
+structured project workflows, and meeting deadlines.

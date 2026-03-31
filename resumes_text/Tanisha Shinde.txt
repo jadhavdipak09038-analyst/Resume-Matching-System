@@ -1,0 +1,45 @@
+Tanisha Shinde
+tanisha.shinde@adypu.edu.in | linkedin.com/in/tanisha | Pune, Maharashtra
+PROFESSIONAL SUMMARY
+Computer Science Engineering student with practical experience in Python, Django, React, and JavaScript. Passionate about developing
+web applications and eager to contribute technical expertise in an internship role, delivering impactful solutions while collaborating in
+dynamic team environments.
+EDUCATION
+Ajeenkya DY Patil University CGPA: 9.30/10
+Bachelor of Technology in Computer Science Engineering Aug 2022 – May 2026
+Nowrosjee Wadia College Percentage: 66%
+Higher Secondary Education June 2020 – March 2022
+St. Francis De Sales School Percentage: 86.80%
+Secondary Education June 2007 – April 2020
+TECHNICAL SKILLS
+• Languages: JavaScript, HTML, CSS, Python, Java, SQL
+• Frameworks: React, Django, REST APIs
+• Database: MySQL
+• Developer Tools: Git, GitHub, VS Code, Postman
+PROJECTS
+MovieHub [Live Demo] | React, JavaScript, REST APIs May 2025 - Jun 2025
+• Built a responsive movie listing web application with dynamic data fetched from the TMDb API.
+• Implemented a search feature to `ilter movies by title upon user input submission.
+• Designed a two-page layout: one to browse movies and another to view user-selected favorites.
+• Used React Router for navigation and localStorage for persisting favorite selections across sessions.
+NGO Webapp | Python, Django, HTML, CSS Nov 2024 – Dec 2024
+• Developed an automated reporting system that captures user location (longitude and latitude) and forwards incident reports to the
+nearest NGO for rapid response.
+• Integrated Django’s email framework to automatically dispatch images and report details, improving communication and
+operational ef`iciency for NGOs.
+• Designed and implemented a fully responsive user interface with a robust Django-based backend architecture, ensuring seamless
+user experience, and ef`icient coordination between users and NGOs.
+Architecture Firm Website [Live Demo]| Python, Django, HTML, CSS, JavaScript Jan 2025 - Feb 2025
+• Developed and deployed a dynamic website with sections like Home, About, Services, Projects, Team, Testimonials,
+Contact, Book Appointment, and Timeline.
+• Integrated an AI-powered chatbot to answer queries based on selected services.
+• Utilized Django for robust backend management, ensuring ef`icient data handling and seamless performance.
+EXTRACURRICULR ACTIVITIES
+• Table Tennis Event Lead:
+Led a 10-member team for an inter-college table tennis competition with 100+ participants, managing logistics, rulebook
+creation, and execution.
+• Volunteer, Dance & Sports Events:
+Assisted in executing cultural and sports events with 200+ attendees by handling setup, participant coordination, and managing
+on-site operations.
+RELEVANT COURSEWORK
+Software Engineering, DBMS, Operating Systems, Data Structure & Algorithms, Web Development, Computer Networks.

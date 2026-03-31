@@ -1,0 +1,65 @@
+Pallavi Vishwas Patil
+Ph.: 9356862288 Email: pallavi.patil1@adypu.edu.in, pallavipatil5304@gmail.com
+Location: Pune, India
+Brief Summary:
+Motivated and enthusiastic computer science undergraduate with a passion for turning ideas into
+code. Specializing in software engineering with hands-on experience from virtual internships. Excited
+by web development, AI, and embedded system ready to build, learn, and innovate in tech. As I step
+into the tech world, I’m eager to contribute to meaningful projects, grow with a dynamic team, and
+help shape the future through technology.
+Education:
+Institution Course
+Ajeenkya D Y Patil University (2022 – 2026) B.Tech in Computer Science Engineering
+(Software Engineering) – CGPA (up to 6th sem):
+7.39
+Dnyandeep English Medium School & Junior 12th standard SSC - 77.83%
+College, Sangli
+Smt. R N Patil Girls High School & Jr. College, 10th standard SSC – 92.4%
+Sangli
+Skills:
+Technical Life Skills
+• Programming: Java, Python, C, C++ • Self-Directed
+• Web: HTML, CSS, JavaScript • Avid time keeper
+• Tools: Git, GitHub, VS Code, Android Studio, • Multitasking
+Google Colab, Jupyter Notebook • Adaptability
+• Operating Systems: Windows, Linux • Ownership
+• Database: MySQL • Keen learner
+• Customer Interaction Management • Creative Thinker
+Languages:
+• English - Proficient in speaking and writing
+• Hindi – Proficient in speaking and writing
+• Marathi – Proficient in speaking and writingProjects:
+1. Student Management System | Java (Console-based)
+Developed a console-based application to manage student records with features like
+add, update, and view details using OOP concepts and collections.
+2. Library Database System | MySQL
+Designed and implemented a relational database for managing books, members, and
+borrow records; performed queries for data retrieval, aggregation, and reporting.
+3. Cozy Cafe Website | HTML, CSS, JavaScript
+Built a responsive multi-page café website featuring menu display, contact form, and
+animations using JavaScript and CSS styling.
+4. Smart Campus Portal | Python, HTML, CSS
+Developed a complete multi-page college portal website using Python’s built-in HTTP
+server. Designed sections for Home, About, Courses, Students, and Contact to
+demonstrate full-stack web development and user-interface design skills without
+external frameworks.
+Internships & Certifications:
+1. Google AI-ML Virtual Internship (AICTE-EduSkills): Focused on building foundational ML
+models using TensorFlow and deploying them with Google Cloud.
+Key areas focussed: Machine Learning, Neutral Networks, GCP, Tensor Flow.
+2. Microchip Embedded System Developer Virtual Internship (AICTE-EduSkills): Project based
+training in embedded system and microcontroller coding.
+Key areas focussed: Embedded C, MPLAB X IDE, and Microcontroller Programming.
+3. Mobile Application Development: Developed a mobile module to allow students to view,
+add, and manage their class schedules with an intuitive weekly/daily layout.
+Key areas focussed: Mobile UI Design, State Management, Local Storage, Form Handling,
+Date-Time Logic, Responsive Design, Flutter/React Native
+Hobbies:
+• Exploring new technologies
+• Painting and clay art
+• Pet enthusiast
+Conclusion:
+With a strong academic foundation and a passion for technology, I am eager to contribute to
+innovative projects and grow alongside experienced professionals. I bring a curious mind, a
+collaborative spirit, and a commitment to continuous learning—ready to turn ideas into impactful
+solutions in the ever-evolving world of tech.

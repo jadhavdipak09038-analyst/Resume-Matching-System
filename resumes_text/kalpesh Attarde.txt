@@ -1,0 +1,54 @@
+KALPESH ATTARDE
++91 9529314215 | officialkalpeshattarde@gmail.com | Mumbai, Maharashtra
+LinkedIn – kalpeshattarde | Github – kalpeshattarde
+SUMMARY
+Insight-driven professional with expertise in ETL processes, query optimization, data
+analysis, dashboard development, and KPI reporting. Proven ability to accelerate
+reporting, enhance business intelligence, and leverage data to support business
+growth and performance improvement.
+SKILLS
+• Language: SQL
+• Database: MySQL
+• Visualization Tools: Microsoft Excel, Google Worksheet, Power BI, Tableau
+PROJECTS
+1. Domino’s Pizza Dashboard (Power BI)
+• Created interactive dashboards to analyze sales and revenue trends using Power BI
+and DAX.
+• Reduced reporting time by 40% with automated data aggregation and visualization.
+• Delivered insights that supported pricing and marketing strategies.
+2. FedEx Operation Analysis Dashboard (Tableau).
+• Built an interactive Tableau dashboard to analysze profit, revenue, and shipment
+performance across regions.
+• Used calculated fields and visual KPIs for insights on category, region, and shipment
+mode.
+• Enhanced decision-making and reduced manual reporting time by 35%.
+3. MovieMatrixDB (SQL)
+• Designed a normalized SQL database for media analytics and user engagement
+reporting.
+• Optimized queries to cut data retrieval time by 30%, enabling faster decision-making.
+• Provided actionable insights for content strategy and platform growth.
+CERTIFICATIONS
+• Career Essentials in Data Analysis by Microsoft and LinkedIn
+Skills: Microsoft Excel, Power BI, MySQL, Data Analysis, Data Visualization
+• Career Essentials in Generative Al by Microsoft and LinkedIn
+COURSEWORK
+Master’s in data science & data Analytics with AI Jun 2025-Present
+IT Vedant Education Pvt. Ltd.
+• Advance Microsoft Excel
+• SQL Mastery
+• PowerBI Essential• Tableau Essentials
+EDUCATION
+Bachelor of Computer Application (BCA) 2022 –2025
+Rabindranath Tagore University, MP
+HSC (12th) 98.3%
+Maharashtra State Board 2021
+VOLUNTEER EXPERIENCE
+1.Business Consultant- (Freelance) 2024 –2025
+Pancham Farmers Producer Company Ltd.
+• Implemented data-driven strategies that increased sales by 65%, reduced
+production costs by 26%, and boosted YoY revenue by 45% and profits by 23%.
+• Applied Microsoft Excel Dashboard for operational analysis, enabling leadership
+to identify growth opportunities and improve efficiency.
+• Supported organizational planning and process optimization, helping scale an
+agroprocessing startup and MSME factory.
+2.Completed Government certified Entrepreneurship Development Program (EDP)

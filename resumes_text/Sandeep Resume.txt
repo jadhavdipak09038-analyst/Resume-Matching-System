@@ -1,0 +1,29 @@
+SANDEEP KHALIYA
+Phone: +91-9121415265 | Email: sandeepkhaliya286@gmail.com
+PROFILE
+AI & Data Analytics professional passionate about transforming raw data into meaningful insights. Skilled in
+Machine Learning, Data Visualization, and Automation. Adept at solving business problems through data-driven
+models and storytelling using Power BI, Python, and SQL.
+EXPERIENCE
+Sales Data Analytics Intern | Sri Navdurga Billets (P) Ltd. | May–July 2025
+• Conducted sales trend analysis, automated dashboards using Power BI & Python.
+• Reduced manual reporting by 40% and delivered insights expanding sales in 3 regions.
+• Presented weekly performance insights to management for data-backed decisions.
+PROJECTS
+Water Quality Prediction using ML – Developed ML model to predict Water Quality Index using real-world datasets.
+Avan AI Chatbot – Built AI chatbot using LangChain & HuggingFace for university assistance.
+Sales Dashboard – Created Power BI dashboard with KPIs, filters & trend visualizations.
+Car Sales Dashboard – Visualized customer, revenue & product insights with interactive metrics.
+Smart Sewage Monitoring System – IoT-based sensor model for wastewater treatment—copyrighted under Intellectual
+Property India.
+SKILLS
+ Data Analytics: Power BI, Excel (Advanced), Python (Pandas, NumPy, Matplotlib), SQL
+ Machine Learning: Model Training, Data Preprocessing, Feature Engineering, Validation
+ AI Tools: LangChain, HuggingFace, FAISS, Streamlit
+ Soft Skills: Analytical Thinking, Communication, Business Storytelling, Problem Solving
+CERTIFICATIONS
+ PrepInsta – Python, SQL, Tableau, C++, DSA & Analytics
+ Cisco – Computer Networks, Operating Systems, Cybersecurity Essentials
+ Infosys Springboard – AI & Data Analytics
+EDUCATION
+B.Tech. in Computer Science & Engineering – Avantika University, Ujjain (2022–2026)

@@ -1,0 +1,49 @@
+Dhananjay G. Kharkar
+Nagpur, Maharashtra, 441501
+(cid:211) +91-9595167618  dkharkar00@gmail.com  Dhananjay Kharkar (cid:135) dhananjaykharkar
+SUMMARY
+Enthusiastic IoT and AI developer with hands-on experience in environmental monitoring and data-driven decision
+support. Skilled in ESP32, MQTT, Node-RED, SQL, Firebase, and Streamlit for real-time data acquisition and
+dashboards. Eager to apply IoT-enabled monitoring, data visualization, and predictive analytics to support
+environmental research and sustainability studies.
+EDUCATION
+JD College of Engineering & Management Nov 2022 – Pursuing
+BTech in Artificial Intelligence CGPA: 8.84 / 10 Nagpur, Maharashtra
+Lokmanya Junior College, Warora June 2021 – April 2022
+HSC - Maharashtra Board - Percentage - 64% Warora, Maharashtra
+PROJECTS
+Real-Time IoT Data Monitoring System  | ESP32, MQTT, Node-RED, SQL Server, Grafana
+• Developed and deployed a real-time IoT data pipeline using ESP32 and MQTT to simulate temperature and
+humidity readings, enabling end-to-end data acquisition and transmission.
+• Automated data ingestion and transformation workflows via Node-RED and stored structured sensor data in
+SQL Server, ensuring consistency and reliability in backend storage.
+• Designed dynamic dashboards using Grafana and Node-RED for real-time and historical trend monitoring,
+and implemented alerting logic to trigger automated Email and SMS notifications on threshold breaches.
+Real-Time Smart Agriculture Dashboard  | ESP32, Firebase, Streamlit, Plotly, OpenWeather API
+• Developed a real-time Smart Agriculture Monitoring System using ESP32 to simulate sensor data
+(temperature, pH, TDS, turbidity) and pushed to Firebase Realtime Database with secure authentication.
+• Built an interactive Streamlit dashboard with Plotly-based trend charts, live gauges, threshold-based alerts,
+and multi-page navigation (Weather, Sensors, Logs).
+• Integrated OpenWeatherMap API for real-time weather data and ensured modular architecture for future
+support with physical sensors.
+INTERNSHIP
+CSE Dept., Visvesvaraya National Institute of Technology  June 2025 – July 2025
+IoT & Data Analytics Intern Nagpur, Maharashtra
+• Worked hands-on with basic sensors including temperature (DHT11), ultrasonic, TDS, GPS, soil moisture, and
+LDR modules using Arduino UNO and Mega 2560 for foundational data acquisition and control systems.
+• Developed a real-time IoT data pipeline using ESP32, MQTT, and Node-RED to simulate and process
+temperature and humidity readings; stored structured data in SQL Server and visualized trends via Grafana and
+Node-RED dashboards.
+• Implemented threshold-based alerting via Email/SMS and integrated multiple sensor types for real-time
+monitoring.
+TECHNICAL SKILLS
+Languages: Python, SQL, Embedded C
+Data Analysis: Pandas, NumPy, Matplotlib
+Visualization: Grafana, Streamlit
+Databases: MySQL, SQL Server, Firebase
+IoT & Embedded Systems: ESP32, Arduino, MQTT (Mosquitto), Node-RED
+Tools & Frameworks: VS Code, Git, GitHub
+CERTIFICATIONS
+• The Joy of Computing using Python – NPTEL
+• Data Analysis with Python – Coursera
+• Analysing IoT Data using Python – Datacamp

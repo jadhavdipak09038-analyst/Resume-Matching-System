@@ -1,0 +1,34 @@
+Mukund Kumar Jha
+Front-End Developer
+Darbhanga, Bihar
+Phone: 9507744053
+Email: mukundkumarjha728@gmail.com
+LinkedIn: linkedin.com/in/mukund-kumar-jha-24968428b
+Career Objective
+Motivated Front-End Developer with strong skills in HTML, CSS, and JavaScript. Passionate about
+building responsive, user-friendly web interfaces and continuously improving through practical projects
+and self-learning.
+Education
+Bachelor of Computer Applications (BCA)
+Maharshi Dayanand University (MDU)
+2023 – Present (3rd Year)
+Technical Skills
+(cid:127) HTML
+(cid:127) CSS
+(cid:127) JavaScript
+(cid:127) Git & GitHub
+Projects
+ChatGPT Clone
+Built a chatbot interface with real-time prompts and modern UI using Next.js and Firebase.
+Jarvis (Python Assistant)
+Developed a voice-powered assistant using Python capable of performing system tasks and
+responding to queries.
+Zomato Frontend Clone
+Designed a responsive food delivery UI using HTML, CSS, and JavaScript.
+Languages
+(cid:127) Hindi
+(cid:127) English
+Interests
+(cid:127) Web Development
+(cid:127) AI & Chatbots
+(cid:127) Tech Content Creation

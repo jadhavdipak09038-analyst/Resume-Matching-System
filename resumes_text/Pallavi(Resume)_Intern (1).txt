@@ -1,0 +1,49 @@
+CURRICULUM VITAE
+PALLAVI
+✆ +91 9953442218
+✉ pallavikaushik408@gmail.com
+LinkedIn: https://www.linkedin.com/in/pallavi-kaushik-a868a2325
+Address: Parvatiya Colony, Faridabad, Haryana
+__________________________________________________________________________________
+Career Objective
+Motivated and detail-oriented BTech (CSE) student seeking a challenging position in a
+reputable organization to expand and utilize my learning, skills, and knowledge.
+Technical Skills
+• Languages: C, C++, Java (Basic), Python, SQL, ML(Basic)
+• Web Technologies: HTML, CSS, JS
+• Tools: MS Word, Excel, PowerPoint,Power BI
+Education
+ BTech - Computer Science Engineering (Pursuing) Echelon Institute of Technology,
+Faridabad - 8.415 cgpa
+ 12th (CBSE Board) 84% (2022)
+ 10th (CBSE Board) 84% (2020)
+Certifications
+ Web Development – Centre of Excellence
+ Advanced Desktop Publishing – IGDTI
+ Java Development – Code squadz
+ Communication Skills: Personality & Behaviour – Centre of Excellence
+ CPP_Programming -IGDTI
+ Introduction to MongoDB for Students
+Projects
+ Sentiment Analysis in Machine Learning
+Built a model to analyze and classify text as positive, negative, or neutral using
+Python and ML algorithms.
+ Voice Recognition-based Personal Assistant
+Built an AI assistant using speech recognition and TTS libraries.
+Enabled voice-controlled web search, application handling, and task automation. Bank Management System in C++
+Developed a console-based system for handling bank operations like deposit,
+withdrawal, and account management.
+ Heart Disease Prediction Using Machine Learning
+Implemented a model to predict heart disease risk based on health data using
+classification algorithms in Python.
+Achieved 88% accuracy using patient health records.
+Hobbies & Interests
+ Playing Chess
+ Solving Puzzles
+Personal Details
+Date of Birth: 25 February 2005
+Father's Name: Mr. Vinay Kumar
+Declaration:
+I hereby declare that the details furnished above are true and correct to the best of my
+knowledge and belief. I take full responsibility for the accuracy of the information
+provided.

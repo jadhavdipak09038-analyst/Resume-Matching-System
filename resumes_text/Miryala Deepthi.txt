@@ -1,0 +1,53 @@
+Miryala Deepthi |
+(cid:72) (+91 8555933518) • (cid:66) miryaladeepthi2005@gmail.com
+Education
+Indian Institute of Information Technology, Tiruchirapalli
+B. Tech in Computer Science and Engineering 2022–2026
+Amaravathi Junior College
+12th MPC 2020–2022
+Experience
+Null Class Remote
+Full stack Developer Intern Summer 2025
+• Developed a full-stack Stack Overflow clone, implementing core features including user authentication,
+question/answer posting, and voting mechanisms using the MERN stack.
+•AchievedseamlessCRUDfunctionalityandsecuresessionmanagementwithJWT,improvinguserinteraction
+efficiency.
+Quick Shop Grocery Delivery Website
+Full stack Developer 2025
+• Built a responsive e-commerce platform using React.js for front-end and Node.js/Express.js for backend
+APIs.
+• Managed MongoDB database for users, product catalog, and orders.
+• Implemented JWT and Email OTP authentication for secure user access.
+• Deployed the front-end on Vercel and the back-end on Render/Heroku for reliable scalability.
+Projects
+Virtual Queue Management System
+Full-stack Developer 2024
+• Designed modular and scalable system architecture managing multiple service counters.
+• Built intuitive Employee and Admin interfaces for real-time customer queue management, • Leveraged
+SQL and Python to analyze user behavior data, driving actionable insights that improved task completion
+rates and system usability.
+School Management System
+Full-stack Developer 2023
+• Developed an end-to-end web application to automate administration, student progress tracking, and
+centralized data management.
+• Front-end: React.js, Styled Components; Backend: Node.js, Express.js; Database: MongoDB; Authentica-
+tion: JWT.
+• Features included Dashboard, Assignments, Attendance, Exams, Notifications, Calendar.
+Technical Skills
+Programming Languages: Python, JavaScript, C, Bash, HTML, CSS
+Frameworks & Libraries: React.js, Node.js, Express.js, MERN Stack
+Databases: MongoDB, MySQL
+1/2Tools: Git, Postman, Figma, , Power BI, Excel,canva
+Platforms: mac Os, Windows, Ubuntu
+Soft Skills
+Problem Solving,Strong Communication,Teamwork,Wire framing,Critical Thinking,Adaptability
+Certifications
+2023: AI Training & Internship in Academia (2 months)
+2023: Power BI Certification
+2024: Python for Data Science – IBM
+Extracurricular Activities
+Media Club Member, IIIT Trichy
+Fine Arts Club Member, IIIT Trichy
+Organized Aahladh’23 Cultural Festival at IIIT Trichy
+Volunteered in IIIT Trichy Cultural Fest
+2/2

@@ -1,0 +1,49 @@
+Sathish
+Kumar
+Data Analyst
+I am Sathish, a B.Tech AI and Data
+Science student with basic skills in Python,
+SQL, and Excel. I enjoy learning through
+SKILLS
+small projects and online courses, and I
+am actively improving my technical
+abilities.
+Python
+82%
+EDUCATION
+SQL
+70%
+2021-2023
+Machine Learning
+Don Bosco school of education
+62%
+Higher Secondary Education
+Excel
+Percentage:83%
+85%
+PowerBI
+2023-2027 80%
+P.S.V College of engineering & Technology
+B.Tech(Artificial intelligence and data science) ACHIEVEMENTS
+Percentage:81%
+NPTEL:Python for Data Science
+PROJECTS
+LinkedIn:Python for beginners,
+Advanced python
+LinkedIn:Excel essential training
+Kaggle:pandas,Data visualization ,
+2025-Jul
+Machine learning
+Sales Forecasting
+Developed a sales forecasting model
+using Python and Linear Regression to
+CONTACT
+predict future sales trends.
+2025 - present
++91 86105 25967
+BMI Tracker with personal assistance
+sathiyasathish103@gmail.com
+Developed a BMI tracking app that
+calculates BMI and provides personalized
+Tirupattur,Tamilnadu
+health suggestions.

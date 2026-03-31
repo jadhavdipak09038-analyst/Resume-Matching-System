@@ -1,0 +1,40 @@
+Vedhiha Sri V.S
+26/57 Palakarai – Trichy, Tamil Nadu LeetCode | GitHub
+I 8148653781 • # vedhihasrinivasan@gmail.com • (cid:240) vedhiha-sri-srinivasan/
+OBJECTIVES
+Computer Science student with a strong programming foundation, eager to apply knowledge in real-world challenges. Motivated,
+adaptable, and committed to contributing effectively while continuously learning and growing.
+EDUCATION
+SNS College of Technology, Coimbatore:
+B.E. Computer Science and Engineering, CGPA - 8.4 (till 6th Semester): 2022–2026
+St.James.Matriculation.Hr.Sec.School:
+HSC: 83% 2021–2022
+SSLC: 76% 2019–2020
+SKILLS
+Technical Skills: HTML, CSS, Bootstrap, JavaScript , React , Python, SQL,Git
+Soft Skills: Teamwork, Leadership
+Tools: Excel, Canva, Github
+AREA OF INTEREST
+•Web Development
+INTERNSHIP
+WEBGEN TECH SOLUTIONS PVT.LTD | WEB DEVELOPMENT
+Jul 2025
+• Gained hands-on experience in building interactive and responsive websites using HTML, CSS, and JavaScript.
+• Explored front-end development techniques and implemented UI/UX structuring to enhance user experience.
+Codsoft | PYTHON PROGRAMMING
+Jul 2024
+• Enhanced programming skills by working on real-world tasks and gaining hands-on experience in problem-solving.
+• Strengthened core Python concepts such as variables, loops, conditionals, functions, and data structures.
+PROJECTS
+HERWELLNESS | JAVASCRIPT | BOOTSTRAP | REACT JS | DJANGO Sept 2025
+• Completed HerWellness, a React-based web application with a responsive UI that helps users track menstrual cycles, symptoms,
+wellness patterns.
+• Provides personalized notifications and insights to help users manage their overall wellness effectively.
+TUTORIX | AI-LEARNING PLATFORM | GOOGLE GEMINI API | HTML | CSS | JAVASCRIPT Oct 2024
+• Built an interactive web app where students can submit PDFs, images, or text to ask questions.
+• Enabled teachers to create quizzes and assignments, emphasizing a clean and intuitive design for a smooth user experience.
+CERTIFICATIONS
+• Python(Basic) | Hackerrank 2025
+• SQL(Basic) | Hackerrank 2025
+• Software Conceptual Design, NPTEL 2024
+• Developer and Technology Job Simulation | Accenture 2024

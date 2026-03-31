@@ -1,0 +1,63 @@
+Rishi Mishra
+Prayagraj Uttar Pradesh, India
++91-7987474856 mishrarishi690@gmail.com LinkedIn
+EDUCATION
+DR. A.P.J. Abdul Kalam University 2021 – 2025
+Bachelors Of Technology (CSE) - CGPA – 8.0 Prayagraj, India
+Jawahar Navodaya Vidyalaya 2018 – 2020
+Intermediate - Percentage – 85.6% Baikunthpur, Chhattisgarh, India
+COURSEWORK / SKILLS
+• Power BI • SQL -Excel
+• Python (Pandas) • PostGre SQL -Power Query
+PROJECTS
+Dashboard project in Excel:
+- Used hospital data and their employee data from the CSV file.
+- Created Dashboard Project in excel for the Hospital data.
+- In which slicers and macros and pivot table are used to make it interactive.
+Dashboard in Power BI:
+-used power Query to clean and transform the data.
+-used power bi to visualize the data and generate the Insights.
+-In which modelling is also used in the table. Used DAX Formula for visualization
+-Used Cards in the creation for KPI(Key Performance Indicators.
+INTERNSHIP
+Devtern Internship: 2024
+Remote, India
+• Completed 2 months internship in Python.
+• Developed hands-on projects, integrating API.
+• Creating user interface for the weather app to do list using python.
+• Gained expertise in many python libraries like pandas, NumPy.
+Octanet PVT. LTD. 2024
+Software Developer Remote, India
+• Implemented real-time ATM software to mange and access the request.
+• Optimized chessboard analysis project based on ML algorithms and gaussian filter.
+TECHNICAL SKILLS
+Languages: python(pandas), SQL (importing CSV, indexing, Store Procedure and User defined Functions).
+Developer Tools: VS Code, MS Excel(Data Cleaning, Manipulating, Extracting, macros, pivot table),
+Power BI(Use of Power Query ,DAX Formulas,Visualisation using various Charts).
+Technologies/Frameworks: GitHub, Power BI, PostGre SQL
+Achievement
+4* Coder Hacker rank
+Problem Solver
+• Achieved 4-star rating on Hacker Rank in coding challenges.
+• Solved numerous algorithmic and data structure problems to enhance problem-solving skills.
+• Demonstrated proficiency python, and SQL through competitive coding.
+CERTIFICATIONS
+• python + DSA (NPTEL) • Cloud Computing (NPTEL)• IOT and IIOT 4.0(NPTEL) • Power BI certifications by Skill course
+Workshop:
+• 4th International workshop on generative Ai and Human Robot Interaction.
+• Attended in IIIT Allahabad which was held for 3 days from 16th to 18th Feb 2024
+• Sponsored by IIIT Allahabad, CIR, IHFC, IIT DELHI, IEEE robotics and automation society, Department of science
+and technology govt. of India.
+Personal Profile:
+Date of birth: 06/03/2002
+Father’s Name: Mr. Ram Prakash Mishra
+Mother’s Name: Mrs. Rajeshwari Mishra
+Language Known: Hindi and English.
+Nationality: Indian
+Hobbies- cooking, reading, playing chess.
+Personal skills:
+Quick learner, punctual, positive attitude, hardworking, optimistic.
+Declaration:
+I hereby Declare that the above written particulars are to my knowledge and belief.
+Place: Prayagraj signature:
+Date :01/08/2025 Rishi Mishra

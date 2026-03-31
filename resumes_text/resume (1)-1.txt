@@ -1,0 +1,38 @@
+Anmol Sahu
++91 9407351752 | sahuadarsh9211@gmail.com |
+https://github.com/Anmolsahu4567
+EDUCATION
+•Gyan Ganga Institute of Technology & Sciences, Jabalpur(M.P .), India CGPA: 7.50
+B.Tech (Artificial Intelligence and Machine Learning), 2022 - 26
+Courses: Data Structures(DSA), ADA, Operating Systems, Machine Learning,
+Deep Learning, DBMS, OOPS
+PROJECTS
+• Advanced Ecommerce Recommendation System | Python, NLP, BoW, TF-IDF, Word2Vec
+- Engineered a content-based recommendation system with results within 100 milliseconds.
+- Supercharged product recommendations on e-commerce platforms for 1 million products.
+- Achieved an impressive 98% accuracy using NLP models like Bag of Words and TF-IDF.
+- Integrated Amazon product advertising API for enhanced functionality.
+• Twitter Clone: Scalable Social Media Platform | HTML, CSS, Javascript, Postgres, Spring MVC
+- Designed a user-friendly tweet-sharing platform scalable for 1 million users.
+- Implemented Login, Signup, Create Tweet, Follow User like 10+ more features.
+- Established Postgres for the database with all read queries under 10 milliseconds.
+- Spring MVC for the back-end architecture with response time under 50 milliseconds for all APIs.
+- Ensured exceptional performance through rigorous REST API testing with 100% test coverage.
+• Wikipedia Fetcher Api | HTML, CSS, Javascript, Java, Postgres, Spring MVC
+- Engineered a Wikipedia query platform with JSON and HTML result formats.
+- Employed Spring MVC for the backend infrastructure for enhanced performance.
+- Acquired and processed data from wikipedia.org with results under 400 milliseconds.
+- Subjected the platform to rigorous testing, with 1000+ queries like 'India,' 'America,’ andmore.
+• Face Recognition System | Python, ML(KNN), OpenCV
+- Implemented the K-Nearest Neighbor (K-NN) classification algorithm for face recognition.
+- Utilized OpenCV and HaarCascades for precise frontal face detection under 700 milliseconds.
+- Achieved an outstanding error rate below 3% on a dataset comprising 1,000 images.
+TECHNICAL SKILLS
+• Languages: C/C++(Proficient), Java, Python, Javascript
+• Full Stack Development : HTML, CSS, Javascript
+• Database: Mysql
+• Data Science: NLTK, NLP, Standard Ml Algorithms(Regression, Classification, Clustering)
+• Data Analysis: Numpy, Pandas, Matplotlib
+• Developer Tools: IntelliJ, VS Code, Git, Eclipse, Jupyter, Google Collab
+HONORS AND AWARDS
+• Solved 150+ problems on Leetcode, Codechef and Hackerrank

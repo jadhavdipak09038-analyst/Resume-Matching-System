@@ -1,0 +1,38 @@
+YASH RATHOURE
+Harda, India 461331 | +91 9584493965 | yashrathore965@gmail.com
+github.com/Yash9658 | linkedin.com/in/yash-rathore-30a099216
+SUMMARY
+Motivated MCA student at NIT Jamshedpur with a strong foundation in C++, Java, and SQL. Passionate about building scalable
+systems and exploring technologies in software development, cloud computing, and artificial intelligence. Seeking a Software
+Development Internship to contribute to impactful, high-performance projects.
+TECHNICAL SKILLS
+Languages: C, C++, Java, JavaScript, HTML, CSS
+Frameworks & Libraries: React.js, Node.js, Express.js, Socket.io
+Databases: MySQL, PostgreSQL, MongoDB
+Tools & Platforms: Git, GitHub, JWT, Cloudinary, Stripe API
+Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Problem Solving
+Operating Systems: Linux, Windows
+PROJECTS
+SmartMart – E-Commerce Platform React.js, Node.js, Express.js, MySQL, Stripe API, JWT
+Developed a full-stack e-commerce application with secure user authentication and product management.
+Integrated the Stripe API for seamless and secure payments with real-time order tracking.
+Implemented AI-driven product recommendations using collaborative filtering techniques.
+Designed an admin dashboard providing analytics and sales insights for performance monitoring.
+StudyBuddy – Collaborative Learning Platform React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Cloudinary
+Built an interactive learning platform for flashcards, notes, and quizzes with real-time collaboration.
+Integrated voice, video, and whiteboard sessions using Socket.io for seamless group study.
+Implemented an AI-powered quiz generator and a personalized learning analytics dashboard.
+Enabled secure user sessions and media uploads using JWT and Cloudinary.
+EDUCATION
+Master of Computer Applications (MCA)
+National Institute of Technology, Jamshedpur — Expected 2027
+Relevant Coursework: Data Structures, DBMS, OOP, Operating Systems
+Bachelor of Science (Computer Science)
+Barkatullah University, Bhopal — Graduated 2024 (70%)
+Relevant Coursework: Web Technologies, Python, Computer Networks, Information Security
+CERTIFICATIONS
+• C++ Programmer – HackerRank (5 Star Rating)
+• SQL Programmer – HackerRank (5 Star Rating)
+• SQL (Basic) Certified – HackerRank (Verified)
+LANGUAGES
+English: Professional Proficiency Hindi: Native / Bilingual

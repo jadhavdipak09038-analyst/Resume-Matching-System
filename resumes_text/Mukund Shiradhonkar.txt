@@ -1,0 +1,61 @@
+Mukund Shiradhonkar
++91-7756086940|mukundsd6014@gmail.com|
+(cid:239) mukund-shiradhonkar|§mukundsd6014| (cid:128) Mukund.Shiradhonkar@nexgenelit.com
+Lucknow,UP,India
+EXPERIENCE
+•NexGenElit[(cid:128)]
+Jan2023-Present
+AutomationQAEngineer Pune,Maharashtra,India
+◦testedNexgenelit’sAndmumbafilmfestivalwebsite:
+PerformedautomatedtestingusingSeleniumandJavaforNexgenelit’sofficialwebsite
+andthemumbafilmfestivalwebsite.
+CurrentlytestingSurpassin,anAustralianprojectfocusedonemploymentbehaviorandworktrends.
+Designedandexecutedtestscriptstovalidatewebsitefunctionality,performance,anduserexperience.
+Identified,documented,andreportedbugs,collaboratingwithdevelopersforissueresolution.
+Conductedregression,functional,andUItestingtoensuresoftwarequality.
+•SkillTreeConsultingLimited[(cid:128)]
+Jan2024-Aug2024
+ICTInstructor Latur,Maharashtra,India
+◦GovernmentSchoolAndGov.Office[BRC]
+Taughtbasiccomputeranddigitalskillstostudentsandteachers.
+SupportedtheuseofICTtoolsinteachingandtraining.
+Managedcomputerlabsandprovidedtechsupport.
+Promoteddigitallearningatschoolandblocklevels.
+PROJECTS
+•FinalYearProject: [GDMOnlineGroceryWeb-Site[Live] Dec2022-Jul2023
+Tools:[Listoftoolsandtechnologiesused]
+◦Developedauser-friendlyonlinegroceryshoppingwebsiteusingHTML,CSS,JavaScript,andBootstrap.
+◦Designedresponsivelayoutsandinteractivecomponentsforproductlisting,cart,andcheckoutpages.
+◦AppliedJavaScriptDOMmanipulationtoenhanceuserexperienceandinterfaceresponsiveness.
+◦Focusedoncleancode,mobileresponsiveness,anduser-centricdesign.
+•UnivariateAnalysisviaPandas: [BriefDescription] Oct2024
+Tools:[PythonUsingPandasLibraries] [§]
+SKILLS
+• ProgrammingLanguages: Java,Python
+• WebTechnologies:HTML5,CSS3,Javascript
+• DatabaseSystems:MySQL
+• SpecializedArea:Front-endDeveloper,SoftwareAutomationTesting
+• OtherTools&Technologies: Selenium,Web-Driver,VSCode
+• ResearchSkills:AISemiconductorChipMarket
+EDUCATION
+•IndianInstituteofInformationTechnology[IIITL] Aug2024
+M.ScEconomicsAndManagement Lucknow,India
+◦CustomerBehavior
+◦BusinessAnalytics
+◦MarketingManagement
+◦ManagerialFinance
+◦OperationManagement
+•SwamiRamanandTeerthMarathwadaUniversity,Nanded Dec2023
+B.ScComuputerScience Maharashtra,India
+◦CGPA:8.63HONORS AND AWARDS
+•LeadershipRole: TeamLead jan2024-Present
+NexGenElit-AutomationTester [(cid:128)]
+◦Keyresponsibilityorachievementinthisrole
+◦Quantifiableimpactorimprovementmadeduringtenure
+◦Initiativetakenorprojectled
+CERTIFICATIONS
+• GoogleCloudSkillBoostArcadeCAMP April2025
+• Q-spiderCertification-[Tester] Feb2023
+ADDITIONAL INFORMATION
+Languages: Marathi,Hindi,English
+Interests: Music,TechnologyNews,Movies

@@ -1,0 +1,33 @@
+PRIYANSHU RAWAT
+Faridabad, Haryana
+📱 9354046090 | 📧 rawatpriyanshu103@gmail.com
+🌐 Portfolio: https://my-portfolio-gray-nu-16.vercel.app/
+PROFESSIONAL SUMMARY
+Enthusiastic BCA student with a strong interest in web development. Familiar with HTML, CSS,
+JavaScript, and MERN stack technologies. Always eager to learn, build, and improve through practice
+and self-learning. Looking for an opportunity to gain real-world experience and grow as a developer.
+SKILLS
+Languages & Tools: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS.
+Other Tools: Adobe Photoshop (Basic), Chatgpt, Lovable, Notion, Claude, Netlify, Vercel, Render.
+Soft Skills: Teamwork, Time Management, Adaptability.
+PROJECTS
+Weather Application
+Tech Stack: React, CSS, OpenWeather Api
+A sleek weather forecast app that fetches real-time data based on the city name. Users can check
+temperature, humidity, and weather conditions with a simple interface.
+🔗 https://weather-app-by-priyanshu.netlify.app/
+Exall Roofing
+Tech Stack: HTML, CSS
+A static business website designed as a clone of a real-world roofing company. Clean layout and
+responsive design mimic professional service websites.
+🔗 https://exall-roofing.netlify.app/
+E-Commerce Website
+Tech Stack: React, CSS, Node, Express, MongoDB
+A full-stack E-Commerce web application which allows users to browse products, search, filter by
+category, view detailed product pages, add to cart, and manage authentication with JWT.
+🔗 https://e-commerce-rho-six-90.vercel.app
+EDUCATION
+Bachelor of Computer Applications (BCA)
+JB Knowledge Park (Affiliated to MDU), 2022 – 2025
+CERTIFICATIONS
+MERN Stack Development – Techstack Academy

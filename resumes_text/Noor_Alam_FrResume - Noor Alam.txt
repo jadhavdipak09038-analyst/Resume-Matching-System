@@ -1,0 +1,47 @@
+Noor Alam
+(cid:131) +91 9648346625 # nooralamstar2@gmail.com (cid:239) linkedin.com/in/noor-alam-77a332227/
+Professional Summary
+Frontend Developer Intern at Epik Technocravers Pvt. Ltd., with experience in building responsive web
+interfaces using React.js, HTML, CSS, and JavaScript. Contributed to UI development, bug fixing, and team-based
+projects in an agile environment. Skilled in version control with Git.
+Professional Experience
+Epik Technocravers Aug 2024 – Feb 2025
+Working as a Front End Developer Uttam Nagar Delhi, India
+• Developed interactive dashboard using React.js and Tailwind CSS.
+• Assisted in developing responsive web pages using React.js and JavaScript.
+• Implemented UI components based on design mockups using HTML, CSS, and Tailwind CSS.
+• Worked on dynamic forms, filters, and user management modules.
+• Collaborated with UI/UX team and backend developers to deliver features smoothly.
+• Used Git and GitHub for version control and code collaboration.
+• Worked on real-time project tasks under guidance of senior developers.
+Education
+Noida Institute of Engineering and Technology Aug 2020 - July 2024
+B.Tech in Computer Science and Engineering - CGPA: 7.00/10 Greater Noida, India
+Projects
+ProjectSync | Final Year Project Management Web App |
+• Built using MERN Stack (MongoDB, Express.js, React.js, Node.js)
+• Implemented project submission and dual-level approval system.
+• Added panel creation and presentation scheduling features.
+• Enabled transparent grading and progress tracking.
+Portfolio | HTML, CSS, JavaScript, React js |
+• Created a clean and responsive portfolio using React.js and Tailwind CSS.
+• Displayed skills, projects, education, and experience in a structured layout.
+• Integrated contact form and social links for easy connectivity.
+• Ensured fast load speed, SEO optimization, and mobile compatibility.
+Online Book Store | HTML, CSS, JavaScript, React js, MySQL |
+• Built a responsive E-Commerce site for bookshops with mobile-first design.
+• Added product search by title, author, and category.
+• Integrated cart and secure payment gateway.
+• Enabled product reviews and ratings for better user engagement.
+Achievements/Certification
+• Best Performance Award - Secured highest percentage in high school. 2016
+• TCS iON Career Edge – Young Professional, TCS iON - Completed on 17-Dec-2021
+• Java Programming: Arrays, Lists, Coursera - Completed on 27-Dec-2021
+• Web Development, Coursera - Completed on 11-Mar-2022
+• Developing Cloud Apps with Node.js and React js, Coursera - Completed on 15-Feb-2023
+Technical Skills
+Languages: HTML, CSS, JavaScript, SQL, CorePython
+Frameworks/Libraries: React.js, Next. js Bootstrap, Tailwind CSS, Material UI
+Database: MongoDB, MySQL
+Tools: Git & GitHub, GitLab, Jira, Sourcetree, Postman,
+Soft Skills: Teamwork, Problem Solving, Communication, Leadership

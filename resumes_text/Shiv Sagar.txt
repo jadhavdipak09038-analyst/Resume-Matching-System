@@ -1,0 +1,41 @@
+SHIV SAGAR
+Shalimar Bagh, Delhi 110088, India
++91 8750771201 | shivsagardev002@gmail.com | linkedin.com/in/shivsagar002
+EDUCATION
+University School of Information Communication & Technology June 2026
+Master of Computer Application (MCA)
+Guru Gobind Singh Indraprastha University June 2024
+Bachelor of Computer Applications (BCA)
+Rajkiya Pratibha Vikas Vidyalaya, Shalimar Bagh March 2020
+Secondary Education
+Relevant Coursework
+• Web Development • Computer architecture
+• Data structures • Database management
+EXPERIENCE
+Solar Secure Solutions August, 2022 – October, 2022
+Full Stack Developer Delhi (Remote)
+• Assisted in a full stack restaurant website developed using Node.js where I am responsible to
+handle backend of the website.
+• Integrated payment gateway on the website with PayPal checkout using PayPal payment
+processing API.
+• Helps business to receive prepaid orders from international clients.
+PROJECTS
+College ERP Software 2025
+• Working on College ERP Web Application Software as my final year project.
+• Reduce Paperwork and increase efficiency stakeholders like teachers, students & admins.
+• Implemented role based limited access using authentication and authorization.
+World Chat 2024
+• Users can interact and chat with other in their browser, without installing any application.
+• Used hashing technique for user privacy.
+Personal Portfolio 2023
+• Build personal portfolio website using React & JavaScript.
+TECHNICAL SKILLS
+Languages: C++, HTML/HTML5, CSS, JavaScript, SQL
+Developer Tools: VS Code, Render, copilot, AI integration
+Technologies/Framework: React, Node.js, Git/GitHub, Ejs
+LEADERSHIP / EXTRACURRICULAR
+• Winner of CODCHEF coding competition organized by SYMPHONY (2025)
+(Annual Fest of Guru Nanak Institute of Management, GGSIPU).
+• Code Gladiator 10th edition finalist organized on TechGig platform in 2023.
+• Completed Software Engineering Job Simulation form JPMorgan Chase & Co.
+organized by Forage.

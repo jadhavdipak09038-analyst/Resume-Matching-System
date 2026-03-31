@@ -1,0 +1,47 @@
+DUSHYANT
+Faridabad, Haryana | +91 7678197701 | dushyantthakur7678@gmail.com
+LinkedIn: linkedin.com/in/dushyant-thakur-6a8a74340
+PROFESSIONAL SUMMARY
+Motivated Data & Business Analyst open to both internship and full-time roles, skilled in Power BI, SQL,
+Excel, and Python. Adept at analyzing data, building dashboards, and generating actionable business
+insights that drive process improvements and decision-making. Strong foundation in data visualization, KPI
+reporting, and business metrics, with hands-on project experience in multiple domains. Eager to contribute to
+data-driven organizations across Delhi NCR or remote settings.
+TECHNICAL & ANALYTICAL SKILLS
+Programming & Databases: Python, SQL (MySQL)
+Data Visualization: Power BI, Advanced Excel
+Business Analysis: KPI Reporting, Workflow Optimization, Requirements Gathering
+Statistical Analysis: Hypothesis Testing, Trend & Correlation Analysis
+Soft Skills: Problem Solving, Data Storytelling, Communication, Team Collaboration
+Portfolio: Available upon request
+PROJECTS
+Airline Operational Dashboard (Power BI)
+* Cleaned and transformed 100K+ airline records using Power Query and DAX.
+* Built KPI-based dashboards for flight performance, delays, and bookings.
+* Improved analysis speed by 40% and simplified management reporting.
+WALMART RETAIL INSIGHTS (MYSQL)
+* Analyzed multi-store data to identify top-performing products and customers.
+* Developed SQL queries for segmentation and profitability tracking.
+* Provided insights that enhanced product strategy and sales planning.
+KPMG CUSTOMER SEGMENTATION (EXCEL)
+* Cleaned and standardized customer and transaction data for accuracy.
+* Segmented customers by demographics and purchase patterns.
+* Identified high-value groups, enabling targeted marketing recommendations.ELECTRIC VEHICLE MARKET ANALYSIS (PYTHON)
+* Conducted a data-driven study on EV market trends (Tesla vs Audi).
+* Performed hypothesis testing on engine performance and range.
+* Designed a simple EV recommendation framework based on user needs.
+EDUCATION
+Bachelor of Computer Applications (BCA)
+JB Knowledge Park - Faridabad, Haryana | 2022 - 2025
+Class XII (Commerce) - Rattan Convent School, Faridabad, Haryana | 2022 | Percentage: 77%
+Class X - SPS International School, Palwal, Haryana | 2020 | Percentage: 68%
+CERTIFICATIONS & TRAININGS
+* Data Science Training - Internshala
+* Data Visualization with Power BI - Internshala
+* SQL for Data Analysis and Insights - Internshala
+* Python Data Preparation & Analysis - Internshala
+* Data Management & Analysis with MS Excel - Internshala
+CAREER OBJECTIVE
+To contribute as a Data & Business Analyst by applying analytical, technical, and problem-solving skills to
+generate actionable insights, improve operational efficiency, and support strategic decision-making. Open to
+internship and full-time opportunities across Delhi NCR or remote locations.

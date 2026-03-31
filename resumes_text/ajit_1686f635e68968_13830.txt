@@ -1,0 +1,60 @@
+Ajit Kumar
+ajit62062@gmail.com 8850120292 Mumbai,Maharastra,India
+linkedin.com/in/ajitkumarofficial https://github.com/ajit193
+PROFILE
+Entry-Level Data Analyst skilled in Python, SQL, Excel, Power BI, and Tableau with a Data Science &
+Analytics certification. Hands-on experience in transforming complex data into actionable insights. A detail-
+oriented professional focused on improving operational efficiency and supporting strategic decision-making
+through data-driven solutions.
+EXPERIENCE
+Data Analysis Intern - Remote 04/2025 – present
+Digital Ipsum Pvt. Ltd
+Analyzed data for 'Note Taker AI Tools' using Python, Excel, and Power BI.
+•
+Performed data cleaning and transformation to ensure data quality.
+•
+Developed dashboards and reports to extract trends and insights.
+•
+Supported optimization of tool usage through data analysis and reporting.
+•
+SKILLS
+• Languages & Tools: Python, SQL, MySQL, Excel, Power BI, Tableau
+• Data Analysis: Data cleaning, transformation, exploration, ETL processes
+• Visualization: Dashboard creation (Power BI), forecasting, KPI reporting
+• Database Management: SQL queries, database design, data modeling
+CERTIFICATES
+Data Science & Data Analytics With Ai 10/2023 – 11/2024
+Itvedant Education Pvt Ltd Mumbai
+Data Analysis with python 2024
+IBM
+SQL Certification 2025
+Itvedant Education Pvt Ltd
+PROJECTS
+Global Sales Dashboard | Power BI
+Leverages time series analysis to forecast sales with high accuracy and track regional performance.
+•
+Optimizes inventory and pricing strategies using data-driven insights.
+•
+Enhances global superstore growth by identifying key sales trends and opportunities.
+•
+Note Taker AI Tools Dashboard | Power BI
+Collected data of AI note-taking tools manually and through web scraping.
+•
+Cleaned and structured raw data using Python (Pandas) and Excel for analysis.
+•
+Designed an interactive Power BI dashboard with slicers, KPIs, and visual insights.
+•
+Highlighted top tools by rating, pricing trends, platform support, and user categories.
+•
+Supermarket Sales Prediction
+Tracks sales patterns and predicts future performance using Python-based analytics.
+•
+Uses machine learning to analyze buying patterns and optimize customer engagement.
+•
+Offers data-driven recommendations for pricing, inventory, and market expansion.
+•
+EDUCATION
+M.Com 2016 – 2018
+Nalanda Open University patna, India
+B.Com 2014 – 2016
+Vinoba Bhave University Hazaribagh Jharkhand, india

@@ -1,0 +1,92 @@
+Deepali Paithankar Joshi
++91 9881031393 |paithankar.deepali@gmail.com | Pune, Maharashtra
+LinkedIn - www.linkedin.com/in/deepali-paithankar-joshi
+Git-hub -https://github.com/deep884
+SUMMARY
+Actively seeking an entry-level Data Analyst position in company to leverage my
+academic knowledge in data analysis and contribute to data-driven decision making. Highly
+motivated and eager to learn, seeking a challenging Data Analyst role where I can apply my
+analytical skills and contribute to business growth through insightful data analysis.
+SKILLS
+Programming Languages:
+Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Stats models - Data
+Visualization: Matplotlib, Seaborn, Plotly, Tableau - Data Manipulation: Pandas, NumPy - Machine
+Learning: Scikit-learn, TensorFlow, Keras.
+Database: MySQL
+Technologies: Machine Learning (ML)Visualization Tools : Power BI, Tableau, MS Excel, V look up, H look
+up, Pivot Tables, Excel Dashboard, Audacity software.
+SEO anlaysis using different tools and extensions. Python Automation for Data scraping using Selenium.
+SEO tools
+ Keyword Research & Analysis
+ On-Page & Off-Page Optimization
+ Technical SEO & Site Audits
+ Google Analytics & Search Console
+ Local SEO & Mobile SEO
+ SEO Tools (SEMrush, Ahrefs, Moz, etc.)
+PROJECTS (INTERNSHIP WITH INDITRONICS-OCTOBER 2025)
+1.Utilized Audacity software to listen to and extract key audio segments from Radio City broadcasts.
+2.Accurately transcribed spoken content and categorized data in MS Excel for performance tracking and
+content analysis.
+3.Maintained data consistency and quality by cross-verifying timestamps, speaker details, and audio
+durations.PROJECTS (Internship with Digital Ipsum pvt ltd.)
+Lead Generation (Restaurants Analysis of Vietnam), (Fitness Centers Analysis of UAE )|MS excel, Power
+BI
+Scraped data of different restaurants in UAE, using python automation and data scraper extension and
+performed detail analysis on their website appearances, their social media presence and their SEO, Page
+speed and Website speed rankings along with DA(Domain Authority), PA (Page authority) and Moz rank
+ratings using different DA,PA checker sites.
+Conducted a thorough analysis and derived actionable insights using Power BI dashboard using different
+charts.
+Generated top leads related to Website Enhancement, SEO ranking improvisation and SMO revamping
+Diabetes Prediction | Python
+The type of algorithm which is used to predict the diabetic parameter is an Classification algorithm. Step
+Followed
+Developed a machine learning model to predict the likelihood of diabetes in patients based on historical
+health data, aiming to support early diagnosis and intervention. Utilized a publicly available dataset with
+attributes like age, BMI, blood pressure, insulin levels. Downloaded datasheet from kaggle and performed
+Exploratory data analysis on data using.
+Handled missing values by applying imputation techniques. Performed data scaling and normalization to
+standardize the features for improved model performance, using Standard Scaler. Implemented multiple
+classification algorithms including Decision tree, Bagging Classifier to predict the probability of diabetes.
+Split the dataset into training (80%) and testing (20%) sets, and trained the model using scikit-learn.
+Used Cross-Validation to ensure model generalization and avoid overfitting. Evaluated the model’s
+performance using accuracy, precision, recall.
+https://github.com/deep884/Machine-Learning.git
+Sales Analysis for E-Commerce | MS Excel
+1. Utilized PivotTables and Pivot Charts to summarize large data sets and track sales performance by
+product, region, and time period.
+2. Created required customized columns using formulae and formatting required for analysis.
+3.Developed dynamic, interactive dashboards using Excel formulas, Slicers, and Data
+4. Validation to allow users to filter and explore the data with ease.
+5. The dashboard facilitated quick access to performance metrics.
+https://github.com/deep884/Dataanalytics.gitCar Sales Analysis| Power BI
+1. Worked on Car sales schema Car details and Car sales queries.
+2. Created pie charts, Line charts, Table chart, bar chart for getting meaningful insights.
+3. Created navigation buttons to navigated through pages.
+4.Knowledge of power query used for connecting and importing data.
+https://github.com/deep884/Dataanalytics.git
+MYSQL (Analysis of Swiggy online food delivery app)
+1. Imported Swiggy data from Table Data import Wizard in MYSQL.
+2. Retrived the data of restaurants having rating more than 4.5 and 5 most expensive
+restaurants for Indian Cuisine.
+3. Solved queries regarding average rating of Restaurants in each city.
+4. Retrived data for top 1 city with the highest number of restaurants.
+COURSE
+Masters in Data Science and
+IT Vedant Education Pvt. Ltd.
+Coursework: Machine Learning, Python, Power BI, Excel, Mysql
+CERTIFICATIONS
+Data Analysis with Python from IBM | 2024
+Foundation with SQL Certification from IT Vedant, Pune 2024
+Masters in Data Science and Analytics with AI from IT Vedant Pune 2024
+DWD (Diving into World of Data from IT Vedant Pune 2024
+Unified Mentor
+Data Science and Analytics Essentials from IT Vedant Pune 2024
+Completed Internship from Digital Ipsum 2025.
+EDUCATION
+Bachelors of Architecture 65%
+JNTU Hyderabad
+SSC (10th) 79 %
+MY TIME:
+Singing, Reading and Music, Exploring internet.
+Signature:

@@ -1,0 +1,40 @@
+Tejas Patil
++91-7709200489 | tejas.patil4001@gmail.com | Linkedln | GitHub
+SUMMARY
+Computer Engineering graduate skilled in full-stack development, backend systems, and deployment.
+Proficient in C++, JavaScript, React, Node.js, and Expressjs. Strong problem-solving abilities with Data
+Structures and Algorithms foundation, committed to continuous learning and software excellence.
+EDUCATION
+Sinhgad Institute Of Technology Dec. 2021 –June. 2025
+Bachelor of Computer Engineering CGPA: 7.24
+Rashtriya Vidhyalaya, Smabhajinagar June. 2020 –Aug. 2021
+12th (PCMB) Percentage: 88.80
+Saraswati Bhuvan High School June. 2018 –May. 2019
+10th Board Percentage: 83.80
+PROJECTS
+Prescripto– Medical Prescription & Disease Prediction Using AI/ML : Link
+• full-stack web application using React.js, Node.js, Express.js, Flask, Python, and MongoDB.
+• Machine learning models for real-time prediction of Diabetes, Heart Disease, Liver Disease, Breast Cancer, and
+Parkinson’s Disease.
+• Implemented dynamic prescription generation, patient management, and secure user authentication.
+• Designed RESTful APIs to integrate ML models with frontend, ensuring efficient and scalable communication.
+• Built responsive and interactive dashboards using Tailwind CSS for enhanced user experience.
+Wanderlust-Travel and Rental Listings Web Application : Link
+• Built a full-stack web application for managing travel and rental listings using Node.js, Express.js, MongoDB, EJS,
+HTML, CSS, JavaScript, and Bootstrap.
+• Implemented features like user authentication, listing creation, image upload, search & filter, reviews, and CRUD
+operations.
+• Integrated Cloudinary API for secure image storage and Mapbox API for interactive map-based location display.
+• Designed RESTful routes and modular controllers for efficient backend logic and seamless database interaction.
+• Developed a responsive and intuitive UI/UX for easy navigation and enhanced user engagement.
+TECHNICAL SKILLS
+Languages: C++, JavaScript.
+Frontend: React, HTML5, CSS, Tailwind CSS, Bootstrap, Material-UI.
+Backend: Node.js, Express.js, RESTful API.
+Database Management: MySQL, MongoDB.
+DevOps/Deployment: Git/GitHub, Vercel, Render, Netlify, Visual Studio Code.
+Other: Data Structures and Algorithms.
+PERSONAL INTEREST
+• Travel
+• Philosophy
+• Poetry and Literature

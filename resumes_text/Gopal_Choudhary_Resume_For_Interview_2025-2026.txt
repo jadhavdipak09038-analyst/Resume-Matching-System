@@ -1,0 +1,50 @@
+RESUME
+GOPAL CHOUDHARY
+Software Trainee
+Meerut, Uttar Pradesh, India | +91-9153300829 | gc8460002@gmail.com
+LinkedIn l Github
+OBJECTIVE
+I am a passionate and curious learner with skills in Java, Frontend Development (HTML, CSS, JavaScript), and a basic
+understanding of Python and C++.I have completed a remote internship in frontend development and also worked on a
+real-world project that helped me apply my coding skills practically. I enjoy solving problems, learning new technologies,
+and look forward to starting my career as a Software Developer where I can grow and contribute to meaningful projects.
+SKILLS
+• Communication
+• Teamwork
+• Critical Thinking
+• Programming (Java, C++)
+• OOPS (Object-Oriented Programming System)
+• Frontend Development
+WORK EXPERIENCE
+Frontend Development Virtual Intern
+ApexPlanet Software Pvt. Ltd.
+01 April, 2025 – 16 May, 2025
+Software Development Virtual Intern
+Cognifyz Technologies
+01 April, 2025 – 01 May, 2025
+EDUCATION
+BCA(Graduation)
+Meerut Institute of Technology, Meerut, Uttar Pradesh
+Percentage: 71%
+Year of Passing: 2026
+Senior Secondary (12th)
+B.S.E.B – M.R.S.M. College, Darbhanga, Bihar
+Year of Passing: 2023
+Percentage: 61.4%
+Secondary (10th)
+B.S.E.B – L.M.H School, Darbhanga, Bihar
+Year of Passing: 2021
+Percentage: 64.8%ACHIEVEMENTS / CERTIFICATIONS
+Secured 3rd Position in Frenzy Hackathon 2025 along with my team, building a face detection - based attendance
+system using Python & Completed certified internship in frontend development (Virtual).
+PROJECTS
+• Face recognition system (May 2025 - Current).
+• Personal Portfolio Website (Feb 2025 - Apr 2025).
+• To-do list Website (Sep 2024 - Sep 2024).
+• Product listing Website (Nov 2024 - Dec 2024).
+LANGUAGES
+• Hindi
+• English
+HOBBIES
+• Reading Tech Articles / Books.
+• Playing Kabaddi.

@@ -1,0 +1,53 @@
+YASH UPADHYAY
+CONTACT
+PROFILE
+8871849311
+Enthusiastic Web Developer with practical experience in C++, HTML, CSS,
+yashupadhyay909@gmail.com
+JavaScript, React, and Power BI. Skilled in building small web applications and
+interactive dashboards while continuously improving coding and problem-
+Ujjain
+solving skills. Participated in hackathons and team projects, demonstrating
+eagerness to learn, collaborate, and deliver results.
+www.linkedin.com/in/yashupadhyay1
+github.com/YashUpadhyay-993
+KEY ACHIEVEMENTS
+EDUCATION
+Event Management Lead, GDG on Campus – Avantika University: Directed
+planning and execution of developer community events to enhance
+2022-2026
+engagement and foster technical growth.
+AVANTIKA UNIVERSITY ,UJJAIN
+Top 15 finalist in an AWS-promoted Hackathon in Dehradun with team
+Bachelor of Technology collaboration and tech innovation.
+(Computer Science) Completed a 36-hour hackathon at ADIT College, CVM University,
+developing innovative tech solutions while honing coding, teamwork, and
+problem-solving skills.
+SKILLS
+WEB DEVELOPMENT INTERN
+HTTPPSr:o/g/raGmmITiHngU LBan.CguOagMes/: CY+A+S, HHUTMPAL,D CHSSY,
+AY-993 Cognifyz Technologies | Jul 2025
+JavaScript, React
+Built and enhanced web projects using modern web development tools.
+Data & Analytics: Power BI, Tableau, Data
+Collaborated with a remote team to deliver timely and efficient project
+Visualization solutions.
+Contributed to improving user experience and optimizing web
+Tools & Version Control: Git, GitHub, VS
+functionalities.
+Code
+PROJECTS
+CERTIFICATIONS
+Weather Forecast App
+JavaScript Built a weather application using React.js and the OpenWeather API. It
+React includes a city-based search feature to display real-time weather updates.
+Data Analytics Essentials The app also shows temperature, humidity.
+Power BI
+Computer Networks and Internet AI Chat Application
+Security Developed an interactive AI-powered chat app using React.js and OpenAI
+API for real-time conversational responses. Implemented state
+management and responsive design for a smooth user experience.
+Expense Tracker
+Created a responsive expense tracker that allows users to add income and
+expenses, calculates real-time balance, and saves data locally for
+persistence.

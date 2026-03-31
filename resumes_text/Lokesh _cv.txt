@@ -1,0 +1,40 @@
+LOKESH SIJAPATI
+FULLSTACK-DEVELOPER
++91 7428752627
+LOKESHKR189@GMAIL.COM
+NEW DELHI, DELHI
+SUMMARY
+Highly motivated and detail-oriented software engineer with expertise in developing scalable and
+efficient software solutions. Proficient in a range of technologies, including Java, Spring Boot, React.js,
+and MySQL. Proven track record of delivering high quality projects on time.
+SKILLS & ABILITIES
+Front-end: HTML5, CSS3, Bootstrap, JavaScript (ES6+), React.js
+Back-end: Java, Spring Boot
+Databases: MySQL
+Programming Languages: C, C++
+Tools & Version Control: Git, GitHub, Microsoft Office
+EXPERIENCE
+EyeHospitalApplication(Spring_Boot,Java,MySQl): Fully customized hospital website there we can book
+our appointment, we can ask for call, we can see our doctors details, we can see news blog, we can see
+patient results and as well as there is lot of thing for see basically it is fully customizable website.
+E-commerce Clone : This is frontend project in this page is collected data from javaScript and there we
+have made AddtoCart functionality and as well as more functionalities.
+QUALIFICATION
+2026 Bachelor of computer application
+Jb knowledge park college affiliated by Mdu university
+2022 12th
+Acc Sbv Jhilmil Colony School affiliated by Cbse Board
+2020 10th
+Shashi Public Senior Secondary School affiliated by Cbse Board
+PROJECTS
+Password Generator: Developed a password generator tool using JavaScript.
+Todo-List: Built a todo-list application using React.js.Weather Forecast: Created a weather forecast application using JavaScript and APIs.
+Calculator: Developed a calculator application using JavaScript.
+Slider: Built a slider component using JavaScript.
+Delivery Website: Developed a delivery website using HTML, CSS, and JavaScript.
+PROFESSIONAL LINKS
+LinkedIn: http://www.linkedin.com/in/lokesh-sijapati-5560b620b
+GitHub: github.com/Lokeshsijapati/Web_Dev_Projects
+CERTIFICATION
+Completion Certificate in HTML, CSS, JavaScript, Java – Kg Coding
+MCAD Certification – F1 Macro Technology Institute

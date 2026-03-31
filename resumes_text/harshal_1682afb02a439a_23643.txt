@@ -1,0 +1,45 @@
+Harshal Chouhan
+harshalchouhan20@gmail.com +91-8605067278
+5/103 Swaraj appartment swaraj Nagar Nagpur linkedin.com/in/harshal-chouhan-6050bb228
+Summary
+Highly motivated IT fresher Proficient in programming languages such as Java, C and C++, and skilled in web
+development frameworks (HTML, CSS, JavaScript) and database management (SQL, MySQL). Strong
+communicator with the ability to collaborate across teams and adapt quickly to new technologies. Dedicated to
+continuous learning, innovation, and delivering solutions that improve business processes. Seeking to leverage
+technical skills and passion for IT to drive success in software development, IT support, system administration, or
+network management roles.
+Skills
+Frontend Backend
+HTML C
+• •
+CSS C++
+• •
+JavaScript Java
+• •
+PHP
+•
+SQL
+•
+Education
+2020/02 – 2024/07 B.Tech in Electronic and telecommunication
+Nagpur, India Yeshwantrao Chavan College of Engineering (YCCE), Nagpur
+2018 – 2020 Higher secondary education
+Nagpur, India Taywade College, Mahadula-Koradi
+Projects
+SOLAR BASED WIRELESS ELECTRIC VEHICLE CHARGING STATION
+This project aims to design and implement a sustainable and efficient wireless charging station for electric vehicles
+(EVs) powered by solar energy. The system integrates photovoltaic (PV) panels to harness solar energy and
+convert it into electricity. This electricity is then utilized to wirelessly charge EVs using resonant inductive
+coupling technology. The proposed system promotes green energy adoption and supports the growth of the EV
+industry by addressing charging infrastructure challenges.
+Internship
+2024/01 – 2024/05 Urbanization in an area using Deep learning/Machine learning
+Maharashtra Remote During my internship, I contributed to a project focused on analyzing urbanization
+Sensing Applications patterns in a specific area using deep learning and machine learning techniques. My
+Centre, Nagpur, India responsibilities included collecting and preprocessing geospatial and satellite data,
+implementing models for land-use classification, and predicting urban growth trends. I
+employed tools such as TensorFlow, and GIS software to design and train neural
+networks for accurate detection of urban areas. Additionally, I collaborated with a
+multidisciplinary team to interpret results and provide actionable insights for urban
+planning. This experience enhanced my technical skills in artificial intelligence and my
+understanding of sustainable development strategies.

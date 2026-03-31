@@ -1,0 +1,40 @@
+MD AADIL
+ALAM
+PROFILE EDUCATION
+Detail-oriented and enthusiastic Aligarh Muslim University, Aligarh
+student, completed a Diploma in Diploma in Computer Science and Engineering: 2022-2025
+Computer Science and Engineering,
+seeking an internship or entry-level Bihar School Examination Board, Patna
+position to apply and enhance my SSC: 2020-2021
+programming skills, technical I have Scored 86.8% in my 10th Standard.
+knowledge, and problem-solving
+abilities. Committed to contributing to WORK EXPERIENCE
+a dynamic team and gaining hands-
+on experience in the field of Project: Symptom Checker Web Application
+technology. Role: Full-Stack Developer
+Jan 2025 – Apr 2025
+ Developed a disease prediction web app using Flask and
+XGBoost, providing multiple diagnosis suggestions ranked by
+CONTACT confidence.
+ Built a responsive frontend with HTML, CSS, Bootstrap, and
+PHONE: handled user login, session management, and history using
++91 9162864178 MySQL.
+EMAIL: Project: Heart Disease Prediction System
+aadilalam20040@gmail.com Role: Machine Learning Engineer
+Aug 2024 – Nov 2024
+ADDRESS:  Created a heart disease prediction system using CNN models
+117/A Subhratri Appartment, (ResNet50, VGG16, AlexNet) with accuracy evaluation through
+Okhla Main Market Road confusion matrix and ROC curves.
+South Delhi -110025  Integrated the models into a Flask app with a MySQL database
+and a user-friendly web interface.
+HOBBIES
+SKILLS
+Coding side projects
+Exploring new software tools • Programming Languages: C, Java, PHP
+Travelling and Exploring • Web Technologies: HTML, CSS, JavaScript (basic knowledge)
+Playing strategy games
+• Frameworks & Tools: Code::Blocks, Visual Studio Code, Ubuntu
+Terminal
+• Databases: MySQL (basic CRUD operations
+• Operating Systems: Windows, Linux (Ubuntu)
+• Productivity Tools: Microsoft Word, Microsoft Excel, PowerPoint

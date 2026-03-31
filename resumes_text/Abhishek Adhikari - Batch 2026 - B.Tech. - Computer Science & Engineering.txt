@@ -1,0 +1,39 @@
+ABHISHEK ADHIKARI
+Sehore(M.P.) | abhishekadhikari3000@gmail.com | 7440517747
+SUMMARY
+A BTech Computer Science student who is motivated and passionate about software development,
+problem-solving, and building AI-based applications. Knowledgeable in full-stack development, data
+structures, and algorithms, with practical experience in developing scalable applications. Looking for
+opportunities to apply experience in a real-world application.
+EDUCATION
+Bachelor of Technology in Computer Science & Engineering
+Avantika University, 2022-2026
+CGPA: 7.70
+SKILLS
+Programming Languages: C, C++, Python
+Web Development: HTML, CSS, JavaScript, React, Node.js, PHP
+Databases: MySQL, Xampp, Firebase
+Cloud Technologies: AWS, Google Cloud
+AI/ML: TensorFlow, scikit-learn
+Soft Skills: Problem Solvinig, Team Collaboration, Adaptability & Quick Learning
+PROJECTS
+Cafe Website
+Cafe Website Built a responsive web application for cafes, enhancing customer interaction
+and order management. Designed an intuitive UI using Figma and implemented a MySQL
+database for menu and orders.
+Technologies Used: HTML, CSS, PHP, MySQL, Figma.
+IoT Based Attendance Monitoring System
+Developed an IoT-powered attendance monitoring system using fingerprint authentication
+and cloud integration. Enables real-time attendance tracking and secure data storage on a
+cloud platform.
+Technologies Used: Esp32, Fingerprint Sensor, C++, Firebase
+Library Management System using C++ and OOP Concepts
+Designed and implemented a Library Management System using Object-Oriented
+Programming principles in C++. Features include book issuance, returns, user
+authentication, and catalog management. Implements core OOP concepts such as
+encapsulation, inheritance, and polymorphism.
+Technologies Used: C++, OOP, File Handling
+ACHIEVEMENTS & EXTRACURRICULAR ACTIVITIES
+Lead, Chakraview Tech Fest(E-Sports 2024 & Entertainment 2023)
+Member of the Computer Society of India(CSI)
+Flipkart Grid 6.0 & CVM University Hackathon Participation

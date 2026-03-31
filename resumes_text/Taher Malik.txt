@@ -1,0 +1,46 @@
+Taher Malik
+(cid:131) +91 9152760580 # tahermalik2002@gmail.com (cid:239) LinkedIn § Github
+Education
+National Institute of Technology, Jamshedpur 2024 - 2027
+Masters of Computer Application 9.25/10 CGPA
+Patkar Varde College , Mumbai 2020 - 2023
+Bachelors of Computer Science 9.7/10 CGPA
+Technical Skills
+Languages: Python, Java, C++, JavaScript
+Backend:Node.js, Express.js
+Frontend: React, TailwindCSS, HTML, CSS
+Databases: MySQL, MongoDB
+Developer Tools: Postman, VS Code, GitHub
+Libraries: Pandas, Numpy, OpenCV, Ultralytics
+Projects
+Twizzle Twizzle
+• Developed Twizzle, a social media web application that allows users to log in, create, and share tweets, as well as view
+tweets from people they follow. Implemented features for following/unfollowing users and viewing user profiles. Built a
+responsive frontend using React.js and Redux, and designed a robust backend with Express.js and
+MongoDB for efficient data handling and scalability.
+IntelliPlay: A Customized Music Player IntelliPlay
+• This Python project is a voice-controlled AI assistant primarily designed to search, play, and manage YouTube music. It
+uses speech recognition for commands, PyAutoGUI and Pynput to control the browser and system, and Levenshtein
+distance to track similar songs in a MySQL database. Users can request specific songs, play random songs,
+display their music list, and stop playback, all hands-free. The assistant also maintains a personalized song
+history, ensuring an intelligent and seamless music experience.
+MalikPetShop MalikPetShop
+• Currently developing a Pet Shop web application that will allow users to browse and purchase pet-related products
+across categories like cats, dogs, birds, and more. The project includes an admin dashboard for managing products with
+details such as brand, flavor, and diet type. Building a responsive frontend using React.js and integrating it with a
+Node.js (Express) and MongoDB backend. Focused on creating a scalable architecture and smooth user experience
+throughout the development process.
+Experience
+Training & Internship Coordinator August 2025 – present
+Batch of 2024 NIT JSR
+• Manage and coordinate student training programs and internship opportunities, ensuring smooth execution and effective
+industry collaboration.
+Conducted two codeforces Contest June 2025
+• Successfully conducted two Codeforces programming contests for the class. Achieved participation from around half of
+the students, ensuring competitive engagement. Managed contest setup, problem selection, and real-time monitoring,
+promoting practical coding skills.
+Algorithmic Competitions/Achievements
+• Solved total 300+ DSA problems on 3 platforms, which are Leetcode, GFG and Codeforces, enhancing
+problem-solving skills.
+• Current rating on Codeforces is 973 (Max. 1040)
+• Secured Rank 1 in the AI/ML competition organized by our college society (SCSE)

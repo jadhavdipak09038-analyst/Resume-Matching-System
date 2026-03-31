@@ -1,0 +1,31 @@
+SHIVAM
+Saharanpur,India | shivamr9951@gmail.com|+91 - 9759841868
+Linkedin: shivbaliyanhere , GitHub : shivambaliyan77, Leetcode : shivam_baliyan48/
+PROFILE
+Entry-level Software Developer skilled in MERN stack development, Java OOPs, and Data Structures &
+Algorithms, with foundational knowledge of data analysis. Looking for an opportunity to grow technically
+while contributing to real-world projects
+EXPERIENCE
+Front- end Developer intern – Eduent IBM-skillbuild Aug’25 – Oct’2025
+Java Programming intern – internpe Pvt ltd. Aug’24 – Oct’2024
+Front-end Developer intern – Durbhasi Education ltd Jan’24 – Mar’2025
+EDUCATION
+QUANTUM UNIVERSITY,ROORKEE (INDIA) Aug’22 – June’2026
+Pursuing Bachelor of Technology in Computer Science
+ADARSH INTER COLLEGE, TALHERI,SAHARANPUR (UP) July’19 – Apr’2019
+Intermediate (UP Board - 66%)
+ADARSH INTER COLLEGE, TALHERI,SAHARANPUR (UP) July’17 – Mar’2017
+High school (UP Board - 75%)
+SKILLS
+Programming & Development : Java and OOP’S Concept ,DSA(Data Structure and Algorithms), JavaScript, React.js,
+Node.js MongoDB, HTML, Tailwind CSS ,Express.js
+Minor Knowledge : Data Analyst ,SQL, Excel and Software Testing
+Coursework : Database and Management System, Artificial intelligence ,Computer Network, Operating System
+Soft skills : Effective Communication ,Problem - Solving, Logical Thinking, Adaptability Time Management
+PROJRCTS
+Task Management System with Authentication (React.js):React Hooks, protected routes, CRUD operations,
+responsive UI
+AI-Powered Job Recommendation System (MERN): Skill matching, AI recommendations, REST APIs
+Commerce Web Application with Payment Gateway (MERN): Product listing, cart, order management, user
+authentication , Integrated secure payment gateway (Stripe/ Razorpay) , REST APIs
+CERTIFICATION : Gen AI -TATA, Data Analysis - Google,

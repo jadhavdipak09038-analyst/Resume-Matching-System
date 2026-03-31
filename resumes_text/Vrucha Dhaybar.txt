@@ -1,0 +1,34 @@
+VRUCHA DHAYBAR
+vruchadilipdhaybar@gmail.com linkedin.com/in/vrucha-dhaybar
+EDUCATION
+Bachelor of technology in Computer Science
+Ajeenkya D Y Patil University
+2023-2026
+Diploma in Computer Science
+Pimpri Chinchwad Polytechnic
+2021-2023
+Higher Secondary Education
+Priyadarshani School (12th grade)
+2020-2021
+PROJECTS
+Hospital Management System
+Built a hospital management system using Php.
+Implemented multi-user authentication for doctor, admin, and patient roles
+Paddy Crop disease Prediction
+Implemented a Python-based interface for uploading and analysing leaf images.
+Utilized file system storage for managing input images and disease detection results.
+Tours and Travel Agency Website
+Developed a Tours and Travel Agency Website with 9 modules
+Implemented JS,CSS and HTML to enhance user experience
+Animal NGO Website
+Developed an Animal NGO website to promote animal welfare and community
+engagement
+Implemented HTML, CSS, and JavaScript
+Web Calculator
+Built a simple web based calculator with basic operations
+Used HTML,CSS and JS
+TECHNICAL SKILLS
+Programming Languages: Python,CSS,JavaScript,HTML,Php,Sql
+Database Management: MySQL
+Development tools: VS code, Tableau
+Frameworks: Django

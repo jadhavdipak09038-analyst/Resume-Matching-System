@@ -1,0 +1,44 @@
+Surishetty Harivallabha Sai
+vallabha1243@gmail.com | +91-9030306442 | GitHub: vallabhatech
+LinkedIn: surishetty-harivallabha-sai | Portfolio
+Education
+CVR College of Engineering , Hyderabad
+B.Tech in Computer Science and Engineering 2023 – 2027
+CGPA: 7.74 (till date)
+Narayana Junior College , Hyderabad
+Intermediate (MPC) 2021 – 2023
+Percentage: 85.1%
+Narayana School , Hyderabad
+SSC (10th Grade) 2020
+GPA: 10.0 / 10.0
+Technical Skills
+Languages: Python, Java, C, JavaScript, SQL, HTML, CSS, Bootstrap,
+Kotlin
+Libraries: Streamlit, TensorFlow, scikit-learn, NumPy, pandas,
+Matplotlib, Seaborn
+Tools & Platforms: Git, Jupyter, Firebase, Figma, Adobe Photoshop,
+Android Studio
+Databases: MongoDB
+Projects
+CareSync – Mental Health Conversational Bot (2025)
+An AI-first-aid chatbot designed to help GenZ handle anxiety, burnout, and stress. Focuses on accessibility,
+reducing stigma, and privacy. Github: https://github.com/vallabhatech/CareSync
+FoodAid – Humanitarian Food Donation Platform (2025)
+A minimal food-donation app connecting donors, admins, and volunteers to redistribute surplus food efficiently.
+Focuses on quick assignments, tracking donations, and optional map-based pickups.
+GitHub: https://github.com/vallabhatech/FeediFy
+TimeTable – Automated Academic Timetable Generator (2025)
+A web-based platform that generates conflict-free academic schedules using constraint-based algorithms. Supports
+teacher, room, and semester constraints with PDF export and role-based access.
+GitHub: https://github.com/vallabhatech/TimeTable
+Hangman Game with Tkinter GUI (2024)
+Python-based desktop app with difficulty levels, sound support, timer, category filter, and a clean UI using Tkinter
+and PIL. Github: https://github.com/vallabhatech/Hangman
+Experience & Activities
+IEEE CVRCoE Student Branch – Public Relations Member | Jan 2025 – Present
+IKSHANA NGO – Head of Logistics | Jan 2025 – Present
+CSI Member & NSS Volunteer – CVR College
+Certifications & Coursework
+• DBMS (Oracle SQL, PL/SQL) • Firebase Authentication & Firestore
+• Advanced Data Structures in Java • GitHub & Version Control
+• AI/ML Foundations – Deep Learning • Figma UI/UX Design

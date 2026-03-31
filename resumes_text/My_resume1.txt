@@ -1,0 +1,35 @@
+DEEPAK KUMAR
++917541072281 I deepakkumarkuswaha7@gmail.com I www.linkedin.com/in/deepakkumar7541072281
+Noida (UP), 201301
+Career Objective:
+Aspiring IT Professional | Python Development | Technology Enthusiast
+Motivated and detail-oriented aspiring IT professional with a strong foundation in Python
+programming and problem-solving. Eager to contribute technical skills and creativity to
+dynamic, growth-driven teams.
+TECHNICAL SKILLS
+• Frontend: JavaScript, HTML, CSS, Tailwind CSS
+• Backend: Python, Node.js
+• Database: SQL, DBMS, MySQL,
+• Tools & Platforms: Git, GitHub, VSCode, Jupyter Notebook
+• Programming languages: JavaScript, Python (Advanced), C, C++ (Basic)
+• Library: NumPy, Pandas, Matplotlib, Seaborn, React JS
+• Additional: Prompt Engineering, SDLC
+• Framework: Django, Flask
+EDUCATION
+❖ Bachelor of Computer Application (Maharishi Dayanand University-MDU Rohtak) 2022-2025
+OTHER SKILLS
+Management Skill, Problem Solving, Communication Skill
+Project
+• E-Commerce Website (Product)
+• Uber Clone (HTML, CSS, JS)
+• Blogging App
+• Dashboard of the Hospital for analysis of the waiting list Patient (Power BI)
+EXTRA-CURRICULAR ACTIVITIES
+• Course : (Full-Stack Python Developer)
+Institute: QSpider Software Testing
+Institute, Noida
+• Mathon attended: (Running)
+Faridabad Half Marathon (5 km)
+DECLARATION:
+I hereby declare that the information provided above is true and accurate to the best of my knowledge. I take full
+responsibility for the authenticity of the details mentioned.

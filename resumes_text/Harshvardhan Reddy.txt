@@ -1,0 +1,41 @@
+SOLIPURAM HARSHAVARDHAN REDDY
+Contact Number: 9515787930 Email: Harsha.solipuram@gmail.com
+SUMMARY
+Energetic and dedicated Electronics Engineering graduate with a strong passion for emerging technologies and continuous learning.
+Driven by curiosity and a commitment to innovation, with a focus on building problem-solving abilities through hands-on
+experience. Recognized as a quick learner, adaptable, and hardworking. Eager to contribute meaningfully and grow within a
+dynamic, forward-thinking team.
+EDUCATION
+Bachelor of Technology - Electronics and Communication Engineering Nov 2021- May 2025
+Geethanjali College of Engineering and Technology CGPA: 7.8
+Intermediate Jun 2019- May 2021
+Akshara Junior College Percentage: 72
+School (CBSE) Jun 2018- May 2019
+St. Andrew’s High School Percentage - 75
+TECHNICAL SKILLS
+Programming Languages: Python, C.
+Web Development: HTML, CSS.
+Tools & Applications: Canva, Figma, Illustrator.
+INTERNSHIP AND CERTIFICATIONS
+Embedded Systems and IoT Intern- NSIC
+• Gained practical experience in embedded systems using Arduino Uno. Learned to implement contactless
+automation for improved hygiene and usability.
+• Developed skills in embedded programming, sensor integration, and actuator control.
+Completed an Internship on Amazon Web Services and learnt the basic principles and tools useful for it.
+PROJECTS
+Stock Price Prediction using Deep Learning (Dec 2024 – Mar 2025)
+Developed and evaluated a robust stock forecasting system by implementing and comparing multiple models, including Linear
+Regression, Random Forest, LSTM, and RNN.
+The project involved advanced data preprocessing, feature engineering (integrating sentiment/macro data), and rigorous
+performance assessment using MSE and directional accuracy to identify optimal models for non-linear, time-series financial data.
+IoT Based Power Management System (Oct 2024 – Dec 2024)
+Developed a hybrid, cost-effective IoT home automation system utilizing the NodeMCU ESP8266 and Blynk platform for remote
+appliance control.
+Engineered seamless integration between smart and traditional manual switches using relays, ensuring both remote and local
+operational reliability.
+Demonstrated the feasibility of a highly scalable system that provides real-time control, feedback, and broad compatibility without
+requiring existing infrastructure overhaul.
+ACHIEVEMENTS
+• Volunteer in the event “GS – MUN 2K25” held in college.
+• Volunteer in the event “International Conference on Computational Intelligence in Machine Learning (ICCIML) 2023” held
+in college.

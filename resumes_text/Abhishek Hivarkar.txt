@@ -1,0 +1,42 @@
+Abhishek Hivarkar
++91 82379 75464 | abhihivarkar783@gmail.com
+GitHub: github.com/Abhishekhivarkar | LinkedIn: linkedin.com/in/abhishek-hivarkar681355354/
+Professional Summary
+B.Com graduate with 7 months of Academic experience in full-stack web development through a
+full-time training program. Proficient in Python (Django), JavaScript (React), and SQL. Completed
+several real-world projects focused on performance optimization and user-centric design. While
+not yet professionally employed, I have gained strong practical knowledge and development
+experience through intensive training and agile methodologies.
+Education
+Bachelor of Commerce (B.Com)
+Savitribai Phule Pune University — Expected Graduation: 2025
+CGPA: 8.0 / 10
+Technical Skills
+Front-End :- HTML5, CSS3(TAILWIND CSS), JavaScript (ES6+), React, Bootstrap
+Back-End :- Python (Django), REST APIs, MySQL ,MongoDB,Express,Node
+Tools :- Git, GitHub, VS Code,
+Projects
+Swiggy Clone (React)
+GitHub Repository: https://github.com/Abhishekhivarkar/Swiggy_clone
+Vercel live link :- https://swiggy-clone-seven-peach.vercel.app/
+Built a full front-end clone with user authentication, form validation, and cart management.
+Integrated REST APIs using Axios for dynamic menu and restaurant data. Implemented
+protected routes with React Router and optimized UI flows with React Hook Form.
+Portfolio (React)
+GitHub Repository: https://github.com/Abhishekhivarkar/React_portfolio
+Vercel live link :- https://react-portfolio-coral-tau.vercel.app/Built a fully responsive personal portfolio with advanced animations and interactive 3D
+scenes. Used Framer Motion for smooth page transitions and micro-interactions, React
+Three Fiber for real-time 3D graphics, and Tailwind CSS for a clean, scalable UI design.
+Focused on performance optimization despite heavy animation workloads.
+Real time chat App (React + Socket.io)
+GitHub Repository: https://github.com/Abhishekhivarkar/Chat_app-react-
+Vercel live link :- https://chat-app-react-blond.vercel.app/
+Developed a real-time messaging app with event-driven communication using
+Socket.io. Implemented user presence, message delivery, and responsive chat UI.
+Focused on clean component structure and reliable bi-directional data updates.
+Certifications
+- IBM Certificate in HTML, MySQL, and Python
+Additional Information
+Languages: English, Hindi, Marathi
+Interests: Photography, Video Games, Coding
+Location : Tapkir Mala Chowk, Rahatni, Keshar Laxmi Residency, Pune - 411017

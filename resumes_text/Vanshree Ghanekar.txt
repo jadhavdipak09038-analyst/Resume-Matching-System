@@ -1,0 +1,43 @@
+Vanshree Ghanekar
+Pune, Maharashtra | +91-880-666-5261 | ghanekarvanshree@gmail.com | GitHub:
+github.com/vanshree1412/PowerBI | LinkedIn: linkedin.com/in/vanshree-ghanekar-2b75511b9
+Professional Summary
+Detail-oriented Data Analyst with expertise in Python, SQL, and advanced visualization tools
+including Power BI and Tableau. Experienced in building dashboards, analyzing complex
+datasets, and documenting structured workflows. Recently completed a Data Science and AI
+Master’s program. Skilled in collaborating with large language models (LLMs), simulating real-
+world digital workflows, and producing step-by-step instructions for automation. Seeking a role
+in data annotation and digital task automation to contribute to the advancement of AI
+technologies.
+Technical & Professional Skills
+• Tools & Platforms: Power BI, Tableau, Excel, Notepad, Google Forms, Slack, Canva, Microsoft
+Word, Dropbox, Zoom
+• Programming: Python, SQL
+• Data Handling: Data Cleaning, Data Wrangling, Workflow Documentation, Data Annotation
+• Soft Skills: Attention to Detail, Critical Thinking, Independent Working, Structured
+Documentation
+Education
+Master in Data Science & Analytics with AI, IT Vedant Education Pvt. Ltd. (Sep 2024 – Present)
+PG Diploma in Dietetics & Nutrition, Symbiosis Skills & Professional University – 2021
+MSc in Mathematics, Vikram University, Ujjain – 2002
+BSc in Computer Science, Holkar Science College, Indore – 1999
+SSC, Lokmanya Tilak School, Ujjain – 1996
+Work Experience
+Clinical Nutritionist | FITIPQI (Mar 2023 – Dec 2023)
+• Evaluated patients’ dietary habits and medical history.
+• Developed personalized meal plans for conditions like diabetes, obesity, heart disease.
+• Monitored dietary compliance and nutrient intake.
+Projects & Relevant Experience
+Metabolic Syndrome Analysis – Power BI
+• Built an interactive dashboard analyzing physiological data and trends.
+• Reduced load time by 40%, enhancing reporting speed and efficiency.
+• Annotated workflows with charts, maps, and narrative summaries.Police Fatalities Dashboard – Power BI
+• Created a 5-year trend dashboard with various visualization tools.
+• Reduced data load time by 30% and improved insight delivery.
+Product Sales Analysis – Excel
+• Conducted data analysis using PivotTables and slicers.
+• Documented analysis steps and presented sales trends visually.
+Digital Task Simulation (Independent)
+• Practiced simulating user tasks and documenting workflows across tools like Google Forms,
+Notepad, Canva, and Slack.
+• Developed SOPs and clear prompt-based instructions for task automation and annotation.

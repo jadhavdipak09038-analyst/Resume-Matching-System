@@ -1,0 +1,40 @@
+Minal Deepak Dhapke
+Nagpur Maharashtra India | minaldhapke@gmail.com | (+91) 9359672267 | Linkedln | GitHub | Portfolio
+CAREER OBJECTIVE
+Motivated and enthusiastic fresher with a strong passion for learning and problem-solving. Seeking an opportunity to
+apply my skills in [Data analysis and Data Scientists] and contribute to a dynamic team while growing professionally.
+TECHNICAL SKILLS
+Data Science, Basics of Machine Learning, Python, MySQL, Scikit learn, Data Manipulation, Pandas, NumPy,
+Data Analytics, Data Visualization, Matplotlib, Seaborn, Data Cleaning, Data Transformation, Microsoft
+PowerPoint, Microsoft Excel, EDA, Jupiter Notebook, Vs code, GitHub.
+SOFT SKILLS
+Effective Communication | Analytical Thinking | Public Speaking | Leadership Quality | Problem Solving |
+Teamwork | Time Management
+EDUCATION
+B.TECH Electronic and Telecommunication 9.60 CGPA / 7th sem
+INTERNSHIPS
+Python Development Intern (Certificate)
+Saiket Systems | Duration: 1 Month (Jan-Feb 2024)
+Proficiently Performed Extensive Data Analysis and Manipulation Using Python, Harnessing Libraries Like
+Pandas, NumPy, Matplotlib and Seaborn to Gain the Valuable Insight from Data
+PROJECTS
+Linear Regression-Based Iris Flower Prediction (LINK)
+Project Objective: Developed a Machine Learning model using Linear Regression to predict Sepal Length in
+the Iris dataset based on petal and sepal attributes.
+Learning and Results: Gained expertise in data preprocessing, correlation analysis, and model evaluation,
+achieving an R² score of 0.80 and an MSE of 0.11, demonstrating strong model performance.
+Tools: Machine Learning, Linear Regression, Python, Pandas, NumPy, Seaborn, Matplotlib.
+Data analysis using- SQL (LINK)
+Gained hands-on experience in designing efficient queries, optimizing database performance, and deriving
+actionable insights for strategic decision-making.
+Proficient in utilizing SQL to uncover patterns, optimize data systems, and transform raw data into impactful
+business insights.
+Diwali Sales Analysis using-Python(LINK)
+I dived into Diwali sales data to uncover insights based on gender, age, state, marital status, occupation,
+and product categories.
+CERTIFICATION
+➢ Simplilearn Introduction to Data analytics (Link)
+➢ NPTEL The joy of computing using Python (Link)
+➢ Simplilearn (Microsoft) Power BI for Beginners (Link)
+ACHIEVEMENT
+➢ Secured 2nd Rank in the 5th Semester with an SGPA of 9.95 at JD College of Engineering and Management

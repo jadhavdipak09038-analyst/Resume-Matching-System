@@ -1,0 +1,53 @@
+Kuldeep Thakur
++91 8085420225 | kuldeepthakur48388@gmail.com | linkedin.com/in/kuldeepthakur1211 | https://github.com/kt1211
+Education
+Avantika University
+Ujjain, Madhya Pradesh, India
+Bachelor of Technology in Computer Science and Engineering : CGPA 7.9 Aug 2022 to Present
+Pushkar School
+Ujjain, Madhya Pradesh, India
+Senior Secondary Education MP Board (Class 12) : Percentage 81% April 2022
+Secondary Education MP Board (Class 10) : Percentage 89% June 2020
+Experience
+Data Analytics With Tableau Intern May 2025 - June 2025
+Smart-Bridge Remote
+Worked on data analytics and visualization projects using Tableau to create interactive dashboards.
+Cleaned, processed, and analyzed datasets using Python and SQL for meaningful insights.
+Collaborated with the team to identify trends, patterns, and actionable business recommendations.
+Gained hands-on experience in data-driven decision making, reporting, and presentation of analytics results.
+Hackathon Tech Sprint, Grafest 2025
+May 2025
+Graphic Era University, Dehradun
+Secured a position in the Top 20 teams among 100+ participants in the Tech Sprint coding and innovation
+challenge.
+Collaborated with a team of four to brainstorm, code, and present a technical solution under time constraints.
+Projects
+CARA UI UX Enhancement
+March 2025
+Academic Project
+Objective: To develop an intuitive and responsive UI using React for an improved user experience.
+Role: Designed interactive components, implemented responsive layouts, & optimized performance.
+Impact: Enhanced usability, improved navigation, and delivered a Collaborated with a team of four to
+brainstorm, code, and present a technical solution under time constraints.
+Employee Satisfaction Data Analysis February 2025
+Academic Project
+Objective: To analyze employee satisfaction trends using data analytics and machine learning for improved
+retention strategies.
+Role: Designed Power BI dashboards, applied predictive analytics for attrition forecasting, and optimized SQL
+queries for efficiency.
+Impact: Enhanced decision-making, identified key satisfaction drivers, and improved data processing speed by
+30%.
+Certifications and Achievements
+Data Analytics Essentials – Infosys
+Advanced Statistics for Machine Learning – Infosys
+Foundation of Data Science – Infosys
+Foundation of Artificial Intelligence (AI) – IBM
+E-Summit’25 Participation Certificate – IIT Indore
+Technical Skills
+Programming Languages: C, C++, Python
+Web Development: React, HTML, CSS
+Databases: MySQL
+Tools & Technologies: Tableau, Power BI, Figma, GitHub
+Core Concepts: Object-Oriented Programming, Data Structures & Algorithms , Database Management Systems
+UI/UX & Design Skills: User Interface (UI) Design, User Experience (UX) Design, User Research , User
+Experience Design

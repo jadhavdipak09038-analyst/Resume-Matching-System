@@ -1,0 +1,57 @@
+Soniya Nishad
+(FullStackJavaDeveloper)
+soniyanishad10@gmail.com7397967845LinkedIn:www.linkedin.com/in/soniyanishadGitHub:github.com/soniyanishad
+SUMMARY
+JavaFullStackDeveloperwithhands-onskillsinJava,SpringBoot,React,andMySQL.Experiencedin
+developingscalable,real-worldfull-stackapplicationswithcleanarchitectureandresponsiveUI.Strong
+understandingof RESTful APIs,MVC,andfrontend/backendintegration.Eagertocontributetoa
+collaborative,fast-paceddevelopmentteam.
+PROJECTS
+ZIDIOConnect–OnlineJobPortal(Technologies:Java,SpringBoot,JDBC,MySQL,HTML,CSS,JavaScript)
+● Developedrole-basedmodulesforAdmin,Recruiter,andStudentwithdistinctaccessandfunctionality.
+● Implementedkeyfeatureslikejobposting,applicationtracking,resumeupload,andstatusupdatesforapplicants.
+● BuiltsecureandscalableRESTAPIsusingSpringBoot,andintegratedthemwithdynamicfrontendusing
+HTML/CSS/JS.
+● UsedJDBCandcoreJavaforhandlingbackendbusinesslogicanddatabaseoperationswithMySQL.
+BankingManagementSystem(Technologies:Java,SpringBoot,React,MySQL)
+● ImplementeduserauthenticationwithSpringSecurity
+● DevelopedRESTAPIsfortransactionandaccountmanagement
+● DesignedresponsivefrontendusingReact
+● UsedMySQLandJPAfordatapersistence
+Real-TimeChatSystem(Technologies:Java,SocketProgramming,Multithreading)
+● Builtaclient-serverchatappwithreal-timemessageexchange
+● UsedJavasocketsandthreadstohandlemultipleclientssimultaneously
+QRCodeGenerator(Technologies:HTML,CSS,JavaScript)
+● GeneratedQRcodesfromuserinputusinganAPI
+● EnableduserstodownloadthegeneratedQRimage
+BubbleShooterGame(Technologies:HTML,CSS,JavaScript)
+● Developedareflex-basedbubbleclickinggame
+● UsedDOMmanipulationandtimer-basedscoringsystem
+Jan2025-Present CETPAInfotechpvt..ltd. NOIDA,UP
+Trainee
+● Developedfull-stackapplicationsusingJava,SpringBoot,andReact
+● BuiltRESTfulAPIs,designedUIcomponents,andworkedwithMySQL
+● Gainedexperiencewithversioncontrol(Git)and(Github)
+Jun2023-Dec2023 GIGDEGLOBAL NOIDA,UP
+SeniorSEOExecutive
+● Boostedorganictrafficby70%andconversionsby25%throughcontent&techSEO.
+● Maintained15+dynamicpagesusingHTML/CSS/JavaScriptandimprovedloadspeedby30%.
+● UsedGoogleAnalyticsandSearchConsoletotrackKPIsandkeywordperformance.
+● CollaboratedwithdevteamstofixSEO-technicalconflictsandbugs.
+Mar2022-May2023 PNJSharptech
+NOIDA,UP
+SEOExecutive
+● ExecutedSEOfor7+websites;increaseddomainauthorityby35%.
+● Built100+backlinks/monthandimprovedSERPforprioritykeywords.
+● Diagnosedandresolved30+siteissueswithtechnicalauditsanddevteamcoordination.
+● Enhancedstructureddatawithschemamarkup,boostingcrawlabilityby40%.
+● UpdatedWordPresscontentwithbasiccodinginHTML.
+TechnicalSkills
+● Languages:Java,JavaScript
+● Frontend:HTML,CSS,React,Bootstrap,TailwindCSS,Saas
+● Backend:SpringBoot,Hibernate,RESTAPIs
+● Database:MySQL
+● Tools:Git,GitHub,Postman,Eclipse,VSCode
+● Concepts:OOP,MVC,Multithreading
+EDUCATION MCA 2014-2017SavitribaiPhulePuneUniversity Pune,Maharashtra
+BSC 2011-2014H.V.DesaiCollege Pune,Maharashtra

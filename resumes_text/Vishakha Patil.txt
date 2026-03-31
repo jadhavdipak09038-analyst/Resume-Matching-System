@@ -1,0 +1,79 @@
+VISHAKHA PATIL
+B.Tech. - Computer Science & Engineering
+Email: vishakha.patil@avantika.edu.in
+Jalgaon, Maharashtra, India - 425001
+LinkedIn: https://www.linkedin.com/in/vishakha-patil-770370286
+BRIEF SUMMARY
+I am a dedicated B. Tech student in Computer Science and Engineering , seeking my first work experience in the IT industry. With a
+strong academic background and proven skills in software development, I am eager to contribute to organizational growth while gaining
+practical experience in a professional environment and committed to learning growing and making a valuable contribution to a dynamic
+team
+I am a motivated Full Stack Developer with comprehensive experience in both Python and Java, having completed a six-month Full
+Stack Development course in Python and currently advancing my expertise through an ongoing Full Stack course in Java. I possess a
+strong command of front-end technologies, including HTML, CSS, JavaScript alongside proficiency in back-end technologies such as
+MongoDB, XAMPP and MySQL. My technical skills are further complemented by a solid understanding of Object-Oriented
+Programming (OOPs), Data Structures and Algorithms (DSA), and PHP. I have successfully completed multiple projects, including a
+Book Store web application and an IoT-based Greenhouse Monitoring and Control System using Juice SSH. I am eager to apply my
+skills and contribute to impactful and innovative full-stack development projects.
+KEY EXPERTISE
+Python HTML CSS JavaScript Bootstrap jQuery OOPS DSA Xampp Mysql Java Django
+EDUCATION
+Avantika University, Ujjain 2022 - 2026
+B.Tech. - Computer Science & Engineering | CGPA: 6.88 / 10
+Anudanit secondary and higher secondary school 2021
+12th | HSC - Maharashtra board | Percentage: 88.17 / 100
+Pratap Vidhya Mandir, Jalgaon 2019
+10th | SSC - Maharashtra board | Percentage: 73.60 / 100
+AWARDS AND SCHOLARSHIPS
+Securing 1st place in Tech Quest
+PROFESSIONAL EXPERIENCE
+Self-Learning | IT / Computers - Software | Training & Development 11 May, 2024 - 30 Nov, 2024
+Student / Fresher
+Key Skills: Python, java learner, fronted development, Mysql, DSA, OOPs, PHP, Web development, Django
+-
+INTERNSHIPS
+CODTECH IT SOLUTIONS PRIVATE LIMITED | IT / Computers - Software 30 May, 2025 - 30 Jul, 2025
+Intern – Full Stack Web Developer
+I completed an 8-week online internship in Full Stack Web Development at CODTECH IT SOLUTIONS PRIVATE LIMITED from May
+30, 2025, to July 30, 2025. I worked on web-based projects involving both front-end and back-end development, improving my skills in
+HTML, CSS, JavaScript, PHP, and MySQL. I gained hands-on experience with responsive design, user interface implementation, and
+server-side scripting. The internship enhanced my technical abilities, problem-solving skills, and project management experience.
+PROJECTS
+Desktop Application 12 Sep, 2024 - 12 Oct, 2024
+Mentor: Saurabh Sharma | Team Size: 2
+Key Skills: PHP ,Mysql
+Project Link: https://bookstorewebsite.com/BookStoreApp
+BookStoreApp using Xampp and PHP MysqlACHIEVEMENTS
+Securing 1st place in Tech Quest
+ASSESSMENTS / CERTIFICATIONS
+Vishakha patil
+Aggregate: 100 / 100
+Subjects: Data Analytics ( 100 / 100 )
+Key Skills: Data Analytics
+Data Analytics
+POSITIONS OF RESPONSIBILITY
+1st place in Tech Quest
+At AAROHA 2025 held from 31st january to 6th february 2025 at Avantika University, Ujjain
+SEMINARS / TRAININGS / WORKSHOPS
+TechCamp on google AIML Institute Name: Avantika University, Ujjain 01 Jul, 2024 - 03 Jul, 2024
+Key Skills: AIML
+Bascis logic of AIML
+CO-CURRICULAR ACTIVITIES
+Participation in college Fest
+EXTRA CURRICULAR ACTIVITIES
+Participation in college Fest
+PERSONAL INTERESTS / HOBBIES
+Leading group activities, Exploring new programming languages /Adventure & Travel – road trips or photography while exploring
+places.
+IMs
+Other - https://www.linkedin.com/in/vishakha-patil-770370286
+PERSONAL DETAILS
+Gender: Female Date of Birth: 02 May, 2003
+Marital Status: Single Known Languages: Marathi,English,Hindi
+Current Address: shiv colony, Jalgaon, Jalgaon, Maharashtra, Phone Number: +91-8766008712
+India - 425001
+Emails: vishakha.patil@avantika.edu.in , vishakha4448@gmail.com
+REFERENCES
+Vishakha patil
+(Student/Fresher, Student/Fresher)
+(+91-8766008712, vishakha4448@gmail.com)

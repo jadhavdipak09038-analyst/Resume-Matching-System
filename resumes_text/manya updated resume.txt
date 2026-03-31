@@ -1,0 +1,35 @@
+MANYA KAMRA
+9310642066 | manyakam04@gmail.com
+SUMMARY
+Motivated and detail-oriented Computer Science undergraduate with a strong foundation in programming and
+problem-solving. Currently enhancing skills in Python, SQL, and Data Structures. Eager to learn new
+technologies and contribute effectively to team projects and individual tasks. Known for the ability to quickly
+adapt to new tools and frameworks. A proactive learner, team player, and aspiring developer eager to
+contribute to innovative and impactful projects.
+TECHNICAL SKILLS
+WEB DEVELOPMENT TOOLS & TECHNOLOGIES LANGUAGES
+PROJECTS
+• Jarvis Voice Assistant Using Python
+A personal AI voice assistant built using Python that can perform tasks like opening applications,
+searching the web, and sending emails through voice commands — a unique feature that sets it apart
+from many existing assistants.
+Technologies Used: Python, SpeechRecognition, pyttsx3, smtplib
+• Weather Today – Web Application
+A user-friendly web application that provides real-time weather updates for any city using the
+OpenWeatherMap API.
+Technologies Used: HTML, CSS, JavaScript, OpenWeatherMap API
+• Smart Attendence System using Face Recognition
+Description: Developed an automated attendance system using real-time face recognition to mark
+attendance accurately and eliminate manual errors.
+Technologies Used: Python, OpenCV, Tkinter, MySQL, NumPy, Visual Studio Code, PyCharm
+EDUCATION
+Echelon Institute of Technology, Faridabad ( August 2022 - July 2026)
+B.Tech. in Computer Science Engineering |CGPA – 8.1Aggarwal Public School, Ballabgarh, Faridabad
+12th, CBSE Board (2022) - 82%
+10th, CBSE Board (2020) - 81%
+AWARDS & CERTIFICATES
+Certifications: NPTEL: Cognitive Psychology, Soft-skills, Public Speaking
+COE: Web Development, Personality Development
+IBM: Introduction to Artificial Intelligence
+Achievements: Published a research paper on “Intelligent Voice Assistance on IoT-
+based Smart Homes” in an international conference.

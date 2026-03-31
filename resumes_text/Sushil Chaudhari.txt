@@ -1,0 +1,43 @@
+OW
+S U S H I L C H A U D H A R I
+CAREER OBJECTIVE
+CONTACT
+Aspiring full stack developer pursuing a BCA with specialization in Data
++91 6398894006
+Science, with a strong foundation in programming and problem-solving.
+sushilchaudhri12345@gmail.com
+Seeking opportunities to apply technical knowledge in real-world
+Dehradun, Uttarakhand
+projects, contribute to innovative solutions, and grow as a software
+developer.
+EDUCATION PROJECTS
+2023-2026 Snake Game & Calculator
+JIGYASA UNIVERSITY
+Developed interactive mini-projects to enhance core web
+Bachelor in computer application development skills, focusing on user interface and functionality.
+GPA: 8.00/8.56
+To-Do List & Digital Clock
+GIC THANGDHAR CHAMBA ,TEHRI
+Class 12th Built responsive applications emphasizing state management and
+Persentage: 75%. (2022-2023) dynamic UI functionality.
+Class 10th
+persentage: 81% (2020-2021)
+Hospital Management
+System
+SKILLS
+Designed and implemented a Java terminal-based project to
+manage patients, doctors, and appointments.
+Programming Languages: Java,
+Spring Boot
+Task Management System
+Web Technologies: HTML, CSS,
+JavaScript, React.js Created a task management application using Java OOP concepts
+for efficient task creation, tracking, and completion.
+Databases: MySQL, MongoDB
+(Basic)
+CERTIFICATIONS
+LANGUAGES
+Oracle Data Platform 2025 Certified Foundations Associate
+English Aug 2025 | Oracle, Virtual
+Hindi Knowledge of Oracle Data Platform fundamentals, including data
+modeling, and data security.

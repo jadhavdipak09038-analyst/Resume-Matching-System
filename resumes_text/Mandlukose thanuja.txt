@@ -1,0 +1,50 @@
+THANUJA MANDLUKOSE
++91-6305370051 | thanumanlukose2004@gmail.com | Linkedin
+SUMMARY
+Detail-oriented and security-conscious IT professional with hands-on experience in full-stack development and database
+management. Proficient in Java, Python, SQL, and skilled in building responsive web applications using HTML, CSS, and
+JavaScript. Eager to contribute to software development, automation, and secure data handling within a fast-paced
+engineering team.
+EDUCATION
+MOHAN BABU UNIVERSITY Aug 2022 - Present
+Bachelor of Technology in Computer Science and Engineering Current CGPA- 8.9/10.0
+SKILLS
+Programming Languages: HTML,CSS, Python, Java, JavaScript, SQL
+Soft Skills: Excellent communication and interpersonal skills, punctual, ability to work independently and in team
+environments, proactive learner, Leader ship skills
+Languages : Telugu, Hindi, English (I can read and write these languages)
+Tools : VS Code, GitHub
+EXPERIENCE
+Tech Octanet Services -Web Development Intern March 2025-May 2025
+● Developed and deployed 5+ responsive web pages using HTML, CSS, JavaScript, and Bootstrap, improving user
+engagement by 30% through enhanced UI/UX.
+● Collaborated with a team of 4 to integrate RESTful APIs and optimize front-end performance, resulting in a 25%
+faster page load time and better mobile responsiveness.
+● Implemented automated testing scripts using Jest and Selenium, reducing bugs in production by 40% and improving
+deployment efficiency by 20%.
+PROJECTS
+E-Commerce Website March 2025-May 2025
+Renix
+● Designed and developed a full-stack E-commerce website using HTML, CSS, and JavaScript for the front-end and
+Java with SQL for the backend, enabling secure user authentication, product browsing, and order management.
+● Integrated dynamic features such as product search, shopping cart, and checkout functionality with SQL database
+connectivity, improving user experience and streamlining purchase flow by 60%.
+● Collaborated with a team of 3 developers to optimize front-end responsiveness and database performance, reducing
+page load time by 40% and ensuring scalability for high-volume traffic.
+Portfolio March 2025 - Jun 2025
+Octanet Services
+● Created a personal portfolio website using HTML, CSS, and JavaScript to showcase projects, skills, and
+achievements in an interactive and visually appealing format.
+● Implemented responsive design principles to ensure seamless accessibility across devices, improving user
+engagement and visibility by 50%.
+● Optimized website performance by reducing load time and structuring reusable code components,
+enhancing overall site efficiency and maintainability.
+Achievements & Certifications
+● AICTE - Web Full Stack Developer , Web Development
+● INFOSYS SPRING BOARD INTERNSHIP COMPLETION CERTIFICATION
+● HACKER RANK Certification for completion of CSS
+● SOLO LEARN - Introduction to HTML
+● GREAT LEARNING - Crash course on Front End Development, Front-End Development, java
+EXTRA-CURRICULAR ACTIVITIES
+● Exhibited leadership abilities while coordinating and contributing in the 3-day MOHAN MANTRA event
+conducted at college.

@@ -1,0 +1,50 @@
+ABHISHEK KUMAR GUPTA
++917255065014|Dehradun,Uttarakhand|
+gupta7255065014@gmail.com|www.linkedin.com/in/abhishekgupta382|
+Summary
+Currently pursuing B.Tech in Computer Science Engineering 8th semester), with a strong foundation in web
+development and data analysis .Eager to utilize technical skills to gather, analyze, and visualize data for
+actionable business.
+EDUCATION
+Bachelor of technology, Computer Science engineering, Jigyasa University , Dehradun CGPA 8.3
+10+2 BIHAR SCHOOL EXAMINATION BOARD, PATNA
+INTERNSHIP
+EY GDS-AICTE Web development intern 02/2024-04/24
+Car rental website :
+Technologies Used: Django, JavaScript, CSS, HTML, SQL
+➢ Developed a fully responsive car rental website, enabling users to browse, book, and manage
+car rentals through a user-friendly interface.
+➢ Implemented front-end using HTML, CSS, and JavaScript to ensure a seamless user
+experience across various devices and screen sizes.
+➢ Integrated Django as the back-end framework to manage authentication, vehicle
+inventory, booking system, and user data.
+Accenture North America Data Analytics and Visualization Job Simulation on Forage February 2024-August
+2024
+➢ Completed a simulation focused on advising a hypothetical social media client as a Data
+Analyst at Accenture.
+➢ Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform
+strategic decisions.
+➢ Prepared a PowerPoint deck and video presentation to communicate key insights for the client
+and internal Stakeholders
+Personal Projects
+1.Roasto food website
+Technologies Used: HTML, CSS
+➢ Designed and developed a responsive food website, Roasto showcasing restaurant menus, food
+items, and contact information.
+➢ Utilized HTML for structuring web pages and CSS for styling to create an engaging and visually
+appealing user Interface.
+2.AF News App
+Technologies Used: HTML, CSS, JavaScript
+➢ Developed a news application that dynamically fetches and displays the latest news articles
+using a clean and Responsive user interface.
+➢ Utilized HTML, CSS, and JavaScript to create a visually appealing, mobile-friendly design and
+ensure smooth navigation across various devices.
+3.QR Code Generator
+Technologies Used : HTML,CSS, JAVASCRIPT
+➢
+Developed an interactive QR code generator application that allows users to create and download
+QR codes for various input texts.
+Technical skills
+Languages: Proficient -> C,C++, Familiar with -> python,Java . net
+Web Technologies: HTML5, CSS3, JS, Django.
+Other: Problem solving, Data structures and algorithms ,SQL,EXCEL,POWER BI (Basic)

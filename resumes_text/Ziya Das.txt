@@ -1,0 +1,33 @@
+Ziya Dias
+Mumbai, Maharashtra, India | diasziya@gmail.com | 8446182908
+LinkedIn: https://www.linkedin.com/in/ziya-dias-9465652a8 | GitHub: https://github.com/ziya1122
+Professional Summary
+Computer Engineering student focused on full-stack development and machine learning. Experienced in building
+predictive models, interactive dashboards, and scalable web applications. Skilled in translating technical requirements
+into efficient, user-focused solutions.
+Education
+Fr. Conceicao Rodrigues College of Engineering - B.E. Computer Engineering (2023–2027) | CGPA: 8.61 / 10
+Prakash Vidyalaya & Junior College - HSC (2021–2023) | 72.67%
+Holy Cross Convent School- SSC (2011–2021) | 94.40%
+Technical Skills
+Languages: Java, Python, JavaScript, C
+Web: HTML, CSS, React, Node.js
+Databases: MySQL, PostgreSQL (Neon)
+Tools: Power BI, MS Excel, VS Code, GitHub, XAMPP
+Concepts: OOP, Data Structures, Predictive Modeling, REST APIs
+Projects
+AI vs Real Image Predictor-Built a CNN model on 5,000+ images achieving 90%+ accuracy using data augmentation
+and validation metrics.
+Student Dropout Prediction System-Developed a predictive model on 3,000+ records with 90% accuracy .
+WasteLens – AI Waste Classification - Designed an AI platform to classify waste materials and support recycling and
+monitoring workflows.
+Marine Biodiversity Monitoring Website - Developed a responsive website with interactive visualizations for tracking
+species and pollution indicators.
+Certifications
+Java Spring Framework - Simplilearn | Data Analytics Job Simulation - Deloitte Australia (Forage) | Software Engineering
+Job Simulation - Accenture Nordics (Forage)
+Extracurricular Experience
+School Teaching Program (One Semester) -Taught 30+ students weekly with a team of ten, created activity-based
+learning modules, and strengthened leadership and communication skills.
+Soft Skills
+Communication, Teamwork, Leadership, Problem-Solving, Time Management, Adaptability, Critical Thinking.

@@ -1,0 +1,33 @@
+Prashant Dnyaneshwar Padhi
+n 8898054428 | )n padhiprashant5@gmail.com | n Mumbai, Maharashtra
+n LinkedIn: https://www.linkedin.com/in/prashantpadhi
+Career Objective
+Motivated and detail-oriented IT professional with a strong foundation in programming, database
+management, and web technologies. Skilled in developing software solutions, problem-solving, and
+collaborating in team environments. Currently pursuing a B.Sc. in Information Technology, seeking
+opportunities to apply technical expertise and grow into roles such as Software Developer, Web Developer,
+or IT Support Engineer.
+Education
+(cid:127) B.Sc. in Information Technology (Ongoing), Smt. K. G. Mittal Institute of Management, Mumbai — 2nd
+Year
+(cid:127) Diploma in Information Technology, Kala Vidya Mandir Institute of Technology, Mumbai
+Technical Skills
+(cid:127) Programming Languages: Python, Java, C++, JavaScript, SQL, HTML, CSS
+(cid:127) Web Development: Frontend (HTML, CSS, JavaScript), Backend Basics
+(cid:127) Database Management: SQL, MySQL queries, Data handling
+(cid:127) Tools & Platforms: Microsoft Office Suite, Google Workspace, GitHub, VS Code, Eclipse
+(cid:127) Other Skills: Problem-solving, Debugging, Software Testing, Basic Graphic Design
+Projects
+(cid:127) ClothKart Website – E-commerce prototype using HTML, CSS & JavaScript
+(cid:127) Boutique Shop System (C++) – Desktop-based billing software
+(cid:127) Book Store Management (Java) – Inventory management application
+(cid:127) Paper Plane Animation – Creative project demonstrating programming logic and animation
+Internships & IT Experience
+(cid:127) Accelsius Services Pvt. Ltd. – JavaScript Engineer Intern - Contributed to AI dataset training using
+JavaScript modules - Assisted in developing and testing code components for automation -
+Collaborated with the IT team to ensure data accuracy and efficiency
+(cid:127) Freelance IT Projects & Academic Work - Designed small-scale web applications for learning and
+practice - Worked on data entry automation using Python scripts - Assisted peers in troubleshooting
+software and system issues
+Languages Known
+Odia | Hindi | English | Marathi

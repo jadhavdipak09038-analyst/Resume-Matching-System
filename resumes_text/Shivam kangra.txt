@@ -1,0 +1,40 @@
+SHIVAM KANGRA
++91-9729962860
+Shivu001700@gmail.com
+Github: https://github.com/shivamkangra17
+🔗LinkedIn: https://www.linkedin.com/in/shivam-kangra-a34107246
+CAREER OBJECTIVE
+To obtain a growth-oriented position in a reputed organization where I can effectively use my technical knowledge, creative problem-solving
+abilities, and strong dedication to contribute meaningfully towards the organization’s improvement, innovation, and long-term success. I aspire to
+work in a challenging and dynamic environment. My Goal is to Collaborate with a team of motivated professionals, take on diverse responsibilities
+, and actively participate in projects that drive organizational growth.
+EDUCATION
+Bachelor of Technology (Computer Science) 2020-2024 CBSE (Delhi Board)
+12th Grade: (2019-2020)
+10th Grade: (2017-2018)
+TECHNICAL SKILLS
+Languages: JavaScript, C/C++
+Technologies: HTML5, CSS3, React.js, Tailwind CSS, Bootstrap
+Databases: MySQL
+Tools & Platforms: Git, Githack, VS Code, Figma
+Additional Skills: REST APIs, Responsive Design, SEO Optimization
+PROJECTS EXPERIENCE
+Weather Application
+• Developed a responsive weather forecasting application that displays real-time weather data using an external weather API.
+• Implemented features such as city search, temperature display, weather conditions icons, and dynamic background changes based on
+weather.
+• Enhanced user Experience with clean UI design and mobile responsiveness.
+IMDb Frontend Clone
+• Developed a responsive IMDb-inspired frontend web app to display movies, ratings, and details using React.js .
+• Fetched and rendered dynamic movie data using QMDB API .
+• Implemented search functionality, routing, and clean UI with modern CSS/Bootstrap/ Tailwind.
+• Focused on component reusability, responsive layouts, and smooth user experience.
+ACADEMIC ACHIEVEMENTS
+• Certifications: Full Stack Web Development, Certificate for C/C++, Soft Skill Certification.
+• Leadership: Led a team of Classmates to design the UI/UX of a project using figma.
+WHY HIRE ME ?
+• Solid academic background in Computer Science with practical experience through hands on projects.
+• Contributing to full-stack projects during my Learning journey.
+• Quick Learner with a strong grasp of core web development concepts.
+• Demonstrated leadership and teamwork while collaborating on UI/UX design projects.Name -
+2

@@ -1,0 +1,27 @@
+RAHUL PAL
+Pithoragarh, Uttarakhand | 8868843807 | 2022bth@hzu.edu.in
+B.Tech Computer Science student with strong skills in programming, data structures, and
+problem-solving. Passionate about software development, artificial intelligence and eager to
+contribute to innovative projects with technical expertise and teamwork.
+PROJECTS
+SPAM EMAIL CLASSIFIER
+It helps to, Classify emails into Spam or Not Spam. In future, I can later extend it to SMS spam
+detection, phishing email detection and a bit more advanced.
+STOCK PRICE PREDICTION
+It helps to predict stock prices for the next day by analyzing previous data.
+EDUCATION
+2021-2022 INTERMEDIATE ,NATIONAL INSTITUTE OF OPEN SCHOOLING(NIOS)
+MARKS SCORED = 62.8%
+2022-2026 BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE,
+CGPA = 7.8 avg
+SKILLS HOBBIES
+• Programming Languages: C, C++, Python • FOOTBALL
+• Web Technologies: HTML, CSS, JavaScript, React • TRAVELLING
+• Database Management: MySQL • PROGRAMMING
+• Core CS Concepts: Data Structures & Algorithms, • MUSIC
+Object-Oriented Programming, Operating Systems,
+Computer Networks, Machine learning
+• Tools & Platforms: Git/GitHub, VS Code, Android
+Studio
+• Other Skills: Problem Solving, Debugging, Team
+Collaboration, Analytical Thinking

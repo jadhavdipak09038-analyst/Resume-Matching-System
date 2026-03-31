@@ -1,0 +1,57 @@
+Anamika Sharma
++91 9906076446 | E-mail id| LinkedIn | Github | Jammu, Jammu and Kashmir
+EDUCATION
+Model Institute of Engineering and Technology (Autonomous) Jammu,Jammu and Kashmir
+B. Tech in Computer Science: 7.76 CGPA 2022-2026
+SP Smart Higher Secondary School Jammu,Jammu and Kashmir
+12th Standard: 9.47 CGPA 2022
+ST. Joseph’s Convent High School Jammu,Jammu and Kashmir
+10th Standard: 9.95 CGPA 2020
+PROJECTS
+Employee Management System (EMS)
+• Developed a dynamic Employee Management System using React.js, featuring role-based dashboards, task tracking,
+and data persistence through Context API and localStorage.
+• Built an intuitive and responsive user interface with clean component architecture, ensuring seamless user
+experience and efficient state management.
+Movie Ticket Booking Web App: Quickshow
+• Built a fully responsive Movie Ticket Booking Web App using React.js and Tailwind CSS, delivering dynamic seat
+selection, real-time updates, and an engaging, interactive user interface.
+• Implemented role-based dashboards for users and admins, with multi-session login and seamless frontend state
+management using React Hooks and Context API, ensuring smooth navigation and data handling.
+• Optimized frontend performance and user experience, integrating dynamic UI components, real time validations, and automated
+notifications to create a polished, production-ready application.
+Personal Portfolio Website
+• Developed a responsive personal portfolio website using HTML, CSS showcasing projects, skills, and professional
+experience.
+• Implemented modern design, interactive elements, and responsive layout, ensuring seamless user experience
+across devices and optimized performance.
+INTERSHIP/TRAINING EXPERIENCE
+Celebal Technologies May 2025 – July 2025
+Frontend Development Training Jammu and Kashmir
+• Completed hands-on frontend training, developing and deploying responsive web pages using HTML, CSS,
+JavaScript, React.js, and Tailwind CSS, enhancing design and interactivity.
+• Gained practical experience in UI development, collaborating in an Agile environment to build user-friendly components
+and optimize web performance for real-world applications.
+RCPL (Ritusha Consultants Pvt. Ltd) July 2025 – August 2025
+DSA Training Program Jammu and Kashmir
+• Selected among the top 100 students to attend an intensive DSA training program focused on core data structures and
+algorithms.
+• Practiced coding problems and algorithmic concepts, strengthening problem-solving skills and logical thinking for real-world applications.
+TECHNICAL SKILLS
+Programming Languages: C++
+Frontend Development: HTML5, CSS3, JavaScript, TypeScript
+Frameworks & Libraries: React.js, Tailwind CSS
+Version Control & Collaboration: Git, GitHub
+Core CS Concepts: Operating Systems, RDBMS, Computer Networks, Database Management System
+Other Tools: VS Code, Code Blocks
+ACHIEVEMENTS
+HackCrux Hackathon – Runner-UP
+LNMIIT Jaipur
+- Developed a functional prototype of AnabellaBot under strict 24-hour time constraints, demonstrating
+rapid problem-solving and effective teamwork.
+- Delivered an end-to-end solution, including frontend, backend, and core automation features, earning
+runner-up recognition.
+Winner, Shakti Samvad Technical Poster Competition
+IIT BHU(Varanasi)
+- Outshine 50+ teams to secure first place and ₹8,000 prize.
+- Demonstrated technical creativity and effective presentation skills in poster design.

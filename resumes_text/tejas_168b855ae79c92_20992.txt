@@ -1,0 +1,57 @@
+Tejas Rajendra Hagwane
+Address: Pune, Maharashtra · Mobile: +91-8010392800 ·
+Email: tejashagwane65@gmail.com
+URL: LinkedIn: https://www.linkedin.com/in/tejas-hagwane
+Career Objective
+Detail-oriented and analytical B.Sc. (Computer Science) graduate with strong foundations in
+data analysis, statistics, and visualization. Proficient in Excel, SQL, Python, and Power BI. Eager
+to begin a career as a Data Analyst where I can apply my skills to derive actionable insights and
+contribute to data-driven decision-making.
+Education
+ T.Y. B.Sc. in Computer Science
+Sinhgad College of Science, Savitribai Phule Pune University, Pune (2022 – 2025)
+CGPA: 7.32
+Relevant Subjects: Data Analytics, Python Programming, Database Management,
+Statistics, Power BI
+ HSC (12th Grade)
+Mahatma Gandhi Junior College, Pune (2022)
+ SSC (10th Grade)
+Amar Education Institute, Pune (2020)
+Skills
+ Data Analysis: Excel, SQL, Python (Pandas, NumPy)
+ Data Visualization: Power BI, Tableau (basic), Matplotlib, Seaborn
+ Data Science: Machine learning, Deep learning
+ Database Management: MySQL, MS Access
+ Tools: Power BI Desktop, Jupyter Notebook, MS Excel
+ Soft Skills: Analytical Thinking, Problem-Solving, Communication, Attention to Detail
+Academic Projects
+1. Hospitality Management Dashboard – Power BI
+- Built an interactive Power BI dashboard using hotel sales data- Analyzed total profit, sales amount by region, and revenue by property
+- Used calculated columns and DAX measures for KPI tracking
+2. Data Cleaning and Analysis – Python
+- Cleaned and analyzed real-world banking datasets using Pandas
+- Performed exploratory data analysis and visualizations
+- Investigated factors influencing customer churn
+3. Bank Churn Prediction – Python, Scikit-learn, Streamlit
+- Built ML models using Random Forest, KNN, SVM, and Logistic Regression
+- Preprocessed data with StandardScaler, one-hot encoding, and SMOTE
+- Tuned models using GridSearchCV; evaluated using ROC-AUC
+- Deployed best model via Streamlit for real-time prediction
+Certifications
+ Data Analyst Track – DataCamp / Itvedant
+ Excel for Data Analysis – Itvedant
+ Power BI Desktop – Itvedant
+ SQL for Data Science – Itvedant / HackerRank
+ Python 101 for data sci – Itvedant/IBM
+ Machine learning - Itvedent/IBM
+ Data Analysis with Python – itvedent/IBM
+Internships / Workshops
+Workshop: Data Visualization using Power BI – 2-day hands-on workshop by Itvedant
+Yardgreen - Data Science Integrated Internship -by Itvedent
+ Data visualization using Power Bi and python
+ Data cleaning using pandas library
+ Created EDA Reports
+ Trained models
+Extra-Curricular Activities
+ Participated in Inter-College Data Analytics Hackathon
+ Volunteered in college tech-fest organizing committee

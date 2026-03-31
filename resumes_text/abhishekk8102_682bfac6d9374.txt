@@ -1,0 +1,33 @@
+ABHISHEK KUMAR
+L INKED I N
+abhishekk8102@gmail.coml | 7209285122 | GITHUB
+Education
+Indian Institute of Technology (IIT), Patna, India
+Bachelor of Science in Computer Science | CPI: 8.41 (2024 – 2027)
+KPS Memorial High School, Patna, India
+CBSE (Class X) – 90.2% | 2020
+Skills
+C++ | HTML | CSS | Python | Machine Learning | JavaScript | NodeJS | React | MongoDB | Blockchain | Solidity | MySQL | Git
+Work Experience
+Full Stack Web Development Intern – Apex Planet PVT LTD
+May 2025 – July 2025
+● Developed a dynamic full-stack web application with AI-powered features using the MERN stack.
+● Integrated machine learning APIs to automate intelligent content suggestions and enhance user interaction.
+● Deployed REST APIs with Node.js and MongoDB, ensuring optimized backend performance.
+Projects
+Online Voting System Using Blockchain (Aug 2024)
+● A Kickstarter-style decentralized web app using Solidity and React.js to reduce voting fraud via smart contracts.
+● Ensured transparent, tamper-proof voting records through blockchain transaction logs.
+YelpCamp (Oct 2024)
+● Full-stack campground listing platform built with Node.js, Express.js, MongoDB, and EJS.
+● Integrated Mapbox for real-time geolocation and Cloudinary for secure image hosting.
+● Enabled authentication with Passport.js and followed MVC architecture for clean, modular code.
+Academic and Extracurricular Achievements
+● Top 20 out of 1000 teams – Hackemon by She Builds, Galgotia University
+● Top 5 – Capstone Project, IIT Patna
+● Global Rank 622/13,985 – LeetCode Weekly Contest 202
+Positions of Responsibility
+Circle Head – Mushkurahat Foundation (Dec 2024 – Jan 2025)
+● Led crowdfunding initiatives for orphan and disabled children.
+Teacher
+● Conducted offline web development sessions for junior students.

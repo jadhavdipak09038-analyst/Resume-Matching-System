@@ -1,0 +1,54 @@
+ISHITA JAISWAL
+Full Stack Web Developer
+³ +91 92366 24623 @ jaiswalishita616@gmail.com
+q https://www.linkedin.com/in/ishita-jaiswal-95a120315/ 9 Barabanki, Uttar Pradesh 225001
+SUMMARY STRENGTHS
+Full-Stack Developer familiar with MongoDB, Express.js, React, and Teamwork
+Node.js. I have hands-on practice with basic web development and API
+Teamwork and collaboration skills in
+integration. Hardworking, quick to learn, and excited to contribute to a
+dynamic environments.
+development team as a fresher.
+Adaptability
+EXPERIENCE
+Ability to adapt readily to new tasks and
+challenges.
+MERN STACK SUMMER TRANING PROGRAM
+Pioneer Computers Meeting Deadlines
+07/2024 - 09/2024 Barabanki, India Commitment to meeting deadlines
+effectively.
+Training program focused on MERN stack development.
+• Successfully completed the MERN Full Stack Summer Training Quick Learner
+Program earning an A+ grade
+Adapt a new technology and always eager
+to upskill.
+EDUCATION
+Bachelor of Computer Applications-(79.5%) SKILLS
+Goel Institute of Higher Studies
+ HTML
+09/2022 - 06/2025 Lucknow, India  CSS
+ Tailwind CSS
+12th (66%)  JavaScript
+ React.js
+St.Anthony's School 04/2021 - 05/2022
+Barabanki,India  Node.js
+ Express.js
+10th (68.4%)  MongoDB
+St.Anthony's School 04/2019 - 05/2020
+Barabanki,India
+ Full-stack development
+CERTIFICATION
+PROJECTS
+MERN Full Stack Training
+Pioneer computers 1.) ChatApp : A modern chat application
+designed for secure and real time
+communication.
+Technology used: HTML, CSS, Bootstrap ,
+JavaScript,Node.js ,React.js,
+Express,socket.io, MongoDB.
+2.) Collage Management System: A
+College Project to manage whole
+college data system.
+Technology used: HTML, CSS, Tailwind
+CSS, JavaScript,Node.js ,React.js,
+Express, MongoDB.

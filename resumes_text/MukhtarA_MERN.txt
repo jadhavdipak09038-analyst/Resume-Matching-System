@@ -1,0 +1,40 @@
+Muktar Alam
+8287386605 | mukhtaralam8055@gmail.com |New Delhi, Delhi, India
+https://mukhtaralam.vercel.app | https://github.com/mukhtaransarii | https://linkedin.com/in/iibbs
+Summary
+Detail-Oriented Full Stack Developer Specializing in MERN Stack with a Focus on Scalable Web Applications and User-Centric
+Design.
+Skills
+Frontend: React, HTML, CSS, JavaScript, Tailwind CSS, Redux, ContextAPI
+Backend: Node.js, Express, REST APIs, JWT Authentication, Socket.IO
+Database: MongoDB
+Tools: Git, GitHub, Postman, Vercel, Render, Termux
+Google: Google Search Console, Google Analytics, Google AdSense
+Work Experience
+Inzovia – Full Stack Developer Mar 2025 – Jun 2025
+- Developed and maintained dynamic, user-centric web applications using React, Node.js, Express, and MongoDB.
+- Built and optimized REST APIs, ensuring scalability and seamless data flow across platforms.
+- Implemented JWT authentication and state management (Redux/Context API) to enhance app security and performance.
+- Integrated real-time communication features with Socket.IO, improving user engagement and responsiveness.
+Projects
+Nasara nasaraa.vercel.app Mar 2025 – Apr 2025
+- Developed a scalable e-commerce platform where store owners manage products and orders via an admin panel.
+- Optimized product fetching, improving load times by 80% through efficient API calls.
+- Implemented JWT authentication and Nodemailer, reducing unauthorized access attempts by 50%.
+- Integrated real-time order management, reducing order processing time by 40%.
+- Automated order pricing with GST 18% and a dynamic delivery charge system, enhancing accuracy by 95%.
+Postify https://postify-u14d.onrender.com Nov 2024 – Dec 2024
+- Designed a feature-rich social media platform with user authentication, content sharing, and engagement features.
+- Introduced an interactive comment system, boosting user engagement by 60%.
+- Implemented secure authentication and verification, increasing account security by 90%.
+Education
+Jb knowledge Park (MDU) Haryana, India
+Bachelor of Computer Applications (BCA) 2022 – 2025
+- Relevant Coursework: Database Management Systems, Web Development, UI/UX.
+- Honors: Top 5% of the batch
+Certifications
+HACKATHON CC link
+- React Frontend Web Development – 18 Mar 2024
+Achievements
+- Gained 14K+ Instagram followers by sharing engaging coding content, with top reels reaching 500K+ views and 15K+
+saves. - @ii.bbs

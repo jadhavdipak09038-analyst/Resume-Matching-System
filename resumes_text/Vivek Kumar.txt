@@ -1,0 +1,26 @@
+Vivek Kumar
+Frontend Developer
+vivek48027@gmail.com | htps://vivekpor�olios.netlify.app/
+Personal Summery
+Frontend Developer skilled in HTML, CSS, JavaScript, and React, with experience building
+responsive and interac�ve websites that deliver seamless user experiences.
+Passionate about clean UI design, performance op�miza�on, and wri�ng maintainable
+code.
+Technical Skills
+• HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, Bootstrap.
+• Git, GitHub
+• VS Code, Chrome DevTools.
+Projects
+• NoteShare is a sleek, modern pla�orm for sharing and discovering student notes. It
+features a clean, responsive UI that allows users to browse, upload, and purchase
+notes easily. Built with full-stack technologies, NoteShare supports secure user
+registra�on, OTP verifica�on, and dynamic pricing for note uploads. Link:
+htps://noteshare1.netlify.app/
+• A fully func�onal, interac�ve calculator built using HTML, CSS, and JavaScript.
+Features a clean, user-friendly interface.
+Link: htps://webcalculator123.netlify.app/
+Educa�on
+• Completed 10th in 2020 from Doon Bhar� public School (CBSE Board).
+• Completed 12th in 2022 from Jaypee public School (CBSE Board).
+• Pursuing BCA from Jb Knowledge Park college affiliated to Maharishi Dayanand
+University (MDU).

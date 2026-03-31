@@ -1,0 +1,44 @@
+Tushar Singh
+tusharsingh8734@gmail.com · Linkedin · Github · 9315957845
+Mysuru, Karnataka
+EDUCATION
+National Institute of Engineering, Mysuru Nov 2022 - July 2026
+B.E. in Computer Science and Engineering
+Kendriya Vidhyalaya May 2019 - March 2021
+Senior Secondary
+PROJECTS
+Kidney Disease Classification – TensorFlow, Keras, DVC, AWS
+Developed a end-to-end deep learning pipeline to classify kidney CT scanned images into
+normal/tumour categories with 90%+ accuracy.
+Managed data versioning with DVC and experiment tracking with MLflow.
+Deployed model on AWS EC2 via FastAPI with Bootstrap frontend.
+Designed a CI/CD pipeline using GitHub Actions for automated testing and deployment.
+Semantic Book Recommender – LangChain, ChromaDB, Hugging Face
+Implemented a hybrid recommendation system using Large Language Models (LLMs) and Retrieval-
+Augmented Generation (RAG) to deliver context-aware and sentiment-driven book suggestions.
+Created vector-based semantic search system for book recommendations using OpenAI and
+Huggingface embeddings.
+Integrated sentiment analysis to refine recommendations by emotion tone.
+Deployed via Gradio for interactive exploration of personalised suggestions.
+Azure Data Engineering Project – Azure Data Factory, Databricks, Synapse, Power BI
+Designed and implemented an end-to-end data pipeline on Azure, covering raw data ingestion,
+transformation, and reporting.
+Built a multi-zone data lake architecture (Raw, Processed, Curated) using Azure Data Lake Storage Gen2.
+Automated data workflows with Azure Data Factory and developed scalable ETL transformations with
+Databricks (PySpark).
+Loaded curated datasets into Azure Synapse Analytics to support analytical queries and BI dashboards.
+Implemented interactive Power BI dashboards to deliver actionable insights on sales and product
+performance.
+ACHIEVEMENTS & CERTIFICATIONS
+Machine Learning
+Supervised Machine Learning: Regression and Classification
+Unsupervised Learning, Recommenders, Reinforcement Learning
+Advanced Learning Algorithms
+TECHNICAL SKILLS
+Programming Languages: C++, Python
+Big Data & Analytics Tools: Apache Spark, Power BI
+Data Tools & Pipelines: DVC (Data Version Control), MLflow, ETL Pipelines
+Databases: MySQL, MongoDB
+Web & API Development: Flask, Django
+Cloud Platforms: AWS, Azure
+Other Tools: Github, Jupyter Labs, DagsHub, Docker

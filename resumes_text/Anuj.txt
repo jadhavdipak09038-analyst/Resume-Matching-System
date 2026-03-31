@@ -1,0 +1,41 @@
+Anuj Kumar
+FULL STACK DEVELOPER – Node, Express JavaScript & React
+Jhajjar Email: anujparmar696@gmail.com Phone: +91 7988493321 LinkedIn GitHub
+PROJECT EXPERIENCE:
+Proshop - E-commerce Application
+MERN Stack | React, Redux, Node.js, Express.js, MongoDB
+Developed a full-stack e-commerce web application with user authentication, product management, and cart
+functionality.
+Implemented RESTful APIs using Node.js and Express.js for handling users, products, and orders.
+Designed responsive frontend using React and Bootstrap with Redux for state management.
+Integrated JWT-based authentication and role-based access (Admin/User).
+Fordream - Blogging Application Backend
+Backend Application | Node.js & Express.js
+Developed a simple backend server using Node.js and Express.js.
+Created RESTful APIs to handle client requests and responses.
+Implemented basic CRUD operations (Create, Read, Update, Delete).
+Used Express routing and middleware for request handling.
+Implemented JSON-based data exchange between client and server.
+Added basic error handling and validation for API requests.
+Tested APIs using Postman.
+Cyber Pharma – Healthcare Information Website
+HTML , CSS ,` Responsive Web Design
+Designed and developed a healthcare-focused website providing information about doctor consultation and
+blood donation services.
+Created dedicated sections for blood bank availability and donor-related information.
+Implemented an emergency buzzer button feature to highlight urgent medical assistance needs.
+Designed clean and user-friendly UI using HTML and CSS.
+Implemented responsive layouts for better usability across different screen sizes.
+Focused on accessibility and clear navigation for healthcare-related content.
+SKILLS:
+Frontend : HTML , CSS , JAVASCRIPT , REACT (for making responsive UI’s)
+Backend : EXPRESS JS , NODE JS , (scalable API development, routing, middleware, and backend)
+Database : MONGODB , MYSQL(BASICS)
+Tools & Platforms : VSCODE , POSTMAN , (full-cycle development and debugging. )
+Education:
+B.Tech (Pursuing) – Jagannath University, Bahadurgarh (2023–2027)
+12th - Haryana Board, Adarsh Sr. Sec School (2022–2023)
+10th - Haryana Board , Shiksha Bharti High School(2020-2021)
+Certificates:
+Computer Networks And Internet Protocol– SWAYAM (NPTEL) -Link
+Software Engineering – SWAYAM(NPTEL)

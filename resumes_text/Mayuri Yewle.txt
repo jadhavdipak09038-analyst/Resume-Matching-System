@@ -1,0 +1,62 @@
+Mayuri Yewle
+📍 Kalyan, Maharashtra | ✉️ yewlemayuri@gmail.com | 🔗 LinkedIn | 🔗 GitHub |
++99833860156
+Professional Summary
+Data Analyst with expertise in SQL, Power BI, Python, and Machine Learning. Experienced in
+data extraction, visualization, and predictive modeling. Passionate about leveraging data-
+driven insights to optimize business decisions. Strong problem-solving skills and hands-on
+experience in database management, data automation, and dashboard creation.
+Work Experience
+Data Analyst Intern
+Digital Ipsum Pvt Ltd | January 2, 2025 – February 27, 2025
+ Collected and cleaned data using Instant Data Scraper, Web Scraper, BeautifulSoup,
+Requests, Selenium, and Excel (VLOOKUP, filters, data validation).
+ Built interactive Power BI dashboards using Power Query, DAX measures, charts,
+slicers, and icons for website, SEO, and SMO analysis.
+ Delivered comprehensive reports with lead generation insights, business
+recommendations, and project limitations.
+Skills
+Technical Skills
+✔ SQL (MySQL): Data Extraction, Joins, Subqueries, Data Manipulation, Aggregations
+✔ Advanced Excel: VLOOKUP, INDEX-MATCH, Pivot Tables, Data Validation, Conditional
+Formatting, Filters
+✔ Power BI: Power Query, DAX Measures, Interactive Dashboards, Data Visualization, Report
+Publishing
+✔ Python: Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping (BeautifulSoup, Selenium,
+Requests)
+✔ Machine Learning: Regression, Classification, Model Evaluation
+✔ Automation Tools: Instant Data Scraper, Web Scraper
+Soft Skills
+✔ Problem-Solving & Analytical Thinking
+✔ Data Interpretation & Decision-Making
+✔ Communication & Presentation SkillsEducation
+B.E. in Electronics & Telecommunication
+Aditya Engineering College | Graduation Year: October 2021
+CGPA: 7.36
+Certifications
+ Master in Data Science and Data Analytics with AI – It Vedant Pvt. Ltd.
+ Data Analytics with Python – IBM
+Projects
+Airline Database Management System
+ Developed an Airline Database Management System using MySQL to manage flight
+schedules, bookings, and customer data.
+ Designed a normalized database schema and implemented advanced SQL queries
+for booking management and flight searches.
+ Optimized performance using indexing techniques to enhance query efficiency.
+Laptop Price Predictor
+ Built a Laptop Price Prediction Model using machine learning algorithms (Linear
+Regression, Random Forest Regression) to estimate laptop prices based on
+specifications.
+ Analyzed and visualized insights to understand the impact of various features on
+pricing.
+Skalent India Database Dashboard – Power BI
+ Developed a comprehensive Power BI Dashboard for Skalent India to track business
+data and visualize key performance indicators (KPIs), trends, and operational
+metrics.
+ Integrated multiple data sources, cleaned and structured data, and built interactive
+dashboards for decision-making.
+ Designed custom visuals and reports to optimize business performance analysis.
+Additional Information
+ Available for immediate joining
+ Willing to relocate
+ Open to remote work opportunities

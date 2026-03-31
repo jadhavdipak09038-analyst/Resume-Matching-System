@@ -1,0 +1,51 @@
+SHRENIK LUNAWAT
+Data Analyst
+shreniklunawat21@gmail.com | 9921062027 | PUNE MAHARASHTRA
+LinkedIn
+A results-driven Data Analyst with a solid foundation in data analytics, business intelligence, and
+machine learning. Passionate about leveraging data to solve complex business problems and
+enhance decision-making. Adept at using tools like Python, SQL, Power BI, and Tableau.
+Demonstrated success in delivering 3+ data-driven projects that improved outcomes by 20% in
+academic and business contexts.
+SKILLS
+Programming & Analytics: Python, SQL, Machine Learning, Statistics
+Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Databases & Tools: MySQL, Jupyter Notebook, Google Colab, Excel (Advanced)
+ML Techniques: Supervised & Unsupervised Learning, Feature Engineering
+Soft Skills: Problem-Solving, Communication, Team Collaboration.
+WORK EXPERIENCE
+CAP Associate
+Amazon, Pune
+Aug 2020 – Aug 2021 | Sep 2023 – Mar 2024
+Resolved high volumes of customer service tickets while maintaining SLA adherence. Managed order
+tracking, data entry, and internal reporting in Excel. Collaborated with internal teams to identify process
+gaps and improve response efficiency. Gained valuable experience in structured problem-solving and
+customer behavior analysis.
+Projects
+Food and Beverages Sales Analysis
+SQL, Power BI
+Designed an interactive dashboard to analyze sales trends and customer preferences in the food
+& beverage industry. Integrated multiple datasets to derive insights on revenue and regional
+performance. Resulted in a 15% improvement in sales strategy effectiveness.
+Academic Performance Metrics
+SQL, Power BI
+Developed a dashboard to track student academic performance and trends. Enabled educators to
+identify key improvement areas, leading to curriculum enhancements.Wine Quality Prediction
+Python, Machine Learning
+Conducted exploratory data analysis and implemented models (Logistic Regression, Decision
+Tree, Random Forest) to classify wine quality. Tuned models using cross-validation and
+hyperparameter optimization for better accuracy.
+Education
+ITvedant Institute
+Data Science and Analytics with AI
+2025
+Savitribai Phule Pune University
+Bachelor of Science in Computer Science
+2020 | 60%
+EXTRA – CURRICULAR
+• Engaged in continuous learning and development through online data science platforms.
+• Regular contributor to data analysis forums and hackathons.
+• Passionate about simplifying complex data concepts through storytelling.
+Interests
+Data Storytelling | Business Intelligence | AI & ML | Dashboard Design | EdTech | Tech
+Communities

@@ -1,0 +1,58 @@
+MANIMOHAN MISTRY
+Software Engineer
+8080330928 | mohanmistry666@gmail.com | Nagpur, Maharashtra
+LinkedIn : https://www.linkedin.com/in/manimohan-mistry-468166287/ Portfolio : https://mohan’s-portfolio/netlify.app
+Github: https://github.com/manimohan-mistry/
+CAREER OBJECTIVE
+A passionate and detail-oriented Full Stack Developer with hands-on experience in building responsive and scalable web applications
+using modern technologies. Skilled in both frontend and backend development, with a strong foundation in problem-solving, clean
+coding practices, and database management. Eager to contribute technical expertise, collaborate with teams, and deliver user-friendly
+solutions that create impact.
+PROJECTS
+1. Wanderlust Project (Inspired by Airbnb) 2. Zerodha Full Stack Project
+A full Stack web app that lets users discover, book, and manage A full-stack stock trading web app inspired by Zerodha, built
+travel stays with a modern and responsive UI. with frontend, backend, and dashboard to simulate trading
+Key Features: and portfolio management.
+Authentication & Authorization – Secure signup, login, and Key Features:
+logout Authentication – Secure login & logout
+Property Listings – Add, edit, and delete stays with images, price, Dashboard – Portfolio and market overview
+and location Stock Trading – Dummy stock data with buy/sell
+Reviews & Ratings – Users can write and manage reviews functionality
+Interactive Map – Mapbox integration for location-based search Charts & Visualization – Interactive stock trends using
+Search & Filters – Find listings by location, price, or category Chart.js
+Responsive Design – Mobile-friendly experience Responsive UI – Mobile-friendly design
+Tech Stack: Express, Node, javascript, MongoDB, Bootstrap, API Tech Stack: Express, Node, javascript, MongoDB, Bootstrap,
+Integration, Authentication, Mapbox Api, Cloudinary, Ejs Templating, API Integration, Authentication, Material Ui, ReactJs,ChartJS
+Render
+3. Zoom Full Stack Project 4. Spotify UI Design
+A full-stack real-time video conferencing web app inspired by Zoom, A responsive music streaming web app inspired by Spotify,
+built with frontend, backend, and real-time communication features built using frontend technologies to replicate its sleek
+to simulate virtual meetings. interface and interactive player features.
+Key Features: Key Features:
+Authentication – Secure login & room access UI Design – Pixel-perfect Spotify-inspired layout with
+Video & Audio Calls – Peer-to-peer video and audio using responsive design
+WebRTC Interactive Controls – Functional progress bar and song
+Chat Messaging – Real-time text chat inside rooms playback controls
+Room Management – Create, join, and leave meeting rooms Playlist Section – Display and manage a list of tracks
+dynamically dynamically
+Responsive UI – Mobile and desktop-friendly interface
+Tech Stack: HTML, CSS, JavaScript
+Tech Stack: Node.js, Express.js, React.js, Socket.io, WebRTC,
+MongoDB, Bootstrap, Material-UI, RESTful APIs
+SKILLS EDUCATION
+Frontend: B.Tech - Computer Science And Engineering - J D College
+HTML, CSS, ReactJs, JavaScript, Tailwind CSS, Bootstrap, Material-UI Of Engineering And Management, Nagpur | 2022 - 2026
+Backend: CGPA: 8.5+
+Node.js, Express.js, RESTful APIs, Authentication & Authorization, MVC Higher Secondary - Netaji Subhas Chandra Bose Junior
+Architecture College, Sundernagar – Maharashtra State Board
+Programming: Percentage: 61.5 %
+Java, Data Structures & Algorithms (DSA), Object-Oriented Programming
+(OOP), Backtracking, Recursion, Linked List, Graphs CERTIFICATES & ACHIEVEMENTS
+Database: Full Stack Development: APNA COLLEGE.
+MongoDB, Mongoose, Data Design & Schema Modeling Programming & DSA: APNA COLLEGE.
+Version Control & Deployment: Soft Skill Development : NPTEL - IIT kharagpur
+Git, GitHub, Netlify, AWS, Render Social Network: NPTEL - IIT Madras
+Tools & Utilities:
+VS Code, Postman, npm, JSON, Figma, Chrome DevTools
+Other Concepts:
+Responsive Web Design, API Integration, Error Handling & Debugging

@@ -1,0 +1,94 @@
+ROSHAN ANSARI
+BCA
+📞 8076521230 @ ra786roshanansari@gmail.com 🔗 https://www.linkedin.com/in/roshan-ansari/ 📍 Faridabad
+SUMMARY
+A passionate and detail-oriented Full Stack Developer with a strong foundation in both front-end and back-end
+technologies. Skilled in building scalable, user-focused web applications and optimizing performance across the
+development stack. With a continuous drive to learn and innovate, I strive to deliver efficient, maintainable, and impactful
+digital solutions while collaborating effectively in dynamic, fast-paced environments.
+EDUCATION
+BCA
+CGPA
+Amity University
+8.69 / 10
+09/2022 - 06/2025 Noida, India
+12th Grade
+Percentage
+S.B.V. NO.1 Molarband [ CBSE ]
+86.2 / 100
+2022 New Delhi
+10th Grade
+Percentage
+G.B.S.S.S NO.2 Molarband [ CBSE ]
+66.6 / 100
+2020 New Delhi
+TECHNICAL SKILLS
+FrontEnd - Html - CSS - JavaScript - React.Js
+BackEnd - Node.Js - Express.Js
+DataBase - Mongo DB, MySql
+Programming Language – JavaScript, Java, Python
+SOFT SKILLS
+o Strong problem-solving abilities
+o Excellent communication skills
+o Quick and adaptive learner
+o Team-oriented with good collaboration skills
+o Detail-oriented and well-organized
+EXPERIENCE
+Main Flow Services and Technologies - Web Development Internship 15-05-2024 to 10-07-2024
+o Seeking a Web Development Internship at MainFlow Services and Technologies.
+o Skilled in building responsive, user-focused web interfaces.
+o Strong problem-solving ability with a quick learning mindset.
+o Passionate about modern web technologies and real-world project development.
+o Motivated to contribute effectively and grow within a collaborative environment.
+MahaLaxmi Research and Services – Market Research 01-06-2025 – Present
+o Conducted detailed market research to gather insights on products, trends, and customer preferences.
+o Performed data collection, analysis, and interpretation to support business decision-making.
+o Prepared clear and concise reports summarizing research findings and actionable insights.
+o Evaluated competitor products and market positioning to identify opportunities and gaps.
+o Collaborated with the team to improve research processes and maintain data accuracy.PROJECTS
+MediConnect
+Online [ React, Node Js , Express.Js, MongoDB, RestFul API, JWT, Multer, NodeMailer]
+https://github.com/Roshan0333/MediConnect-api
+https://github.com/Roshan0333/MediConnect-Frontend
+Developed and implemented the full-stack architecture for MediConnect, a healthcare appointment booking
+platform, using React for the frontend and Node.js with Express.js for the backend. Built secure, scalable APIs
+supporting user authentication, doctor registration, appointment scheduling, and availability
+management. Implemented JWT-based authentication with secure cookie handling and role-based access
+control (RBAC) for patients, doctors, and administrators. Integrated Nodemailer for OTP verification and Multer
+for medical report uploads, along with APIs for appointment history, search, confirmation, and cancellation.
+On the frontend, developed responsive React components for dashboards, booking flows, and real-time
+validations, ensuring a smooth user experience. Utilized MongoDB for scalable data management, delivering a
+robust, efficient, and secure full-stack system.
+Instagram Backend
+Online [ Node.Js , Express.Js , MongoDB , RestFul API, JWT]
+https://github.com/Roshan0333/instagram-api
+Developed a backend API for an Instagram clone using Node.js, Express.js, and MongoDB, featuring user
+authentication, posts, likes, comments, and follow/unfollow functionality. Implemented JWT authentication and secure
+session management, showcasing expertise in RESTful API design and middleware handling.
+Tasty bites
+Online [ Html , CSS , JavaScript ]
+https://github.com/Roshan0333/Tasty_Bites
+Developed a Recipe Application using HTML, CSS, and JavaScript, enabling users to search and view recipes via an
+external API. Features include detailed ingredients, preparation steps, and the ability to add personal recipes. Focused on
+API integration, DOM manipulation, and responsive design to ensure a seamless user experience across
+devices.
+Word Beater
+Online [ Html , CSS , JavaScript ]
+https://github.com/Roshan0333/wordbeater
+Developed a Word Beater Game using HTML, CSS, and JavaScript to help users improve typing speed and accuracy
+through an interactive interface. The game features random words, a countdown timer, difficulty levels, and real-time
+score tracking. Enhanced skills in JavaScript event handling, DOM manipulation, and responsive UI design.
+Bidding Application
+Online [ Html , CSS , JavaScript ]
+https://github.com/Roshan0333/bidding
+Developed a Bidding Application using HTML, CSS, and JavaScript that allows users to place and manage bids for
+transportation and logistics contracts. Designed an interactive, responsive interface for creating requests, comparing
+bids, and managing logistics efficiently. Strengthened skills in frontend development, responsive design, and
+dynamic UI handling.
+CERTIFICATE
+Cisco
+Earned the Cisco − Programming Essentials in Python certification, demonstrating foundational proficiency in
+Python programming and problem-solving skills.
+CyberCup 3.0 Hacfiathon
+Participated in CyberCup 3.0 Hacfiathon, collaborating with a team to develop innovative tech solutions while
+strengthening teamwork and analytical problem-solving abilities.

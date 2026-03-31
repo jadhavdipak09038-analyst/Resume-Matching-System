@@ -1,0 +1,52 @@
+Sandhya Rai (cid:131) +91-8757207108
+Roll No.: 2206085 # sandhyasimpi1411@gmail.com
+Computer Science and Engineering # sandhyar.ug22.cs@nitp.ac.in
+B.Tech § github.com
+National Institute Of Technology, Patna (cid:239) linkedin
+Education
+•National Institute Of Technology, Patna 2022-2026
+B.Tech in Computer Science and Engineering 6.79/CGPA: ongoing
+Experience
+•Prodigy Infotech 16/08/2024
+Full-Stack Web Development Online
+•VaultofCodes 01/06/2025 – 01/07/2025
+Web Development Intern Online
+– Successfully completed a 1-month internship, gaining hands-on web development experience.
+– Contributed to project tasks and development cycles.
+Personal Projects
+SumiTask – Smart Revision & Task Scheduler
+React.js, Electron, Node.js, Express.js, SQLite
+• Developed a full-featured Desktop productivity app for students focused on spaced revision, daily planning, and
+task automation.
+• Integrated Google OAuth login, dynamic task calendar, customizable spaced repetition intervals, and real-time
+task management.
+• Enabled daily PDF summary generation using pdfkit and delivery via WhatsApp using Twilio Cloud API.
+• Added Blank Page Revision: users upload study materials, later upload recall pages for active recall and future AI
+comparison.
+• Structured the system for future AI-powered features like smart quiz generation, revision accuracy scoring, and
+voice assistant.
+• Designed with modular architecture, scalable APIs and local storage.
+User Allocation in Edge Computing (QCSO) | Research Project
+Python, Quantum-Inspired Differential Evolution, Metaheuristics
+• Conducted in-depth data analysis on large datasets (5000 users) to identify performance bottlenecks in edge com-
+puting user allocation.
+• Performed rigorous benchmarking of a novel QCSO algorithm against competing solutions (DE, PSO, CSO) to
+validate performance improvements.
+• Demonstrated strong problem-solving skills by designing a solution that optimized for four key business metrics:
+energy consumption, load balancing, delay, and user allocation rate.
+• Authored a detailed specification (academic paper) to communicate complex technical concepts and present data-
+driven conclusions, demonstrating excellent written communication skills.
+Technical Skills and Interests
+Languages:C++, C, HTML, CSS, JavaScript,Python
+Developer Tools:VS Code, DEV C++, Git, GitHub, Chrome DevTools, Power BI, Excel, PowerPoint
+Frameworks: ReactJS, NodeJS
+Cloud/Databases: MySQL,MongoDB
+Soft Skills: Hardworking, Good Communication Skill,book reading
+Coursework:: Data Structure and Algorithms, Operating System,DBMS
+Areas of Interest: Software Development, fullstack web development.
+Positions of Responsibility
+•NSS VolunteerNational Service Scheme 2023 – Present
+Achievements
+•JEE Mains RankHolder Obtained an All India Rank of 25278 among 15+ Lacs of Candidates.
+•Candidate - TCS iON Assessment Successfully cleared the TCS iON assessment with a High Performance category
+•Adobe India Hackathon Participated in Online MCQ Assessment + Coding as part of Team Matrix. 2025

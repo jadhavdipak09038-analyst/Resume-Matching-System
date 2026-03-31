@@ -1,0 +1,44 @@
+ABHISHEK SONKAMBLE
+Phone- 8459396433| Email- Sonkambleabhi54@gmail.com | GitHub -Abhishek | Pune, India | Linkdin
+SUMMARY:
+Data Analyst skilled in data cleaning, transformation, analysis, and visualization. Proficient in tools like Excel, Power BI,
+Tableau, and Python (Pandas, NumPy, Matplotlib, Seaborn). Strong knowledge of SQL and database management with
+experience in uncovering actionable insights to drive business decisions. Adept at leveraging AI tools for textual data analysis.
+Passionate about solving data challenges to deliver impactful solutions.
+SKILLS:
+● Data Analysis: Microsoft Excel, Google Sheets, Advanced Statistical Analysis.
+● Visualization Tools: Power BI, Tableau.
+● Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MYSQL).
+● Machine Learning: Basics of ML, Supervised learning, Unsupervised learning
+PROFESSIONAL EXPERIENCE:
+1. Machine Learning Role: ML Engineer Jan 2024 - April 2024
+● Participated in project selection and gained proficiency in ML Algorithms.
+● Created ML models with high accuracy score.
+2. AI & Data skill Internship Role: Intern Jan 2023 - Dec 2023
+● Conducted data analysis using advanced Excel functions (e.g., VLOOKUP, SUMIF).
+● Learn various AI tools and applied them for data type work
+PROJECTS:
+1. Customer Churn Prediction using python and ML algorithm | project
+● A Customer Churn Prediction project analyses customer behaviour using machine learning to identify patterns and predict which
+customers are likely to leave, enabling businesses to take proactive retention measures.
+● Utilized Python libraries (Pandas, NumPy) to uncover patterns, trends, and anomalies. Created visualizations with Matplotlib
+and Seaborn for clear data representation.
+2. Madhav E-commerce sales dashboard analysis using Excel | project
+● Performed data cleaning and pre-processing using Python and Excel to prepare Madhav E-commerce sales and cuisine data for
+analysis.
+● Analysed Madhav E-commerce sales and cuisine data to uncover revenue trends, user demographics and cuisine preferences.
+Built interactive dashboards highlighting:
+● Revenue metrics and top-performing states.
+EDUCATION:
+Bachelor of Technology in Artificial Intelligence & Data Science (AI&DS)
+MIT College Chh.Sambhajinagar Dec 2024 – July 2025
+HSC Aug 2020 – June 2021
+Deogiri College Chh.SambhajinagarCERTIFICATES:
+● Master in Excel (IT Vedant, Pune)
+● Master in SQL (IT Vedant, Pune)
+● Master in Power BI (IT Vedant, Pune)
+● Simpli Learn Certification( introduction to data visualization)
+● Skill Nation(Business Intelligence using Power BI)
+● Infosys Certifications (Python for Data Science)
+LANGUAGE:
+● English, Hindi, Marathi

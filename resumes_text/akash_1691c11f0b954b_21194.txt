@@ -1,0 +1,55 @@
+Akash Arjun Patil
+Email: aakashpatil7140@gmail.com | Phone: +91 8975632574 Location: Maharashtra.
+LinkedIn: linkedin.com/in/akash-patil-9389b3262 | GitHub: github.com/aakash-patil7140
+Professional Summary
+MCA graduate specializing in Data Science with expertise in Python, SQL, Machine Learning, and
+Data Visualization. Skilled in data cleaning, statistical modeling, and predictive analytics using
+Python (Pandas, NumPy, Scikit-learn) and BI tools (Power BI, Tableau). Experienced in developing
+AI/ML solutions, conducting data-driven research, and delivering real-world analytics
+projects. Seeking a Data Scientist / Data Analyst role to apply analytical and technical skills to
+drive business decisions and growth.
+Technical Skills
+Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask), R
+Databases: MySQL,
+Visualization & BI: Power BI, Tableau, Excel (PivotTables, VLOOKUP, Dashboards)
+Machine Learning: Regression, Classification, Random Forest, KNN, Decision Trees, CNN, NLP
+Statistics & Mathematics: Applied Mathematics, Hypothesis Testing, Probability, ANOVA,
+Correlation
+Data Analytics & Business Rules: Data Cleaning, Data Wrangling, EDA, Predictive Modeling
+Tools: Jupyter Notebook, Google Colab, GitHub, VS Code, PyCharm, Streamlit,
+Work Experience
+Data Analyst Intern – Yadgreen: Smart City Project, Pune, India
+June 2025 – Aug 2025
+• Analyzed 10K+ traffic sensor records daily using Python and SQL to detect congestion
+patterns.
+• Built Power BI dashboards, reducing manual reporting time by 40%.
+• Automated data cleaning scripts using Pandas, improving processing speed by 25%.
+• Collaborated with engineers to deliver insights that improved infrastructure planning
+efficiency by 15%.
+• Supported forecasting models that optimized city resource allocation by 12%.Projects
+Personalized Rice Recommendation System
+• Built ML model using Random Forest & KNN to recommend rice types based on dietary
+needs. • Achieved 65% accuracy with data preprocessing, EDA, and feature engineering.
+• Tools: Python, Pandas, Scikit-learn, Power BI, Matplotlib..
+Car Sales Analysis Dashboard
+• Designed Power BI dashboard with DAX KPIs to analyze regional and model-wise car sales
+performance.
+• Delivered insights that supported data-driven decision-making.
+Diamond Price Predictor
+• Built ML models (Linear Regression, Decision Tree) with high predictive accuracy.
+• Deployed an interactive Flask web app for user-friendly price prediction.
+Certifications
+• Master in Data Science & Analytics with Artificial Intelligence – IT Vedant (Aug 2025)
+• IBM: Machine Learning with Python (Jun 2025) – Focused on supervised learning and
+evaluation metrics.
+• IBM: Data Analysis with Python (May 2025) – Hands-on with data wrangling and
+visualization.
+• IBM: Python for Data Science (May 2025)
+Education
+Master of Computer Applications (MCA) – Prof. Ramkrishna More College, SPPU
+Aug 2023 – May 2025 | Marks: 80%
+Coursework: Data Mining, Artificial Intelligence, Database Management Systems, Big Data
+Analytics
+Soft Skills
+Analytical Thinking | Creative Problem Solving | Communication Skills | Attention to Detail |
+Collaboration | Tech Savvy

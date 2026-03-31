@@ -1,0 +1,70 @@
+ANKIT PRAJAPATI
+Agra, Uttar Pradesh, India
+Phone: +91-7906612089
+Email: ankitprajapatiofficial876@gmail.com
+LinkedIn: linkedin.com/in/ankitprajapati28
+GitHub: github.com/ankitprajapati790
+PROFESSIONAL SUMMARY
+Multi-skilled Software Development Engineer with hands-on experience in full-stack application development using Java,
+PostgreSQL, and REST API development.Strong foundation in object-oriented programming, database optimiza-
+tion, and technologies like HTML, CSS, JavaScript, React.js, Next.js, Node.js, Python, and ML workflows.
+Proficient in writing clean, maintainable code, deploying services, and collaborating in fast-paced development environ-
+ments. Seeking an opportunity at Your Organization to apply problem-solving skills, scalable system design, and
+collaborative development practices to deliver high-impact client solutions.
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, C, C++, Java
+Frontend: React, Next.js, HTML5, CSS3, Tailwind
+Backend: Node.js, Express.js, Django Basics, REST APIs
+Databases: MongoDB, PostgreSQL, MySQL
+AI/ML & Data: NLP, Recommendation Systems, OpenCV, Scikit-Learn, TensorFlow, Pandas
+Core CS: Data Structures & Algorithms, OOP, System Design, DBMS
+Tools: Git, GitHub, VS Code, Figma
+BehavioralSkills: Leadership,Communication,Ownership,ProblemSolving,UserEmpathy,TeamCollaboration,Accountability
+EDUCATION
+Hindustan Campus – Sharda Group 2022 – 2026
+B.Tech in Computer Science and Engineering (65%) Mathura, Uttar Pradesh
+Symbiozya School – CBSE 2021 – 2022
+Intermediate (Class 12) (65%) Agra, Uttar Pradesh
+Symbiozya School – CBSE 2019 – 2020
+High School (Class 10) (73%) Agra, Uttar Pradesh
+EXPERIENCE
+Product Management Intern | Bigul (Bonanza Portfolio Ltd.) Nov 2025
+Fintech & Algo Trading Platform – 400,000+ users Mumbai, India
+• Delivered 25+ PRDs with detailed workflows, KPIs, business logic, acceptance rules, and API notes for engineering
+teams.
+• Supported delivery of 12+ product features across onboarding, discovery, analytics, and trading journeys, contributing
+to funnel progression and usability improvements.
+• Conducted competitive and market assessments across National platforms (Groww, Zerodha, Upstox, Dhan) and Inter-
+nationalPlatforms(Robinhood, InteractiveBrokers, CharlesSchwab)toidentifyproductgaps, workflowfrictionpoints,
+and opportunity areas for new features.
+• Proposed enhancements increasing activation by 30% and feature adoption by 2x–3x.
+• Collaborated with engineering and design teams on requirements, testing, and releases.
+PROJECTS
+BorrowMe – Peer-to-Peer Item Borrowing Platform | React, Node.js, Express.js, MongoDB, REST APIs, Geolo-
+cation
+• Architected and delivered a full-stack peer-to-peer sharing platform enabling localized lending and borrowing of items,
+simulating a real-world sharing-economy use case.
+• Designed secure JWT-based authentication and role-based authorization, safeguarding user identities, item listings,
+and transaction workflows.
+• Integratedgeolocationservicestosurfacenearbyitemsusingprivacy-preservingapproximatelocationmapping, improv-
+ing local discoverability.
+• Engineered RESTful APIs for users, items, bookings, reviews, and availability, leveraging optimized MongoDB schemas
+for scalability and performance.
+Full-Stack E-Commerce Platform | React, Node.js, MongoDB
+• Developed a scalable e-commerce application featuring user authentication, product catalog, cart management, and
+order processing.
+• Reduced page load time by 40%, achieved 99.9% uptime, and handled 10,000+ requests per minute.
+• Built responsive UI components to deliver cross-device compatibility and improved user experience.
+Face Recognition Attendance System | Python, OpenCV
+• Designed and implemented an automated face recognition-based attendance system, eliminating manual attendance
+processes.
+• Achieved 92% recognition accuracy with sub-10-second processing time, ensuring real-time usability.
+• Applied computer vision techniques for face detection, feature extraction, and recognition under varying lighting condi-
+tions.
+CERTIFICATIONS
+Naukri Campus Young Turks– Certificate of Merit for scoring 96.19 percentile : (Link)
+Completed all 19+ AI track certifications from Infosys Springboard : (Link)
+Certificate of Merit in Data Structures Using Programming with C By RPCL India : (Link)
+OTHER LANGUAGES AND INTERESTS
+Languages Known: English (Fluent), Hindi (Fluent)
+Interests: Cloud Computing, UI/UX Design, Competitive Programming, Data Structures And Algorithms

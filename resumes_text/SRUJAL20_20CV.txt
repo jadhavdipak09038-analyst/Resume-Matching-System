@@ -1,0 +1,30 @@
+SRUJAL PAGOTE
+srujal023@gmail.com | +91-9146094510 | Dattawadi, Nagpur,440023
+Profile
+“I am at the beginning of my professional journey and actively building my skills through academics,
+projects, and self-learning. My focus is on developing strong expertise in Data Analytics area, I am eager to
+contribute, learn from real-world experiences, and grow into a role where I can add value while achieving
+my career goals.”..
+Project
+1. IRIS FLOWER CLASSIFICATION SEP 2025
+. Load and explore the Iris dataset using visualization to understand feature relationships.
+. Split the dataset, then train a K-Nearest Neighbors (KNN) classifier model.
+. Evaluate performance with accuracy, confusion matrix, and classification report.
+2. MOVIE RECOMMENDATION SYSTEM (CONTENT-BASED) AUG 2025
+· Text to Numbers – Convert movie content (plot, genres, keywords) into numerical scores using TF-
+IDF.
+· Similarity Check – Use Cosine Similarity to compare movies based on these scores.
+· Recommendations – Present the top-scoring, most similar movies as suggestions.
+Education
+B.TECH. | PURSUING IN ARTIFICAL INTELLIGENCE | JD COLLEGE OF ENGINEERING & MAG
+HSC | 2022 | DEFENCE SERVICES JR. COLLEGE(BHANDRA)
+SSC | 2020 | PRABHODHANKAR KAR THAKRE HIGHER ENGLISH MEDIUM SCHOOL
+Technical Skills
+· Microsoft Excel · Power BI
+· Basic of Python · Tableau
+· Basic of SQL
+Certification
+Spark-IIT Internship of Data Analytics powered by Wipro DICE ID.
+Soft skill Development - NPTEL
+DECLARATION
+.It is here by declare that the above information is completely correct as per my knowledge.

@@ -1,0 +1,54 @@
+SHRUTI YEWALE
+Phone- 8530458513| Email- shrutiyewale56@gmail.com | Linkedin - www.linkedin.com/in/shrutiyewale
+Github- https://github.com/Yewaleshruti2121
+SUMMARY
+I am skilled in data cleaning, transformation, analysis, and visualization. Proficient in tools like Excel, Power BI, Tableau,
+and Python (Pandas, NumPy, Matplotlib, Seaborn. Experience in uncovering actionable insights to drive business
+decisions. Adept at leveraging Analytical tools for data analysis. Passionate about solving data challenges to deliver
+impactful solutions.
+SKILLS
+• Data Analysis: Microsoft Excel, Google Sheets.
+• Visualization Tools: Power BI, Tableau.
+• Programming: Python (Pandas, NumPy, Matplotlib, Seaborn),SQL(MySQL)
+• Data Analysis: Skilled in utilizing data analysis. (using POWER BI ,PYTHON)
+• Machine Learning: Basics of Machine Learning.
+PROJECTS
+1.Screen Time Analysis Dashboard View Project
+Self-initiated Project | Power BI
+• Designed and developed an interactive Power BI dashboard to analyse personal or aggregated screen time data across various
+apps.
+• Imported, cleaned, and transformed raw usage data (minutes, app opens, notifications) using Power Query and DAX functions.
+• Created visualizations to display daily usage trends, most used apps, notification frequency, and time-of-day engagement.
+• Enabled insights into digital habits and time management patterns using slicers and custom measures.
+2.Web Scrapping Project View Project
+Self-initiated Project | Python Analysis
+• Developed a Python-based web scraping tool to extract real-time weather forecast data from a public weather website.
+• Implemented user input functionality allowing users to enter any Indian city name to fetch location-specific weather forecasts.
+• Utilized libraries such as requests, Beautiful Soup, and pandas to scrape, parse, and structure the data.
+• Automated the process to save the extracted data into a CSV file, enabling easy offline access and further analysis.
+• Focused on clean code, error handling for invalid city inputs, and user-friendly output display in terminal and file format.
+3.Spam Message Detection Project View Project
+Self-initiated Project | Machine Learning
+• Developed a machine learning model to classify emails/messages as spam or ham using Natural Language Processing (NLP)
+techniques.
+• Cleaned and preprocessed text data by removing stopwords, punctuation, and performing tokenization and TF-IDF vectorization.
+• Achieved accuracy of over 95% with strong recall and precision, ensuring minimal false positives in spam identification.
+• Strengthened understanding of NLP workflows, model evaluation metrics.
+EDUCATION
+• Master Of Computer Applications
+D.Y.Patil Institute of Master of Computer Application and Management, Akurdi, Pune. 2023-2025
+• Bachelor’s in Computer Application
+Shardabai Pawar Mahila Mahavidyalay, Sharda Nagar , Baramati. 2020-2023
+CERTIFICATES
+• Data Analysis With Python-IBM View Certificate
+Gained proficiency in Python programming, data manipulation using Pandas and NumPy, and applied core
+data science techniques.
+• Python for Data Science– IBM View Certificate
+Acquired skills in exploratory data analysis, data cleaning, and data visualization using libraries like Matplotlib
+and Seaborn.
+• Python With Machine Learning– IBM View Certificate
+Acquired essential SQL skills for data science, including data querying, filtering, aggregation, and joins
+through hands-on training .
+• Master’s in data science and Analytics With Artificial Intelligence -IT Vedant (Certification Course) View Certificate
+LANGUAGE
+• English, Hindi, Marathi

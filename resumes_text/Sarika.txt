@@ -1,0 +1,42 @@
+SARIKA PANCHALWAR
+NAGPUR,MAHARASHTRA
+(cid:131) +91 9359438962 # sarikapanchalwar@gmail.com (cid:239) linkedin.com/in/sarikapanchalwar § github.com/sarika9312
+Education
+J D College of engineering and management,Nagpur Expected 2026
+B.tech Information Technology CGPA:9.78/10
+Shri Dnyanesh mahavidhyalaya,Nawargaon 2021
+XII (HSC), Maharashtra Board 90.17%
+Bharat vidhyalaya,Nawargaon 2019
+X (SSC), Maharashtra Board 91%
+Technical Skills
+Languages: Python,SQL, MongoDb,C, HTML,CSS, JavaScript,Java
+Developer Tools:VS Code,Jupyter notebook, Eclipse,Tableau,PowerBI
+Technologies/Frameworks:Linux,GitHub,Git
+Internships
+• Zscalar NETWORKING VIRTUAL INTERNSHIP(July-Sept2024)
+• PALO ALTO CYBER SECURITY VIRTUAL INTERNSHIP(April-June 2024)
+Projects
+Retail Sales Analytics System | Python, Machine Learning, Tableau
+• Developed an end-to-end retail analytics pipeline using Python (Pandas, NumPy) and Scikit-learn to analyze Walmart
+sales data.
+• Performed data cleaning, feature engineering, and EDA to identify sales patterns, top-performing stores, and seasonal
+trends.
+• Built a Random Forest forecasting model for weekly sales prediction.
+• Designed an interactive Tableau dashboard showcasing KPIs such as store performance, department insights, and holiday
+impact.
+Cybercrime Analytics Dashboard | Python, MongoDB, Tableau
+• Built a complete analytics workflow integrating MongoDB, Python, and Tableau to analyze 1,000+ cybercrime records
+across India.
+• Cleaned and exported data from MongoDB using Pandas, enabling smooth visualization.
+• Created an interactive Tableau dashboard including crime-type distribution, financial loss analysis, gender trends,
+monthly patterns, and state-wise geospatial maps.
+• Strengthened insights into cybercrime patterns for reporting and decision-making.
+Fraud detection project | Machine Learning
+• Built ML models (Logistic Regression, Decision Trees, Random Forest) to classify transactions as fraudulent or genuine,
+with strong precision and recall.
+• Applied data preprocessing, feature engineering, and evaluation metrics (ROC, F1-score) to enhance accuracy and
+interpretability.
+Certifications
+Data Analytics:Delloite
+Python Computing: NPTEL
+Ethical Hacking : INTERNSHALA

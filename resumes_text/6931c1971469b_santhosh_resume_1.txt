@@ -1,0 +1,29 @@
+Chilaka Santhosh
+I +91 78936 91759
+MCA — Master of Computer Applications
+# chilakasanthosh8@gmail.com
+Summary
+Highly motivated Computer Science student with expertise in Python, SQL, Data Analytics,
+and Cloud Computing. Strong problem-solving and decision-making skills with a passion for
+AI-driven solutions, data warehousing, and enterprise software. Seeking to apply my skills in a
+dynamic environment to drive impactful results.
+Education
+2024–2026 Master of Computer Applications (MCA), Audisankara College of Engineering and Tech-
+nology, Status: Pursuing
+2020–2023 Bachelor of Computer Applications (BCA), Krishna Chaitanya Degree College, CGPA:
+7.73/10
+2018–2020 Senior Secondary (XII), Narayana Junior College, CGPA: 8.57/10
+2017–2018 Secondary (X), Pact EM School, CGPA: 8.3/10
+Projects
+Image Search Developed an image search web application that helps users find desired images efficiently,
+focusing on UI design and user experience.
+Technical Skills
+Languages Python, SQL, JavaScript, HTML, CSS
+Databases SQL (RDBMS), MongoDB
+Web React, Node.js, Express.js
+Technologies
+Leadership & Extracurriculars
+Achievements Gold and Silver Medalist at National Taekwondo Championships.
+Certifications Certified Java Full Stack Developer by ISM Uni.
+Additional Information
+Available for internships or full-time roles after/during graduation.

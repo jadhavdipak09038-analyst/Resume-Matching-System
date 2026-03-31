@@ -1,0 +1,49 @@
+Ayush Gupta
+8210613741 | ayushgupta6495@gmail.com | LinkedIn
+EDUCATION
+Rungta College of Engineering and Technology Chhattisgarh, India
+B.Tech in Information Technology | CGPA : 7.0 2022-2026
+EXPERIENCE
+Cognifyz Technologies Remote
+Web Development Intern June 2025 - July 2025
+• Contributed to 3 real-time projects, integrating basic backend features to improve functionality by 20%
+• Collaborated with team members to integrate REST APIs and resolve functional issues.
+• Assisted in debugging, troubleshooting, and maintaining backend services in a production-like environment.
+Data Structure and Algorithm Vocational Training Chhattisgarh, India
+Coding Spoon Aug 2024 - Sep 2024
+• Completed intensive training in core data structures (arrays, Stacks, Queue, linked lists, trees) and algorithms
+(sorting, searching, recursion, dynamic programming).
+• Solved 250+ coding problems on GeeksforGeeks and LeetCode, strengthening problem solving efficiency
+PROJECTS
+Vingo (Online Food & Delivery Platform) -React.js, Node.js, MongoDB, Express.js, REST APIs Github | Link
+• Architected a three-tier logistics platform (Customer, Shop Owner, Delivery Partner) with role-based
+authentication and authorization, supporting 100+ users, 50+ shops, and 50+ orders.
+• Developed responsive frontend dashboards and scalable REST APIs for shop management, order processing,
+and delivery assignment.
+• Implemented real-time order tracking using Leaflet + OpenStreetMap with live location updates and
+synchronized order status across clients.
+• Designed map-based checkout, complete order lifecycle workflows, and database-driven transactions
+ensuring 99% data consistency, improved delivery efficiency by 30%
+AI Support – Embeddable AI Customer Support Platform - Next.js, MongoDB, ScaleKit Live Demo
+• Built an embeddable AI support chatbot using Next.js, MongoDB, authenticated dashboards with Scalekit
+• Implemented CI/CD pipeline by integrating GitHub with Vercel, enabling automated build and deployment on
+every code commit
+• Designed a one-line embeddable JavaScript widget, reducing chatbot integration time to under 2 minutes
+per website
+• Delivered fast, scalable AI responses nearly (1s latency) using serverless APIs deployed on Vercel
+Online Voting System — React.js, Node.js, MySQL
+• Engineered a secure full-stack online election platform supporting 200+ users with role-based access control
+(Admin/Voter) and protected authentication flows.
+• Designed and implemented RESTful APIs with structured JSON payload processing, authorization
+middleware, and database-driven vote management workflows.
+• Ensured data integrity using relational schema design, constraints, and transaction-safe operations to
+prevent duplicate or unauthorized voting.
+COMPETENCIES
+• Languages: Java, Python, JavaScript, SQL
+• Frameworks & Tools: Node.js, Express.js, React.js, MongoDB, AWS, REST APIs, Git, Spring, Version Control
+• CS Fundamentals : OOPs, DBMS, Computer Networks, Operating Systems
+• Additional Exposure: Enterprise Application Basics, Secure Systems Design, PyTorch
+CERTIFICATIONS & PROFILES
+• AWS Cloud - Certification
+• Responsive Web Design by FreeCodeCamp - Certification
+• GeekforGeeks : 200+ Coding Practice - Profile | LeetCode :150+ problem Solving- View Leaderboard

@@ -1,0 +1,33 @@
+TUSHAR GAIKWAD
++91 7385283024 • Pune, Maharashtra, India • gaikwadtushar5555@gmail.com
+• www.linkedin.com/in/tushargaikwad19 • https://github.com/gaikwadtushar-19
+SUMMARY
+B.Sc. Computer Science student with hands-on experience in data analysis, visualization, and
+SQL. Skilled in creating Power BI dashboards and SQL queries to extract actionable business
+insights. Passionate about leveraging data to drive decision-making in dynamic environments.
+PROJECTS
+Movie Ticket Booking System
+Tools: MySQL, SQL
+Built a relational database with entities like Users, Movies, Shows, Bookings, Payments.
+Wrote SQL queries using joins, subqueries, and window functions to generate real-time
+analytics, reducing manual reporting time by 30%.
+Healthcare Dashboard
+Tools: Power BI
+Created an interactive Power BI dashboard for patient and appointment analysis, revealing
+KPIs like patient wait times and appointment trends. The dashboard reduced data retrieval
+time by 40% for healthcare staff, enabling faster decision-making.
+EDUCATION
+B.Sc. Computer Science
+Haribai V. Desai College, Savitribai Phule Pune University June 22-April 2026
+Technical Skills:
+• Data Tools: Power BI (DAX modeling), MySQL, SQL Server, Tableau
+• Analysis: Data visualization, ETL processes, statistical analysis
+• Soft Skills: Collaborative problem-solving, cross-functional communication, detail-
+oriented reporting
+CERTIFICATIONS
+• Advanced Excel – (June 2025): Mastered pivot tables, VLOOKUP, and data
+modeling for efficient data analysis.
+• SQL Mastery – (July 2025): Developed complex queries for data extraction and
+reporting, directly applicable to business intelligence workflows
+• Power BI Essentials – July 2025: Applied DAX modeling to create the Healthcare
+Dashboard, reducing data retrieval time by 40%

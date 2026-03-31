@@ -1,0 +1,42 @@
+Mukul Yadav
+(cid:131) +91-9584470260 | # mukulyadav72695@gmail.com | (cid:239) §
+Summary
+Driven Mechanical Engineering undergraduate skilled in 3D CAD modeling, embedded systems programming, and
+full-stack web development. Strong foundation in solid modeling, sensor integration, and frontend frameworks,
+complemented by proficiency in microcontroller coding and data structures. Seeking opportunities to leverage
+diverse technical abilities and collaborate on impactful engineering solutions.
+Education
+Army Institute of Technology, Pune 2023–Present
+B.E., Mechanical Engineering 7.4 GPA
+National Children Higher Secondary School, Gwalior (M.P) 2020–2021
+Senior Secondary (12th, CBSE) 71%
+Army Public School, Gwalior (M.P) 2018–2019
+Secondary (10th, CBSE) 75%
+Skills
+• Core Mechanical Skills: SolidWorks, AutoCAD, 3D Modeling, Product Design
+• Software Tools: React.js, Node.js, HTML5/CSS3, Git, SQL
+• Programming Languages: Java, JavaScript, C, SQL
+• Embedded Systems: Arduino, Sensor Integration, Microcontroller Programming
+• Soft Skills: Communication, Teamwork, Critical Thinking, Time Management
+Projects
+Leave Management System Web App 2024
+• Developed full-stack web application using React.js and Node.js with SQL backend to manage student leave requests.
+• Implemented RESTful APIs and responsive UI for efficient data handling and user experience.
+Automatic Braking System 2024
+• Engineered Arduino-based prototype utilizing ultrasonic sensors for real-time obstacle detection and automated braking.
+• Optimized C-based signal processing algorithms for sub-50ms reaction times.
+Netflix & HackerRank Landing Page Clones 2023
+• Built pixel-perfect replicas of landing pages using semantic HTML and responsive CSS.
+• Ensured mobile-first design and cross-browser compatibility.
+Positions of Responsibility
+• Joint Secretary, SAE Collegiate Club (Jul 2024–Present): Organized technical events and managed club communications.
+• PR Head & Content Writer, Magazine Board (Jun 2023–Jul 2024): Led PR campaigns and authored 15+ articles for
+college magazine SRIJNA.
+• Hackathon Lead, Solvex (Annual Fest 2024–25): Directed planning and execution of a 24-hour intercollege coding
+competition.
+• Content Head, Technical Board & SAE Club (Aug 2024–Jun 2025): Oversaw all technical documentation and publications.
+Achievements
+• Spearheaded the Solvex hackathon, achieving 30% higher participation year-over-year.
+• Implemented Automatic Braking prototype showcased in live demo at college fest.
+• Recognized for excellence in content strategy and publication quality for student organizations.
+• Contributed to significant attendance growth (25%) at flagship technical events via targeted PR.

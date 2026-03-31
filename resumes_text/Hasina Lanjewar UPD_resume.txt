@@ -1,0 +1,72 @@
+Hasina Lanjewar
+918468827486 | lanjewarhasina1@gmail.com | Nagpur, India
+SUMMARY
+Passionate Data Scientist eager to apply analytical skills to solve real-world problems. Driven by curiosity to uncover
+insights from data and transform them into actionable strategies. Motivated to leverage machine learning and
+visualization tools to make data meaningful and impactful. Committed to contributing to data-driven innovation and
+delivering insights that create measurable value for organizations.
+EDUCATION
+J D College of Engineering and Management Nov 2022- April 2026
+Bachelor's, CSE(Data Science) GPA: 9.1
+Mahatma Gandhi Junior College July 2021- April 2022
+HSC GPA: 77
+Kuthe Patil English High School July 2019- April 2020
+SSC GPA: 89
+PROJECTS & OUTSIDE EXPERIENCE
+Detection of Diabetic Retinopathy using CNN to prevent vision-threatening diseases June 2024 - November 2025
+ Problem: Diabetic Retinopathy (DR) is a leading cause of preventable blindness worldwide, often
+progressing silently until vision is severely impaired.
+ Built CNN model in TensorFlow/Keras for Diabetic Retinopathy detection
+ Applied image preprocessing & augmentation using OpenCV, NumPy to improve robustness
+ Used transfer learning (ResNet/VGG16), dropout, and hyperparameter tuning for optimization
+ Evaluated with Scikit-learn metrics (accuracy, sensitivity, specificity, AUC)
+ Delivered scalable AI solution for early DR screening to prevent vision-threatening disease
+.
+RetailPulse: Multi-Channel sales analytics platform May 2025
+ Developed RetailPulse platform for unified sales analytics across multiple channels (online, offline,
+marketplaces)
+ Integrated diverse data sources (POS systems, e-commerce APIs, CRM) into a centralized data warehouse
+ Implemented ETL pipelines using Python, SQL, Pandas for automated data ingestion and transformation.
+Built interactive dashboards with Power BI to visualize KPIs like revenue, conversion, and customer trends
+ Applied machine learning models for demand forecasting, customer segmentation, and sales performance
+prediction
+ Delivered actionable insights that improved sales strategy, optimized inventory, and enhanced customer
+engagement
+IOT BASED SMART STREET LIGHT SYSTEM September 2025
+ Designed IoT-enabled smart street lighting system to optimize energy consumption and reduce operational costs
+ Integrated sensors (LDR, PIR, motion detectors) for automatic brightness control based on ambient light and
+human/vehicle movement
+ Implemented microcontroller (Arduino/ESP8266) with wireless communication for real-time monitoring and control
+ Developed cloud dashboard for data logging, remote access, and performance analytics using IoT platforms (Arduino
+IDE)
+ Achieved significant energy savings by enabling adaptive lighting and automated ON/OFF scheduling
+ Contributed to sustainability goals by reducing carbon footprint through smart energy management
+sales analytics dashboard using Excel Pivot tables January 2024
+ Developed interactive sales dashboard using Excel Pivot Tables for multi-dimensional data analysis
+ Automated data aggregation & summarization to track KPIs (revenue, region-wise sales, product
+performance)
+ Created dynamic charts & slicers for real-time filtering and visualization of sales trends
+ Applied advanced Excel functions (VLOOKUP, INDEX-MATCH, conditional formatting) to enhance
+reporting accuracy
+ Improved decision-making efficiency by reducing manual reporting time and enabling quick insightsSkills
+Programming Languages : Python, HTML/CSS, C/C++, aurduino IDE
+Analytical & Development Tools: Jupyter, Anaconda, R studi0, Microsoft Excel, Figma
+Statistics, Machine Learning and NLP: Data Analysis and Visualization, ML Algorithms, Natural Language
+Processing.
+Database: SQL, Power BI, Mongo DB, Excel pivot
+Languages: Marathi, Hindi, English
+Soft skills: Analytical Reasoning, Clarity and Conciseness, Understanding Business Objectives.
+CERTIFICATIONS
+IIT Bombay Certification: Completion of Cpp Training,
+NPTEL Certification : Cloud Computing , Digital Productivity
+Infosys Springboard Certification: Big data 301, Python for Data Science
+Department competition of Aptifest : Aptitude Test
+WORKSHOPS
+• Python for Data Science
+• Application Using Data Structure
+• Basic of Python
+• Introduction to Deep Learning and Reinforcement (IEEE Summit )
+Hobbies
+• Blogging
+• Video Editing
+• Travelling

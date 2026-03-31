@@ -1,0 +1,45 @@
+Vimal Kumar
+Summary: Aspiring Full-Stack Developer with hands-on experience in Java, JavaScript, React, Node.js, SQL,
+and cloud technologies. Skilled in building responsive web applications, AI-driven projects, and problem-solving
+through practical projects and internships.
+vimalkumardav@gmail.com +91 8789633730 Bokaro Steel City | Jharkhand | India
+vimal--kumar vimal058
+WORK EXPERIENCE
+INFOSYS
+System Engineer November 2024 - May 2025
+• Completed 6-month training in Java, OOPs, DBMS, SQL, DSA, and Cloud Computing.
+• Gained exposure to Prompt Engineering and real-world SDLC practices.
+• Worked on mini projects to strengthen backend and problem-solving skills.
+Quinn AI
+AI Generalist Internship Sept 2025 - Sept 2025
+• Worked on AI content generation for e-commerce brands.
+• Created AI-generated catalogue images and videos using tools like Gemini and ChatGPT.
+• Gained hands-on experience in prompt engineering and creative automation.
+KPMG
+Data Analytics Consulting Internship June 2020 - July 2020
+• Completed a virtual internship focused on data analytics, business problem-solving, and dashboard
+creation.
+• Used Excel, Power BI, and SQL for data cleaning, visualization, and decision-making insights.
+EDUCATION
+National Institute of Advanced Manufacturing Technology (NIAMT), Government Of India, Ranchi
+Bachelor Of Technology (BTECH) - 7.77 August 2018 - August 2022
+PROJECTS
+Password Generator May 2025 - May 2025
+Tech Stack: React, JavaScript, HTML, CSS
+• Built a responsive password generator web app allowing users to create secure, random passwords with
+custom length and character options.
+• Implemented React-based state management and real-time UI updates for a smooth user experience.
+To-Do-List June 2025 - June 2025
+Tech Stack: JavaScript, React, HTML, CSS
+• Developed a task management web app to add, edit, and delete daily tasks.
+• Used React for dynamic UI updates and local storage to save user data.
+• Focused on clean UI design and responsive layout for all devices.
+E-commerce Website July 2025 - July 2025
+Tech Stack: React, JavaScript, HTML, CSS
+• Built a responsive e-commerce site with product listings, cart, and checkout.
+• Implemented user authentication and dynamic product display.
+• Focused on UI/UX for smooth user experience.
+SKILLS
+HTML | CSS | JavaScript | React | Node.js | SQL | MongoDB |REST APIs | Git | GitHub | Responsive Design | Prompt
+Engineering | Problem-Solving | Analytical Thinking | Collaboration | Adaptability | Quick Learner | Attention to
+Detail | Time Management | Communication | Certifications

@@ -1,0 +1,42 @@
+Rahul Garg — React.js Developer
+I +91 7849881366 • # rahulaggarwal31090@gmail.com
+Profile
+Motivatedanddetail-orientedReact.js Developer withhands-onexperienceinbuildingresponsive,component-basedwebapplications
+using React.js, JavaScript (ES6+), and modern UI practices. Skilled in API integration, state management using React Hooks,
+localStorage persistence, routing, and performance optimization. Passionate about creating scalable, reusable, and user-friendly
+applications with clean architecture and maintainable code.
+Education
+Lords International College, Alwar
+Bachelor of Computer Applications (BCA) Aug 2023 – May 2026
+Floyam Senior Secondary School, Alwar
+10th & 12th (RBSE Board) 2020 – 2023
+Experience
+Algrowthm — Remote
+React.js Developer Intern 15 Sep 2025 – 15 Nov 2025
+○ Developed a 12-page responsive company website using React.js and Tailwind CSS.
+○ Implemented React Router for client-side routing and modular component architecture.
+○ Managed UI interactivity using useState, useEffect, useRef.
+○ Applied mobile-first responsive design and performance optimization techniques.
+○ Improved user experience with reusable components and structured folder architecture.
+CodSoft — Remote
+Frontend Developer Intern Jul 2025 – Aug 2025
+○ Built responsive applications including Portfolio, Calculator, and Quiz App.
+○ Strengthened fundamentals of JavaScript, DOM Manipulation, and UI design.
+○ Practiced version control using Git and GitHub.
+Projects
+Mini E-Commerce Application (React): Tech: React.js, JavaScript, FakeStore API, React Router
+Built a dynamic e-commerce SPA with product listing, category filtering, price sorting, cart management, and localStorage persistence.
+Implemented quantity control (+/-), state lifting, reusable components, and responsive UI design.
+Todo List Application (React): Tech: React.js, useState, LocalStorage
+Developed a task management app with add/delete functionality, state updates, controlled inputs, and data persistence across page
+refresh using localStorage.
+Weather Application (API Integration): Tech: React.js, OpenWeather API
+Integrated real-world API to fetch live weather data. Handled loading states, error handling, dynamic UI updates, and conditional
+rendering.
+Technical Skills
+Languages: JavaScript (ES6+), HTML5, CSS3
+Frameworks / Libraries: React.js, React Router, Tailwind CSS, Bootstrap
+Core React Concepts: Hooks (useState, useEffect), Component Architecture, Props, Conditional Rendering, State Management,
+API Integration, LocalStorage, SPA
+Tools: Git, GitHub, VS Code, Netlify, Vercel
+Core Skills: Responsive Web Design, REST API Handling, Debugging, Performance Optimization, Cross-Browser Compatibility

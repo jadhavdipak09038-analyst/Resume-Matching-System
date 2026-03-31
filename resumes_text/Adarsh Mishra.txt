@@ -1,0 +1,61 @@
+ADARSH MISHRA
+CONTACT PROFILE
+Professional Enthusiastic and detail-oriented. Proficient in front-end and
++91 9905716891
+back-end development technologies. Demonstrated ability to manage and
+adarsh25arch@gmail.com execute web development projects from inception to completion. Strong
+problem-solving skills and a commitment to delivering high-quality work in
+AMC Engineering College,
+Bannerghatta Rd, a fast-paced environment.
+Bengaluru-560083
+PROJECTS
+TECHNICAL
+SKILLS
+Water Quality Analysis
+Collaborated on a project to analyze local water quality using Python
+C/C++ and data visualization tools.
+Gathered and processed data to identify trends in water quality over
+Python
+time.
+MySQL Presented findings through comprehensive reports, utilizing ethical
+hacking techniques to ensure data integrity.
+Java
+HTML
+Amazon Clone Website
+CSS
+Designed and developed an e-commerce platform simulating core
+SOFT SKILLS functionalities of Amazon.
+Enhanced user experience through responsive design principles and
+seamless navigation.
+Team Management
+Problem Solving
+Portfolio Website
+Time Management Developed a responsive portfolio website to showcase work and
+projects.
+Communication
+HOBBIES CERTIFICATIONS
+Reading NPTEL: DBMS
+NPTEL: Ethical Hacking
+Listening to Music
+Red Hat System Administration I (RH124)
+Sports( TT State Level) Red Hat System Administration II (RH134)
+AWS: Solutions Architecture Job Simulation
+Swimming
+HACKATHONS
+COMMUNITY
+SERVICES
+Smart India Hackathon
+Topic: Web-based Selector-Applicant Simulation Software
+Distribution of Clothes to the Role: Backend Development using Python(Django)
+SMASHHACK (PES University)
+needy
+Topic: Threat Detection Model
+Taught young kids. Role: Frontend Development using HTML and CSS
+EDUCATION
+LANGUAGES
+Bachelor of Engineering 2023-2027
+English
+2nd Year, Computer Science and Engineering
+Hindi
+AMC Engineering College, Bengaluru
+Marathi

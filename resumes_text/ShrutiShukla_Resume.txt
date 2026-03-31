@@ -1,0 +1,49 @@
+Shruti Shukla
+Email: shruti.shukla@avantika.edu.in | Mobile: 9893823762 |
+LinkedIn: www.linkedin.com/in/shruti-shukla-776b37251
+Degree Institute Name Year of CGPA / %
+Passing
+B.Tech in Computer Avantika University, Ujjain 2022-26 Pursuing
+Science & Engineering
+HSC (12th ) Kalidas Montessori Sr. Sec. School - Ujjain 2021-22 85%
+SSC (10th ) Sant Meera Convent Higher Secondary 2019-20 90.67%
+School - Ujjain
+Web Application- Tech Stack - React JS, HTML, CSS, Bootstrap,
+“RoboTech” JavaScript, Figma
+An online platform for robotics and DIY Oct 2023 - Nov 2023
+electronics components, providing parts, learning
+materials, and IoT devices.
+IoT Application- Tech Stack - C, Arduino Uno, DHT11 Sensor,
+“Greenhouse Controlling System” LDR (Light Dependent Resistor), Relay, Soil
+Moisture(water sensor). Sep 2024 - Oct 2024
+The system that would monitor the greenhouse
+environment.
+Desktop Application- Tech Stack - ElectronJS, HTML, CSS, Bootstrap,
+“Library Management System” Javascript, MySQL, XAMPP.
+Develop an online bookstore where users can Aug 2024 - Sep 2024
+search for and make purchases of books based on
+title, author and subject.
+● Certificate of Participation for attending a Masterclass on "Career Success" by Pranjal Dubey, organized by the
+Entrepreneurship Cell and Avantika Innovation and Incubation Center (Feb 15, 2023).
+● Certificate of Participation for successfully completing the 1st December Bootcamp on "MERN
+Stack E-Commerce Web Application," organized by RegEx Software Services (Dec 7, 2024).
+● Participated in Smart India Hackathon, collaborating on innovative solutions to real-world problems throughtechnology and teamwork.
+● Lead as a volunteer in the Chakrview and participated in a drone event.
+● Participated in NSS activities, including donating books and chocolates on ‘Child Labour Day’ and providing
+Rakhi materials for students creative projects.
+● Participated in Tech Quest at AAROHA 2025, receiving recognition for dedication and contribution to the event,
+and won the 1st prize trophy and certificate.
+● Won a Maa Saraswati frame and a certificate in a Hindi writing competition during school.
+Data Analyst Web Development Machine Learning
+C++ HTML/CSS/Javascript React.js
+Figma MySQL MS Word
+MS Powerpoint Canva Bootstrap
+Java
+D. O. B : 5th June, 2003
+Languages known: English and Hindi
+Interests : Travelling and Painting
+Address : Ujjain, Madhya Pradesh
+I, hereby declare that the information given above is true to the best of knowledge and belief. And I promise to
+abide by all the norms laid down by your esteemed organization.
+Date: January, 2025 Shruti Shukla
+Place: Ujjain

@@ -1,0 +1,47 @@
+Gulam Zafar Ali
++91 6232980314 | alizafar6232@gmail.com | linkedin.com/in/ZafarAli001 | github.com/zafar-ali
+Education
+Rungta College of Engineering and Technology Bhilai, Chhattisgarh
+Bachelor of Technology (B.Tech) August 2022 – June 2026
+Professional Summary
+Computer Science Engineering student with hands-on experience in full-stack development using Java, React,
+Node.js, Express, and MongoDB. Strong foundation in Data Structures, OOP, DBMS, and SDLC with practical
+exposure to building scalable RESTful APIs, implementing secure authentication (JWT), and developing
+production-ready and scalable web applications. Experienced in Agile/Scrum-based collaborative development,
+Git-based version control workflows, production deployment, and API integration. Seeking an entry-level
+Software Developer role to contribute to scalable and efficient software solutions
+Skills Summary
+Languages: Java, JavaScript, SQL, C, Python
+Web: React.js, Node.js, Express.js, RESTful APIs, HTML, CSS, Tailwind CSS
+Databases : MongoDB (NoSQL), MySQL (Relational DB), Data Modeling, Query Optimization
+Core CS: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems
+(DBMS), Operating Systems, Software Development Life Cycle (SDLC), Cybersecurity Fundamentals
+Developer Tools: Git, GitHub, Linux, VS Code, Excel, Postman
+Academic Projects
+CivicOne Bhilai (GitHub) | React, Tailwind CSS, Node.js, Express, MongoDB, JWT July 2025 – Present
+• Independently designed and developed a scalable MERN stack municipal platform implementing RESTful APIs and
+MVC architecture.
+• Engineered JWT-based authentication and role-based authorization (RBAC) ensuring secure access control.
+• Built complaint tracking module with image uploads, geolocation integration, and real-time status updates.
+• Applied structured error handling, input validation, and API testing using Postman to ensure secure and reliable
+backend performance.
+• Implemented asynchronous processing for image uploads and notifications, improving backend scalability and
+concurrent request handling in production environment.
+Smart Resume Analyzer (GitHub)| Python, Flask, NLP, Machine Learning March 2025 – June 2025
+• Collaborated in a team of developers to design, build, and deploy a Flask-based NLP web application for
+resume-job compatibility analysis.
+• Implemented TF-IDF vectorization and tokenization for structured resume parsing.
+• Designed cosine similarity scoring algorithm to compute job-role compatibility and automate skill-gap analysis.
+BillEase (GitHub) | React, Node.js, Express, MongoDB, JavaScript Jan 2025 – Feb 2025
+• Developed a modular full-stack billing system using MERN stack with REST API-based architecture.
+• Implemented automated invoice generation and tax calculation logic.
+• Implemented invoice sharing and payment status tracking features with secure CRUD operations, input validation,
+and optimized database queries.
+Additional Experience & Certifications
+• Completed Full-Stack Web Development training covering REST API development, authentication, and
+deployment fundamentals.
+• Certified in Data Structures & Algorithms using Java (Coding Spoon).
+• Practiced and solved over 100 algorithmic problems on LeetCode to enhance problem-solving skills.
+• Certified in Git & GitHub (LetsUpgrade), with hands-on experience in branching, merging, and version
+control workflows.
+• Participated in IAM-focused cybersecurity job simulation (Tata Group – Forage).

@@ -1,0 +1,52 @@
+Ankit Pandey
++91-8303365793 # Mail (cid:239)LinkedIn §GitHub
+Work Experience
+SQL Developer – Elevate Labs (Remote) Jun – Aug 2025
+• Wrote and fine-tuned over 20 complex SQL queries to uncover key insights from more than 100K user activity
+records. These findings helped the product team pinpoint where users were dropping off and guided improvements
+to boost app engagement.
+• Designed clear and efficient relational database schemas, reducing average query response time by 30% and
+improvingdataconsistency—strengtheningbackendperformanceandmakingiteasiertointegratenewdatasources
+in the future.
+• Built interactive dashboards in Metabase and SQL to give stakeholders real-time visibility into performance met-
+rics. These dashboards supported data-driven decisions that improved user retention by 12% in just one quarter.
+Projects
+FOIR Analysis – Python,Numpy, Seaborn, Matplotlib
+GitHub: FOIR-Analysis
+• CollectedandanalyzedfinancialdatatostudytheimpactofincomeandobligationsonloaneligibilityusingPython.
+• Cleaned datasets with Pandas & NumPy and performed EDA using Matplotlib & Seaborn to visualize corre-
+lations between FOIR values and repayment capacity.
+• Outcome: Provideddata-driveninsightstohelpoptimizelendingthresholdsandimprovefinancialdecision-making.
+Blinkit 10-Minute Delivery Analysis – Python, Seaborn, Scikit Learn
+Github: 10-Minute Feasibility Study
+• Created and analyzed synthetic delivery data (100+ orders) for Blinkit-style operations in the Delhi NCR region
+using Python, Pandas, and NumPy.
+• Built interactive geospatial visualizations using Folium, demand clustering with KMeans, and spatial models like
+Voronoi diagrams to identify bottlenecks and hotspots.
+• Impact: Helped evaluate the practicality of 10-minute deliveries in dense urban areas by mapping inefficiencies
+and recommending fulfillment zone optimizations.
+HR Attrition Analysis – Power BI, MS Excel
+GitHub: HR Attrition Dashboard
+• Designed an interactive Power BI dashboard to visualize employee attrition trends using key metrics like age,
+department, salary, and job satisfaction.
+• Integrated slicers and DAX measures to allow dynamic filtering by business unit and performance ratings.
+• Result: Helped HR identify high-risk departments and reduce attrition by enabling targeted retention strategies.
+Technical Skills
+• Languages: Python, SQL, DAX
+• Data Analytics Tools: Microsoft Power BI, Microsoft Excel, Google sheets, Jupyter Notebook
+• Technologies / Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, HTML5, CSS3
+• Developer Tools: GitHub,Jupyter Notebook, VS Code, Canva
+Education
+B.Tech in Computer Science and Engineering (AI/ML) 2022 – 2026
+Ajay Kumar Garg Engineering College, Ghaziabad Percentage: 78%
+Senior Secondary Education (CBSE) 2019–2021
+Gorakhpur Public School Percentage: 94.4%
+Certifications & Courses 2
+• Data Analytics Summer Certificate – IBM, Aug 2025
+• IBM Watson Studio Essentials – IBM, Jul 2025
+• Data Analyst Skillpath - 72 Days Bootcamp – Udemy, Jun 2025
+• SQL (Intermediate) – HackerRank, May 2025
+• Intro to Data Analytics – IBM (SkillBuild), Dec 2024
+Position of Responsibility
+Head Coordinator – Training & Placement Cell, AKGEC 2025 – Present
+Content Writer – Photography & Media Club, AKGEC 2024 – Present

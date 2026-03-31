@@ -1,0 +1,53 @@
+Mohit Raut +91-9561569348
+B-Tech. In Artificial Intelligence mohit.raut.ai@ghrce.raisoni.net
+GHRCE, Nagpur, Maharashtra mohitraut009@gmail.com
+LinkedIn Profile
+PROFESSIONAL SUMMARY
+Aspiring Python developer interested in backend technologies. Enthusiastic about building efficient
+backends and integrating machine learning with Python. Adaptable, eager to learn, and passionate about
+using technology to solve real-world problems. Brings a hands-on approach, strong collaboration, and a
+drive for clean, reliable code.
+EDUCATION
+• G. H. Raisoni College of Engineering, Nagpur 2026
+Btech. Artificial Intelligence CGPA: 8.59
+• VMV Commerce JMT Arts & JJP Science College 2022
+Maharashtra State Board of Secondary and Higher Education, Pune Percentage: 73.50%
+INTERNSHIP
+• Elevate Labs June 2025 – July 2025
+Python Developer Intern Remote
+– Technologies Used: Flask, FastAPI, Postman, Bootstrap.
+– Contributed to the design and development of backend services using Flask and FastAPI, focusing on creating
+efficient, scalable REST APIs. Gained practical experience in Python application development, API integrations,
+and building modular code structures. This hands-on role deepened understanding of modern development
+workflows, improved debugging skills, and reinforced best practices in writing clean and maintainable Python code.
+PERSONAL PROJECTS
+• Health Blog Portal | GitHub Sept 2025
+– Technologies Used: Python, Django, MySQL, Bootstrap, HTML, CSS,
+– Developed a role-based portal with doctor/patient dashboards, secure authentication, and a full-featured health
+blog (category-based authoring and patient access).
+– Implemented responsive UI, media handling, and production-grade database with robust admin controls.
+• Bookstore Inventory Management API | GitHub June 2025 - July 2025
+– Technologies Used: Python, FastAPI, SQLite, SQLAlchemy, Postman.
+– Built a RESTful API to manage bookstore inventory with full CRUD features, robust error handling, and advanced
+search/filtering. Integrated SQLite via SQLAlchemy, thoroughly tested and documented endpoints using Postman.
+Strengthened backend development and API documentation skills.
+• Image Processing/Editor Tool | GitHub Jan 2025 - Feb 2025
+– Technologies Used: Python, Flask, Pillow, OpenCV.
+– Built a Python-based tool for batch image processing with features like resizing, format conversion, compression,
+and basic computer vision operations. Used os for folder traversal and integrated Pillow and OpenCV for efficient
+image manipulation. Designed to streamline bulk image tasks with automated and customizable workflows.
+TECHNICAL SKILL AND INTEREST
+Languages: Python, C++, C
+Developer Tools: Postman, GitHub, VS Code
+Databases: SQL
+Soft Skills: Creativity, Planning & Delivery, Communication, Team Leadership, Patience
+Areas of Interest: Research and Analysis, Python Development, Backend Development, Artificial Intelligence &
+Machine learning, Computer Vison.
+POSITION OF RESPONSIBILITY
+• Secretary, IEEE Computational Intelligence Society, GHRCE Sept 2024 - Sept 2025
+• Ex - Volunteer, IEEE Computational Intelligence Society, GHRCE 2023-2024
+CERTIFICATIONS
+• C, C++ Certifications from Disha Computer institute (Securing 90+% in final assessment)
+ACHIEVEMENTS
+• Participation in SIH 2023, 2024
+• Winner, Biomedical Hackathon organized by GHRCE, Nagpur 2022

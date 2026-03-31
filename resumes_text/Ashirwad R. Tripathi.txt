@@ -1,0 +1,32 @@
+ASHIRWAD RAVINDRA TRIPATHI
+Dehradun, Uttarakhand +91-7428687939 ashirwadtripathi.at7@gmail.com
+About Me
+Currently pursuing B. Tech in Computer Science (Final Year), with strong base in python and DSA and an
+interest in Machine Learning and Artificial Inelegance. Eager to obtain a challenging job in an innovative
+organization where I can use my technical and analytical skills. Strong team player to collaborate and
+work with anyone to deliver reliable, efficient, and high-quality output.
+Skills & abilities
+Language: Hindi (Mother Tongue), English(Fluent), German(B1 level)
+Programming Language: Python, C, C++
+Web Technologies: HTML
+Others: MS Office, SQL, Data Structure & Algorithm, ML
+Soft Skill: Problem solving and Analytical skills, Team player, Adaptability
+Project
+Face Detection and Recognition Student Attendance System
+Building an automated class attendance system using face detection algorithms. The system will utilize
+video capture to detect faces and mark attendance.
+Using OpenCV – for image processing and detection. Using Dlib’s Model to compare detected faces.
+Research Paper
+A retrospective method of detection of cyberbullying using machine learning algorithms
+This involves analysing past digital communications to identify patterns and behaviours indicative of
+bullying. As it affects mental health and online Safety
+By training models.
+* Naïve Bayes * Logistic Regression. * Support Vector Machine (SVM)
+Certificates
+Python with DSA + ML from Ducat(New Delhi)
+24 Hour Hackathon (Prompt X)
+Education
+Jigyasa University, Dehradun 2022-2026
+Bachelor of technology, Computer Science engineering | 7.9 CGPA
+Ramjas School, RK Puram, New Delhi 2019
+10+2 | 75% | CBSE Board

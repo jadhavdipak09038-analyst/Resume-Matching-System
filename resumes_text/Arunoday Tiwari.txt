@@ -1,0 +1,60 @@
+ARUNODAY TIWARI
++ Uttar Pradesh, India — # arunodayvmtiwari1102@gmail.com — (cid:132) +91-6394093377
+(cid:239) Linkedin — (cid:252) Medium — § GitHub
+PROFESSIONAL SUMMARY EDUCATION
+Security Product Developer skilled in building and securing software Bachelor of Technology 2023 – 2027
+products from concept to deployment. Experienced in secure SDLC, Electronics & Communication Engineering
+product security reviews, threat modeling, and secure API de- NIT Meghalaya GPA: 8.32/10.0
+velopment. Adept at integrating DevSecOps practices into Agile
+workflows and delivering scalable, cloud-native applications. Strong col- Intermediate (12th Grade) 2022
+laborator with product and engineering teams, ensuring security-by- St. Thomas School Kanpur, India
+design without compromising product performance. Percentage: 95%
+TECHNICAL SKILLS
+PROFESSIONAL EXPERIENCE
+Programming Languages
+Security Software Developer June 2025 – July 2025 • Java, Python, JavaScript, HTML/CSS
+Cyber Cell, Meghalaya Police Shillong, India Frameworks & Technologies
+• Implementedasecurityproduct(phishing-blockingbrowserextension)us- • React, Node.js, Express.js, Tailwind CSS,
+ingReact,Tailwind,Firebase—deployedacrossstategovernmentsystems, Firebase
+securing users daily .
+Cybersecurity Tools
+• Built an endpoint monitoring platform (Wazuh + Filebeat + Elastic-
+search), enabling real-time product log analysis. • Wazuh, BurpSuite, Nmap, Metasploit,
+• Partnered with cyber cell team to enforce secure coding standards and Snort, EDR solutions
+improve their website security. Core Technologies
+Cybersecurity Intern Jan 2025 – Mar 2025 • Data Structures & Algorithms, Operating
+Systems, DBMS
+Centre for Development of Advanced Computing (CDAC) Noida, India
+• Full-stack Web Development, API Devel-
+• Developed a ransomware simulation tool in Python for product testing opment
+and resilience validation, later used in security training programs. • Vulnerability Assessment, Threat Detec-
+• Conducted sandbox testing and code vulnerability assessments to identify tion, AWS, Docker
+weak points in software systems.
+• Gainedhands-onexpertiseinsystem-levelprogrammingandthreatmodeling
+ACHIEVEMENTS
+for secure development.
+• State-wide deployment of security exten-
+KEY PROJECTS sion across Meghalaya government.
+• 2nd placeinCapturetheFlag(CTF)com-
+CTF Platform Jan 2025 – Mar 2025
+petition at NIT Meghalaya.
+• Engineeredafull-stackplatform(Node.js,Express.js,Tailwind)withsecure
+APIs, authentication, and role-based access for cybersecurity product • Government cybersecurity project contri-
+training and CTF’s. butions with measurable impact.
+• Successfully hosted CTF event with 100+ participants.. • Successfully managed college-wide CTF
+Endpoint Detection & Monitoring System Jun 2025 event with 100+ participants.
+• Built a real-time product security dashboard with Wazuh + Elastic- • Strong academic performance with GPA
+search + Kibana, improving product security visibility and accelerating in- 8.32/10.
+cident triage by 25%.
+• Created Kibana dashboards for visualizing threats and improving incident
+response.
+Securing NIT Meghalaya Website Jun 2025
+• Identifiedandremediatedcriticalvulnerabilities,thenrefactoredwebsite
+practices to align with product security standards..
+• Implemented secure coding practices and configuration changes, reducing
+exposure to web-based attacks.
+Certifications
+• Certified Ethical Hacker (CEH v13 AI) – Aug 2025
+• Palo Alto Network and Cloud Security Certification – Oct 2024
+• Prompt Engineering and AI Certification – Aug 2025
+• Postman API Fundamentals Student Expert – May 2024

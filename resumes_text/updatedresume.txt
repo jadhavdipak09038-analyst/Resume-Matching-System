@@ -1,0 +1,40 @@
+Madhushree S M
+Sriramapura village Mysuru district Karnataka India
+571617
+6366619259 | shreemadhu288@gmail.com
+Objective
+Computer Science graduate with a strong foundation in programming, data structures and
+algorithms. Eager to begin a career in software development where I can contribute to real-world
+projects, continuously learn, and grow in a dynamic tech environment.
+Education
+University of Mysuru 2024
+BCA
+9.2
+National institute of engineering Mysuru 2024-2026
+MCA
+8.4(first year)
+Projects
+A Secure Framework for Tender Allocation Based on AWS Service
+Developed a secure e-Tendering system using C# and .NET Framework, integrated with ADO.NET
+and SQL Server for data management. Deployed on AWS (EC2, S3) to ensure scalability and
+secure file storage. Implemented NLP to analyze client reviews and added role-based access to
+enhance transparency and prevent fake submissions.
+College Event Management System
+web-based event management system for college using HTML, CSS, and JavaScript for the front
+end and PHP for backend processing. The system allows students and organizers to create,
+manage, and register for events efficiently. Features include user authentication, event listings,
+registration forms, and admin control for managing event data.
+Courses And Certification
+Neural networks and Deep learning by COURSERA
+Completed Coursera’s Neural Networks and Deep Learning course by Andrew Ng. Learned core
+deep learning concepts and implemented neural networks using Python and NumPy
+Google AI essentials by COURSERA
+Completed a foundational course on Artificial Intelligence, covering core AI concepts, real-world
+applications, responsible AI practices, and how to effectively use AI tools for productivity and
+collaboration.
+Skills
+Programming Languages:C, basics of C++,Java, Python
+Problem solving and time management
+Good communication skills
+Languages
+English Kannada

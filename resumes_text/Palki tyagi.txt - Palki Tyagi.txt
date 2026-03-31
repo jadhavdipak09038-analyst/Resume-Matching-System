@@ -1,0 +1,47 @@
+PALKI TYAGI
+AI ML developer Intern
+Profile
+Motivated and detail-oriented 4th-year B.Tech Computer Science student
+with a basic knowledge in Python programming and problem-solving
+skills. Seeking an internship position where I can contribute my
+knowledge of programming, algorithms, and software development while
++91 8394005788
+gaining valuable industry experience.
+palkityagi6@gmail.com
+Research Paper & Project
+Education
+A Retrospective Method of detection of Cyberbullying
+Bachelor of Technology CSE using Machine Learning Algorithms (Research Paper)
+Jigyasa University This involves analysis past digital communications to identify patterns and
+2022-2026 behaviors indicative of bullying.
+The training models used:
+Senior Secondary
+Naive Bayes
+Board of Intermediate Education Logistic Regression
+Uttar Pradesh Support Vector Machine (SVM)
+2021-2022
+Face Detection and Recognition Student Attendance
+Secondary System (Project)
+Board of High School Uttar Pradesh Working on an automated class attendance system using face detection
+algorithms. The system will utilize video capture to detect faces and mark
+2019-2020 attendance.
+OpenCV- for image processing and detection.
+Dlib,s Model to compare detected faces.
+Expertise
+Key Skills
+Programming Language:
+Quick Learner
+Python (Basic)
+Teamwork
+Tools: Leadership
+VS code, Jupyter Notebook Multitasking
+Communication
+Team Management
+Language
+Patience & Calmness
+Confidence
+English
+Declaration
+Hindi
+I hereby declare that the information furnished above is true and correct to the best of
+my knowledge and belief.

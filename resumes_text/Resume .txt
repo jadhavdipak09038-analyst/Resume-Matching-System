@@ -1,0 +1,59 @@
+AMAN SELWARIA
+A dedicated and innovative Computer Science student seeking internship
+opportunity to apply my skills in Java, C++, Data Analytics, and Web Development.
+Passionate about problem solving and eager to contribute to real-world projects
+while learning and growing.
+PROJECTS
+CONTACT
+Java-Based Plain Text Editor
+Developed a feature-rich desktop text editor using Java for both front-end and
++91- 8889900421 back-end development.
+Introduced a real-time font preview panel, allowing users to view font changes
+amanselwaria@gmail.com without selecting text—enhancing usability compared to conventional text
+editors.
+Ujjain (M.P) Ensured cross-platform compatibility—runs seamlessly on any machine with SQL
+Workbench and Spring Boot Tool Suite installed.
+linkedin.com/in/aman-selwaria- Presented research findings at a National Conference, leading to the publication
+734187348 of a research article.
+Version Migration of Java Web Application
+EDUCATION Migrated a Java-based web application from Java 8 to Java 21 to ensure
+compatibility and continued support.
+Upgraded Apache Tomcat Server from version 8.5 to 10, improving security and
+2022-2026 performance.
+Avantika University Updated Servlet versions, JAR dependencies, CSS, SCSS, JavaScript, and other
+libraries to align with modern development standards.
+B.tech (C.S.)
+Ensured the upgraded application remains fully functional across different
+environments, requiring only SQL and Spring Boot Tool Suite for execution.
+SKILLS
+Optimized legacy code, resolved compatibility issues, and improved application
+efficiency.
+Critical Thinking Machine Learning Dataset Creation and Training
+Programming Languages: Java, C++ Designed and trained custom ML models for analyzing cow and cow milk data
+with 70% training accuracy.
+(Basics)
+Developed a predictive model for future milk production estimation, milk quality
+Web Development: HTML, CSS, assessment, and price prediction using Linear Regression and other regression
+JavaScript techniques.
+Plotted graphs and visualizations to analyze predictions and trends effectively.
+Data Analytics: SQL, Tableau, Excel
+Curated a dataset from reliable sources like Sachi, Mother Dairy, Amul, and
+Internet of Things (IoT): Sensors and government websites to ensure accuracy.
+Modules Integration Applied data preprocessing, feature engineering, and hyperparameter tuning to
+enhance model performance.
+IoT-Based Smart Bird Feeder
+CERTIFICATION
+Engineered an IoT-powered bird feeder using sensors like load cell, mist sensor,
+PIR sensor, and Arduino Uno.
+Integrated ESP32 for long-distance wireless connectivity and real-time data
+Data Analytics Essentials (NetAcad, Cisco) . monitoring.
+Internet of Things 201 (Oct 2024) . Designed to automate bird feeding in zoos and sanctuaries, addressing the
+Java Servlets Training (Mar 2025) . common issue where caretakers may forget to feed birds or face difficulties in
+Data Analytics Essentials (NetAcad, Cisco). manual feeding.
+Internet of Things 201 (Oct 2024) . Optimized food distribution and water quality monitoring to ensure proper
+Java Spring Boot - Advance (Mar 2025). nourishment and well-being of birds.
+LANGUAGES INTERESTS
+IoT-based projects for smart automation.
+Hindi (Fluent) Driven to do new research, offer fresh approaches to issues, and study
+English (Fluent) emerging technologies.
+AI and automation technologies.

@@ -1,0 +1,49 @@
+SHIVAM PANKAJ YADAV
+D-108, Hiramoti Society, Kisan Nagar-1, Thane(W)-400601
+(cid:131) +91-9769298636 # shivamyadav.ml13@gmail.com (cid:239) linkedin.com/in/shivam-yadav-116b29388 § github.com/SHIVAM-YADU
+Education
+Ramrao Adik Institute of Technology, D. Y. Patil Deemed to be University July 2023 – Present
+B.Tech in Computer Science & Engineering (AI&ML), CGPA: 6.71/10 Navi Mumbai, India
+Vidya Niketan Junior College March 2022
+12th Grade, Percentage:48.50% Ghatkopar, Mumbai
+Navodaya English High School April 2020
+10th Grade, Percentage: 66.2% Thane
+Projects
+Learning Management System (LMS) | Django, HTML, CSS June 2023
+• Developed a full-stack LMS with Admin, Teacher, and Student portals for managing courses, assignments, and grades.
+• Implemented authentication, role-based access, and database management using Django.
+• Designed a responsive UI with HTML and CSS to ensure smooth and intuitive user experience.
+Food Recognition Model | Python, YOLO, Roboflow, HTML, CSS, Java May 2024
+• Built a real-time fruit recognition system using YOLO and Roboflow to detect fruits and display nutritional data (calories,
+protein, fiber, fats).
+• Developed an interactive web interface using HTML, CSS, and Java for live detection and visualization.
+• Optimized dataset preprocessing to improve model accuracy and detection speed.
+Live Web-Cam Drawing | Python, OpenCV, NumPy March 2025
+• Created a virtual drawing application allowing users to draw in the air via webcam-based color tracking.
+• Implemented contour and HSV detection for precise gesture recognition and real-time rendering.
+• Added gesture-based color palette and clear/reset options for seamless interaction.
+Interactive Map (Touchless Control) | Python, OpenCV, cvzone, NumPy May 2025
+• Developed a touchless interactive map using hand and index-finger tracking for real-time region selection.
+• Used perspective transforms and polygon detection for accurate gesture response and region highlighting.
+• Showcased expertise in computer vision, image processing, and user interaction design.
+Technical Skills
+Programming Languages: Python, Java, C
+Web Technologies: HTML, CSS, JavaScript, Tailwind, React Js
+Frameworks & Libraries: TensorFlow, Flask, Django, OpenCV, MediaPipe, NumPy, Pandas
+Tools & Databases: Git, MySQL, SQL, VS Code, Jupyter Notebook, Excel, Power BI
+Core Areas: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing,
+Data Visualization
+Certifications
+• Hackeroid Bootcamp, Participant — GDSC-RAIT (Certificate) March 2022
+Completed a four-session training in Java and Android Studio for Android app development.
+• Designaire Participation Certificate May 2022
+Demonstrated creativity, design thinking, and teamwork in an innovation-based event.
+• AWS Academy Graduate – Machine Learning Foundations (Certificate) Apr 2025
+Gained hands-on experience in supervised & unsupervised learning, model evaluation, and AWS ML tools.
+• IBM – AI for Everyone (AI0101EN) (Certificate) Apr 2025
+Learned AI fundamentals, data-driven decision making, and ethical AI applications.
+• IBM – Apache Spark for Data Engineering & Machine Learning (BD0231EN) (Certificate) Apr 2025
+Acquired practical skills in big data processing, distributed computing, and ML pipeline development using
+Spark.
+Hobbies
+Building side projects, Chess, Fitness, Travelling, Listening to music

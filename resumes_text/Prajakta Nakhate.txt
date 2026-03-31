@@ -1,0 +1,48 @@
+PRAJAKTA NAKHATE
+9699271590 prajaktanakhate2003@gmail.com LinkedIn GitHub
+ABOUT
+Data Science and Machine Learning student with hands-on experience in Python, SQL, and Power BI. Skilled in building
+predictive models, recommendation systems, and interactive dashboards using real-world datasets. Strong foundation
+in statistics, data preprocessing, and visualization with a keen interest in applying ML techniques to solve practical
+business problems.
+EDUCATION
+J D College of Engineering & Management 2022 - Present
+BTech in CSE (Data Science)
+CGPA – 8.1
+Pandit Bachharaj Vyas Vidyalaya and Junior College 2019-2021
+HSC Board 90.33%
+Sanjuba High School 2019
+SSC Board 87.66%
+PROJECTS
+Risk Analysis in Banking
+Built an interactive Banking Dashboard in Power BI to monitor deposits, loans, customer growth, and revenue
+performance. Designed data models and DAX measures enabling drill-down analysis, forecasting, and
+customer segmentation.
+Delivered actionable insights on branch performance and risk trends, improving financial planning and decision-
+making.
+Technologies : Python, Statistics, MySQL, Power BI | GitHub
+Movie-Recommendation System using Machine Learning
+Developed a content-based recommendation system to suggest movies based on user preferences.
+Processed and transformed movie metadata using TF-IDF Vectorization to capture textual similarities.
+Implemented Cosine Similarity to measure closeness between movies and generate personalized recommendations.
+Technologies: Python, NumPy, Pandas, Scikit-learn |GitHub
+Diabetes Prediction using Machine Learning
+Built a predictive model to classify patients as diabetic or non-diabetic using health parameters from the Pima Indians
+dataset. Applied data preprocessing and feature scaling (StandardScaler) to improve model performance.
+Implemented a Support Vector Machine (SVM) classifier and evaluated performance with train-test split and accuracy
+score. Achieved a robust model for binary classification , supporting early disease detection.
+Technologies: Python, NumPy, Pandas, Scikit-learn, Statistics, Machine Learning (SVM, Classification) |GitHub
+SKILLS
+Programming Languages: Python, MySQL
+Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
+Data Visualization: Excel, Power BI
+Machine Learning
+Classification: Binary Classification, Support Vector Machine (SVM), Decision Tree
+Regression: Linear Regression, Logistic Regression
+Clustering: K-Means
+Soft Skills: Communication, Teamwork, Leadership
+CERTIFICATIONS
+Joy of Computing Using Python- NPTEL, IIT Kanpur
+Introduction to Data Analytics- Coursera, IBM
+Enhancing Soft Skills and Personality- NPTEL, IIT Kanpur
+Professional Project Management- Coursera, Google

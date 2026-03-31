@@ -1,0 +1,48 @@
+Himanshu Chandnani
+himanshuchandnani24@gmail.com 8735071594 382350 Ahmedabad , Gujarat
+24 - 09 - 2008
+Profile
+Motivated IT student and have strong problem-solving skills as well as keen interest in learning new
+technologies. Ready to take new challenges to become a useful asset for the company.
+Education
+Diploma IT, Government Polytechnic Gandhinagar 2024 – Present
+Current Semester= 4 Gandhinagar, Gujarat
+Current CPI = 8.48
+Secondary School Certificate (Class X ), Lords Convent School Bhilwara, Rajasthan
+Passing Year - 2024
+Percentage - 90.83
+Projects
+Student Record Management System
+Developed a backend-based application to manage student academic records efficiently.
+•
+The system allows administrators to add, update, delete, and retrieve student details securely.
+•
+Implemented input validation and basic error handling
+•
+Store Management System
+Built a Store Management System to manage product inventory, sales transactions, and customer records
+•
+Implemented CRUD operations
+•
+Implemented exception handling
+•
+Technical Skills
+Programming languages: Python, Java Mobile Development : Android app development (
+Android Studio)
+Database : MySQL
+Concepts : OOP , DBMS
+Tools : Git , VS Code , Android SDK
+Soft Skills
+Communication Skills Problem solving Flexibility
+Clear verbal communication , Ability to analyze problems Adapt to work independently or
+Active listening and basic logically and implement efficient in a team framework
+presentation skills solutions
+Courses
+Python Programming
+Object - Oriented Programming ( Java )
+Database Management System
+Data Structure in Python (basic)Achievements
+Hackerrank Java ( Gold Badge )
+Solved 50 % of total questions on hackerrank
+Hackerrank Python ( Gold Badge)
+Solved 75 % of total questions on hackerrank

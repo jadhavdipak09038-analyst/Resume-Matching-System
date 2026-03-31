@@ -1,0 +1,61 @@
+MIHIR RAVAT
+M.C.A. - Computer Applications
+Ph: +91-9022341585
+Email: mihirravat9901@gmail.com
+Navi Mumbai, Maharashtra, India - 410210
+KEY EXPERTISE
+Java SQL Git Github Jenkins ReactJs VMware
+EDUCATION
+SIES College of Management Studies 2024 - 2026
+M.C.A. - Computer Applications | Percentage: 65.85 / 100
+SIES College of Arts Science and Commerce Nerul, Navi Mumbai 2020 - 2023
+B.Com. - Banking & Insurance (Full Time) | CGPA : 9.50 / 10
+Dnyan pushpa vidya Niketan Cbd Belapur, Navi Mumbai 2020
+12th | MSBSHSE | Percentage: 72.92 / 100
+Bharati Vidyapeeth Eng Med School ,Navi Mumbai, Navi Mumbai 2018
+10th | CBSE | Percentage: 65.60 / 100
+INTERNSHIPS
+Edunet Foundation-AICTE | IT / Computers - Software 15 Jul, 2025 - 07 Aug, 2025
+IBM SkillsBuild Internship on AI and Cloud Technologies
+(cid:0)Engaged in industry-relevant training on Artificial Intelligence and Cloud Computing
+(cid:0)Participating in hands-on projects, virtual labs, and expert-led sessions
+(cid:0)Developing skills in AI concepts, cloud services, machine learning, and real-world applications
+PROJECTS
+Questify-AI based Quiz App 01 Jul, 2025 - 01 Dec, 2025
+Mentor: Prof Roshna Ravindran | Team Size: 3
+Key Skills: Javascript Node.js Machine Learning Artificial Intelligence
+Project Link: https://github.com/Mihir9901/Questify
+Questify-AI is an intelligent assessment platform initially developed using JavaScript for automated quiz creation and management. The
+project was later enhanced with AI-driven capabilities to automatically generate questions, evaluate answers, and analyze learner
+performance using NLP and machine learning techniques
+Cheating Surveillance Detection System 04 Feb, 2025 - 21 Apr, 2025
+Mentor: Prof Roshna Ravindran | Team Size: 3
+Key Skills: Python C++ Machine Learning
+(cid:0)Automatically detects and flags suspicious behaviors like eye movement, presence of others, or unusual sounds.
+(cid:0)Uses computer vision and machine learning algorithms for real-time behavior analysis.
+Diabetes Detection Model 01 Nov, 2024 - 15 Jan, 2025
+Mentor: Prof Roshna Ravindran | Team Size: 3
+Key Skills: Python R language
+Project Link: https://github.com/Mihir9901/Diabeties-prediction-system
+(cid:0)Predictive Model Using Health Data
+(cid:0)Early Diagnosis for Better Management
+ASSESSMENTS / CERTIFICATIONS
+Java(Basic)
+SQL(Basic)SQL(Intermediate)
+Cloud Computing Fundamentals-IBM SkillsBuild
+Getting Started with Artificial Intelligence-IBM SkillsBuild
+The Joy of Computing using Python - NPTEL
+Privacy and Security in Online Social Media - NPTEL
+Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+CO-CURRICULAR ACTIVITIES
+Nukkad Natak - 2025
+PERSONAL INTERESTS / HOBBIES
+Movies
+Music
+PERSONAL DETAILS
+Gender: Male Date of Birth: 28 Feb, 2002
+Marital Status: Single Known Languages: English,Hindi, Gujarati,Marathi
+Current Address: Flat Number -1803, Millennium Icon,Plot Phone Number: +91-9022341585
+number-50/51, Near Dmart,Sector-15 , Kharghar,Navi Mumbai-
+410210, Navi Mumbai, Maharashtra, India - 410210
+Email: mihirravat9901@gmail.com

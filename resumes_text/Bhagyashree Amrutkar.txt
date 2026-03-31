@@ -1,0 +1,42 @@
+BHAGYASHREE SHARAD AMRUTKAR
+OBJECTIVE
+Kothrud, Pune | +91 9970204038
+Email ID : amrutkarbs@gmail.com
+Looking for an opportunity to work with
+an organization where I can apply my
+knowledge with all the efficiency and also
+LinkedIn : https://www.linkedin.com/in/bhagyashree2000
+where I can get a platform to learn new
+things and challenging work.
+EXPERIENCE
+TECHNICAL SKILLS  Ex.Intern (Heuristic Technopark) Dec2023 – Apr2024
+ Developed a full-stack web application to manage employee
+ Programing Language : Python details and streamline office employment processes.
+ Frameworks & Technology :  Created forms and dashboards for managing employee records
+Django, Bootstrap including personal info, job details, and department allocation.
+ Web Technology : HTML, CSS,  Designed leave and attendance management features with
+JavaScript calendar integration.
+ Database : MySQL  Implemented search and filter functionalities for quick access to
+ Tools & IDEs : Visual Studio employee data
+2013&2017, pycharm 2022.2  Utilized Bootstrap for responsive design and enhanced UI/UX.
+ Soft skills : Organization Skills,
+.
+Communication, Problem Solving EDUCATION
+LANGUAGE Master in computer science (MSc ) May 2023
+M.J. College, Jalgaon 64.54%
+English
+Hindi Batchelor in computer science (BSc) June 2021
+N.Y.N.C. College, Chalisgaon 78.88%
+Marathi
+ACADEMIC PROJECTS
+Food Delivery Capstone Project
+Technologies used : HTML, CSS, JavaScript, Python, Django
+framework, MySQL
+Developed a full-stack Food Delivery Web Application that allows
+users to browse restaurants, place orders, and track deliveries in real-
+time. Integrated user authentication , admin dashboard, and order
+management system.
+PROFESSIONAL CERTIFICATES
+ Certification of Training and Internship Program with Heuristic
+Techno park (Python, Django)
+ Diploma in Python Full Stack Course – FirstBit Solution, Pune

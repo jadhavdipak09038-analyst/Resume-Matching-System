@@ -1,0 +1,58 @@
+SHRIKANT BAWANE
+8329905349
+DATA ANALYST
+shrikantbawane111@gmail.com
+Github Link : https://github.com/ShrikantBawane?tab=repositories
+Pune
+Linkedin Link : https://www.linkedin.com/in/shrikant-bawane-899b98309/
+SUMMARY
+Proficient in Python, SQL, Excel, and Power BI, with practical experience in
+analyzing and visualizing data to drive business insights. Passionate about solving
+complex problems through data-driven solutions, continuously learning and eager
+to contribute to data-driven decision-making.
+EDUCATION
+PROJECTS
+Library Management System (SQL) Link
+Sant Dnyaneshwar Mahavidyalaya
+Designed and implemented relational database
+tables like Author, Members, Books, Borrowed
+Bachelor Of Computer Science (BCS)
+Books.
+Primary Key, Foreign Key and Default Key are
+PROGRAMMING used for to specify rules for the data in a table.
+LANGUAGES Some insight like most popular author based on
+the number of books borrowed and total
+Python
+number of books borrowed by each member
+SQL
+Finance Data Insights ROI & Fee (Excel) Link
+TECHINICAL SKILLS
+Used Drop down list for to let user select
+Data Visualization
+value form Predefined list.
+Data Cleaning
+Used functions like SUMIF, SUMIFS, MAX,
+Data Preprocessing
+VLOOKUP, IFERROR, AVERAGEIFS for
+deeper Insights.
+SOFT SKILLS
+Used Pivot Table and Pivot Charts for
+Critical Thinking Visualize Data Insights.
+Problem Solving Used Slicers to Filter Data quickly and
+Communication
+Interactively mainly used for Pivot Table and
+Pivot Charts
+CERTIFICATIONS Student Spending Analysis (Power BI) Link
+Master in Data Science With AI
+Performed Data Transformation.
+Python
+Used Tooltips, Drill Through, Bookmark,
+SQL
+Slicers, Hierarchy, Cards and other visuals for
+Excel
+deeper Insights.
+Power Bi
+Used DAX functions like calculate, Divide,
+countrows, allexcept, Average, Sum for
+deeper Insights.
+Insight like Top N and Bottom N Category.

@@ -1,0 +1,28 @@
+RESUME
+SUMIT BHATI
+7678410133 | ✉ sumitbhati9820@gmail.com | Faridabad, Haryana
+[LinkedIn] | https://www.linkedin.com/in/sumit-bhati-
+467324284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_mediu
+m=android_app
+Education
+Bachelor of Computer Applications (BCA)
+JB Knowledge Park, Faridabad — 2023 – 2026
+Senior Secondary (Class 12th), CBSE
+Completed in 2023
+Technical Skills
+• Frontend Development: HTML5, CSS3, JavaScript (ES6+)
+• Databases: MySQL
+• Tools & Platforms: Git/GitHub, VS Code, Postman
+• Soft Skills: Problem-solving, Team collaboration, Adaptability
+🛠 Projects
+1. Myntra-Style E-Commerce Website
+• Built a responsive shopping website with product listing, cart, and user authentication.
+• Implemented animations, hover effects, and keyframes for better UI.
+• Tech Stack: React.js, Node.js, MongoDB
+2. Tic-Tac-Toe Web Game
+• Developed an interactive grid-based game using HTML, CSS, and JavaScript.
+• Added hover effects, grid layout, and real-time game logic with JavaScript.Objective
+Motivated and detail-oriented BCA student aspiring to grow as a Full Stack Developer. Skilled in
+frontend & backend technologies, with hands-on project experience in web development.
+Seeking an internship or entry-level role to apply technical expertise, contribute to impactful
+projects, and enhance professional growth.

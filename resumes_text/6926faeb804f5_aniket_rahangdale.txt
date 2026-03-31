@@ -1,0 +1,30 @@
+Aniket Rahangdale
+Nagpur,India•7499793647•aniketrahangdale940@gmail.com
+LinkedIn
+Profile
+Aspiring Information Technology student with a solid foundation in web development, IoT systems,
+anddataanalysis. Enthusiasticaboutcontinuouslearningandcreatinguser-centricsolutionstosolve
+real-worldproblems. Eagertoapplymyskillsindynamicandchallengingenvironments.
+Education
+• G.HRaisoniCollegeofEngineering,Nagpur,India
+B.TechinInformationTechnology 2021-2025
+• MahavirMarwadiSchoolAndJr. College,Gondia,India
+HSC(12th)-StateBoard,Maharashtra 2021
+• GujaratiNationalHighSchool,Gondia,India
+SSC(10th)-StateBoard,Maharashtra 2019
+Projects
+• IOTBasedRainDetectionSystem
+DevelopedasystemtodetectrainfallusingIoTsensors,improvingweathermonitoringandalert-
+ingsystems.
+• HospitalManagementSystem
+Created a comprehensive hospital management system to streamline patient management and
+administrativetasks.
+Skills
+ProgrammingLanguages: Python,Java,SQL,HTML,JavaScript
+Tools/Platforms: VSCode,Git
+SoftSkills: Teamwork,Creativity,Adaptability,PositiveThinking
+Experience
+• PythonProgrammingwithDSA
+Developedstrongproblem-solvingskillsandgainedexperienceinefficientcodingpractices.
+RemoteInternship 25April2024-25May2024
+1/1

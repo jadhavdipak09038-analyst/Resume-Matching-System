@@ -1,0 +1,59 @@
+Gunjan Rajput
+Gunjanrajput573@gmail.com| +91
+9837022190 | Bijnor-246701 | Portfolio |
+GitHub | Linkedin |
+PROFILE SUMMARY
+A motivated and enthusiastic Web Developer with a strong understanding of HTML, CSS,
+JAVASCRIPT, REACT.JS, NODE.JS and responsive design principles. Proficient in building
+User-friendly websites and eager to apply skills in web development frameworks and
+Tools.
+EDUCATION
+M.J.P. Rohilkhand University Bareilly Bareilly, 243006,(U.P)
+Degree in Bachelor of Computer Application | BCA August 2019 –
+December 2022
+Vivek College of Education , Bijnor
+Percentage: 64%
+Abdul Kalam Technical University(A.K.T.U) Lacknow Lacknow,226031,(U.P)
+Degree in Master of Computer Application | MCA
+Bhagwant Institute of Technology , Muzaffarnagar july 2023 – present
+PROFESSIONAL EXPERIENCE
+Fu ll s t a c k Web Development Internship
+SEP 2023 – April 2024
+Cetpa Infotech Pvt Ltd Noida
+WordPress Development and SEO
+MAY 2024 – NOV 2024
+XacaTech Pvt Ltd Dehradun
+Web development Internship Code Alpha
+Skills
+Programming Languages: HTML5||CSS3||JavaScript|| NODE.JS|| PHP || WordPress|| Core Java ||
+Libraries/Frameworks: React.js||Tailwind CSS || Bootstrap
+Tools / Platforms: Eclipse IDE ||VS Code
+Databases: SQL, MySQL, MongoDB
+Projects / Open-Source
+Ecommerce Website |MERN|
+Developed a robust admin panel with secure user authentication and authorization using JWT.
+ Integrated Cloudinary for efficient image storge and management.
+ Implemented advanced filtering, mapping, and CRUD operations for efficient data
+management. Implemented Stripe webhooks for seamless payment processing.
+Redux- React CURD Application |
+Developed a full- fledged CURD application with a focus on state management using Redux and
+Redux Toolkit.
+ Implemented AsyncThunk for efficient and seamless APL Calls, data fetching
+asynchronous operations.
+ Ensured proper state management and data flow throughout the application.
+PORTFOLIO WEBSITE
+In this project I have Built Front-end Portflio website for Myself.
+I have used HTML & CSS to make Front-end also to understand elements, properties and tags
+working.
+Book Store Management System – PHP, MYSQL
+Developed a dynamic web- based application for managing book inventory , sales and customer data.
+ Implemented CURD operations for book entries, user authentication and role based access
+control for admin and staff.
+ Designed a responsive user interface for seamless browsing, ordering, and billing.
+ Integrated search and filter features for efficient book lookup.
+Certifications
+ Full Stack Web Developer - Cetpa Infotech Pvt Ltd Noida
+ WordPress and SEO - XacaTech Pvt Ltd Dehradun
+ Core Java - Cetpa Infotech Pvt Ltd Noida
+ Full Stack Java Developer - Cetpa Infotech Pvt Ltd Noida
+ Live API Integration in Front-End using JavaScript - Cetpa Infotech Pvt Ltd Noida

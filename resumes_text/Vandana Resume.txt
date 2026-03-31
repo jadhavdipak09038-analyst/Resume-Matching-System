@@ -1,0 +1,44 @@
+Vandana
+Email|9999727958|Linkedin|Delhi
+SUMMARY
+A motivated BCA student with a strong foundation in computer science and hands-on experience in C, C++, Java,
+HTML, CSS, and JavaScript. Knowledgeable in Data Structures and Algorithms, with solid skills in coding, debugging,
+and building efficient software. Known for problem-solving, attention to detail, and the ability to work well
+independently or in a team.
+EDUCATION
+Secondary School | 2020
+• Completed 10th in 2020 From CBSE
+Senior School
+• Completed 12th in 2022 From CBSE with Commerce Stream
+Bachelor of Computer Applications (BCA)
+•
+Maharishi Dayanand University/Bimla Devi Educational Society's Group of Institutions.| 2023-2026
+SKILLS
+Personal skills Technical skills
+ Problem-Solving  C, C++, Data Structures and Algorithms
+ Self-Motivation  HTML, CSS, JavaScript
+ Java, NetBeans
+ Quick Learner
+ Python
+ Communication skills
+PROJECTS
+Bank Account Management System
+Language: C, C++ | Concepts: OOP, File Handling
+• Built a console-based banking system supporting account creation, deposits/withdrawals, and transaction
+history.
+• Applied object-oriented principles and file handling for data storage and persistence.
+Cafe Menu Webpage
+Technologies: HTML, CSS
+Designed and developed a static webpage simulating a cafe menu using clean HTML structure and CSS styling.
+Focused on layout design, visual aesthetics, and responsive formatting.
+CERTIFICATION
+ Certified C/C++ Programmer – Developer Technologies®
+Completed a 12-month certification program covering foundational to advanced concepts in C and C++
+programming, including efficient coding practices, debugging, algorithm implementation, object-oriented
+programming (OOP), and advanced data structures.
+ Responsive Web Design Developer Certification – freeCodeCamp.org (July 2025)
+Successfully completed 300+ hours of hands-on training in responsive web design. Gained expertise in semantic
+HTML, modern CSS, accessibility standards, flexbox, grid systems, and mobile-first design principles.
+HOBBIES/ INTERESTS
+ Coding and Programming  Learning New Technologies and Software Tools
+ Passionate About Software Development  Problem-Solving Puzzles

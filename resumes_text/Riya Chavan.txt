@@ -1,0 +1,49 @@
+RIYA CHAVAN
++917249378776|riyachavan703@gmail.com|Mumbai, Maharashtra|(22) Riya Chavan|LinkedIn|riyachavan17 (Riya Chavan)
+Objective
+Analytical and detail-oriented Data Analyst with a Bachelor’s degree in Computer Engineering and a deep command of
+SQL, Python, and advanced Excel. Demonstrated expertise in data visualization using Power BI and Tableau, along with
+practical experience in statistical analysis, machine learning, and data warehousing (DWD). Proficient in libraries such as
+Pandas, NumPy, and Matplotlib, with a strong ability to convert raw data into meaningful business insights that support
+strategic decision-making and drive measurable outcomes.
+Skills
+Programming Languages: Python, SQL Query Writing , Object-Oriented Programming, DAX
+Data Visualization: Power BI, Tableau, Advance Excel, Performance Tuning & Query Optimization
+Databases: MySQL Developer
+Tools: Jupyter Notebook, VS Code, MySQL Workbench
+Libraries: Pandas, NumPy, Seaborn, Scipy, Statsmodels
+Statistics & Analytics: Hypothesis Testing
+Machine Learning: Regression, Classification
+Soft Skills: Critical Thinking, Problem-Solving, Data Storytelling, Communication, Time Management,
+Adaptability, Decision-Making.
+Projects
+Road Accident Analysis | Power BI, Power Query riyachavan17/Road-Accident-report-
+Analyzed road accident data on weather, road conditions, and casualties, creating interactive dashboards to
+highlight trends and hotspots. Key findings include a 29.8% drop in serious casualties, 54.8% in fatalities, and 24% fewer
+accidents, aiding road safety improvements.
+Bank Market Campaign Succes Prediction | Machine Learning riyachavan17/Machine-Learning-
+Built a machine learning model to predict bank marketing success, optimizing Random Forest for accuracy. Applied
+data preprocessing, feature engineering, and model tuning with GridSearchCV. Evaluated performance using accuracy,
+confusion matrices, and classification reports.
+Sales Dashboard | Advance Excel riyachavan17/Sales-Dashboard
+Developed an interactive Power BI dashboard to analyze multi-year (2015–2017) sales performance, featuring
+advanced visualizations like bar charts, gauges, and trend lines. Highlighted key metrics, including year-over-year
+growth (42%, 94%, 165%) and sales distribution across categories. Enabled stakeholders to drill down into sales data
+for informed decision-making and strategic planning.
+Air Pollution Dashboard | Tableau riyachavan17/Air-Pollution-Tableau-Project-
+Developed an interactive Tableau dashboard to analyze global air pollution trends, integrating bar charts, pie charts,
+scatter plots, and heat maps for AQI insights. Implemented filters for AQI categories and pollutants, enabling dynamic
+exploration. Designed a world map visualization to highlight pollution levels and used statistical analysis to assess the
+impact of pollutants like NO₂.
+Education
+VPS College of Engineering Lonavala, India
+Bachelor’s of Engineering- Computer Engineering Aug 2022 – Jun 2025
+DY. Patil College of Engineering Ambi, India
+Diploma in Computer Engineering Aug 2020 – Jul 2022
+Course
+Master in Data Science & Analytics with Artificial Intelligence Pune , India
+IT Vedant Education Pvt. Ltd June 2024 - March 2025
+Coursework: Machine Learning, Python, SQL, Advance Excel, Power BI, Tableau
+Certificates and Achievements
+Data Scientist , SQL For Data Science, Advance Excel , Microsoft Power BI , Python For Data Science , DWD , Tableau ,
+Analysis With Python, Machine Learning .

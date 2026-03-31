@@ -1,0 +1,51 @@
+GAGANA S
+gaganayadav22@gmail.com
+7019847162
+Gokulam 3 stage, Mysore
+CAREER OBJECTIVE
+To have a career in a professional organization and put all my efforts into the growth of the
+.
+organization and have a great working environment
+ACADEMIC QUALIFICATION
+Master of Computer Applications
+College Name: The National Institute of Engineering.
+Expected Graduation-2026
+Current CGPA: 7.28
+Degree: B.Sc.
+College Name: Maharani’s Science College for women.
+YOP:2024
+CGPA: 8.26
+PUC College Name: Govt Maharani’s Science College for women.
+YOP:2021
+Percentage:78.66%
+School Name: Lalitha High School.
+YOP:2019
+Percentage:91.68%
+TECHNICAL SKILLS
+• Programming: C, Java, Python, R Programming.
+• Core Subjects: Data Structures, DMBS, Computer Networks.
+• Web Technologies :Html, CSS, Java Script.
+• Machine learning & Data Analytics using Python.
+• Frontend Frameworks: AnjularJS .
+• Backend & Runtime Environment: Node.js.
+• Tools: VS code, Turbo C++, MS Word, Excel, PowerPoint, Canva (for design).
+• Concepts: OOPs, SQL queries , Rest APIs. Networking Protocols.
+CERTIFICATIONS
+• Foundations of User Experience (UX) Design – Coursera
+• SQL Basics – HackerRank
+PROJECTS
+1. College Events Registration System
+Technologies used: HTML, CSS, Java Script, My SQL
+Designed and Developed a Web-based system to manage event registration in a college environment.
+ACHIEVEMENTS AND HOBBIES
+• ACHIVEMENT : State-level Athlete and State-level KHO-KHO Player.• HOBBIES : Cooking, Crafting , Watching Movies.
+PERSONAL DETAILS
+• Name : Gagana S.
+• Father’s Name : Shashidhar C.
+• Date of Birth : 22-05-2003
+• Gender : Female
+• Nationality : Indian
+• Language Known : Kannada, English
+• Permanent Address : Gokulam 3 stage, Mysore.
+DECLARATION
+I hereby declare that the above information furnished is true to the best of my knowledge and belief.

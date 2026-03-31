@@ -1,0 +1,45 @@
+SAMEER AHMED
+Phone: +91 8595235108
+Email: sameerahmedisha@gmail.com
+LinkedIn: https://www.linkedin.com/in/sameer-ahmed-94052b277
+Location: Malviya Nagar, Delhi
+OBJECTIVE
+Self-driven BCA undergraduate with hands-on experience in Python, SQL, and Tableau. Passionate about data analysis. Looking to contribute analytical and technical
+skills in dynamic, tech-forward organizations driving digital transformation.
+SKILLS
+Technical Competencies:
+Languages - Python
+Database - SQL, MySQL
+BI Tools - Power BI, Tableau
+Libraries :
+Pandas, NumPy, Matplotlib, Seaborn
+Behavioral Skills:
+Leadership, Team player, Adaptability, Problem-solving
+EDUCATION
+Bachelor Computer and Application September 2022 – July 2025
+JB Knowledge Park – Faridabad (Aff. To MDU, Rohtak)
+CGPA: 6.57/10.0
+April 2021 - July 2022
+Higher Secondary Education (Class XII)
+Govt. Boys Sen. Sec. School - Malviya Nagar (C.B.S.E)
+Percentage: 59%
+Secondary Education (Class X)
+April 2019 - July 2020
+Govt. Boys Sen. Sec. School - Malviya Nagar (C.B.S.E)
+Percentage: 52%
+WORK EXPERIENCE
+Internship: Unified Mentor Pvt. Ltd. (Remote)
+Gurugram, Haryana | July 2024 – October 2024(3 Months)
+● collaborated on five Data analysis projects in different Domains.
+● Created Dashboard by using Tableau and manipulated the data with python.
+PROJECTS
+● Amazon Sales Analysis Dashboard : Designed and implemented a dashboard using Tableau to analyze sales and gain beautiful insights.
+● Foreign Direct Investment Analysis : Created Dashboard to Discover the Insights by using filters at any Instances and I have used python
+programming language to clean the data.
+● Visualization of Bird Strikes between 2000 – 2011: Gained the Insights by using tableau and designed the dashboard and reports that how
+many flights are damaged and even how many got crashed by birds.
+CERTIFICATIONS
+Python With Data Analytics Data Analyst Internship Certificate
+From : TGC animations and Multimedia (South Ext. South Delhi, India) From : Unified Mentor Pvt. Ltd. (Gurugram- Haryana, India)
+Duration : 3 Feb, 2024 To 9 Nov, 2024 (9 Months) Duration : 20 July, 2024 To 20 Oct, 2024 (3 Months- Remote)
+Tools & Languages : Python, SQL, Power BI,Tableau, Adv. Excel, Google sheets.

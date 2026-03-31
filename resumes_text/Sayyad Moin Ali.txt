@@ -1,0 +1,42 @@
+SAYYAD MOIN ALI
++919685129700 ⋄ Dhamtari, Chhattisgarh, India
+alisayyadmoin@gmail.com ⋄ linkedin.com/in/sayyad-moin-ali ⋄ github.com/sayyad-moin-ali
+OBJECTIVE
+To Obtain a Good Opportunity in a hard working Team of Growing Organization where Team lead can utilize my
+maximum potential to create innovative software products.
+EDUCATION
+Pursuing Masters in computer application 2024-2026
+Chhattisgarh Swami Vivekanand Technical University (CSVTU) , (C.G.)
+Bachelor of Computer Application 2020-2023
+Pt. Ravishankar Shukla University, Raipur, (C.G.)
+Class 12th 2019-2020
+Class 10th 2017-2018
+Model English Higher secondary School, Dhamtari (C.G.)
+SKILLS
+Programming Languages : Javascript, Typescript,C++,
+Development Skills : HTML, CSS, Javascript,Typescript, Tailwindcss, Reactjs, Nextjs Nodejs,Mongodb
+Introduced With : OOPS, Computer Networking, DSA,
+Working Environment : Visual Studio, Git, GitHub
+Soft Skills : Problem Solving, Quick Learner, Collaborator
+EXPERIENCE
+Front-end developer Intern/freelance Feb 2024 - May 2024
+• Completed All the Tasks Assigned to me During Internship.
+• Created the frontend of desktop and web applications for a team project
+• Improved my UI/UX & Code Logic in Applications
+SELECTED PROJECTS
+Books management system
+• Developed a Books management system in mern stack .
+• used CRUD operation and responsive frontend.
+• created api’s on nodejs and also fetches on react.
+Entry Truck trip
+• A fullstack website in nextjs where truck owners can entry their trips.
+•Truck owners can do signup and login and entry their truck trips .
+• used features like jwt tokens,crud operation, cookies and built in nextjs
+EXTRA-CURRICULAR ACTIVITIES
+•Contributed on some projects like measurement software,Made its front-end.
+•Contributed also on Emminence intellitech which is also merged on website.
+COURSES & CERTIFICATIONS
+• Emminence Intellitech - Fullstack Web Developement Course Beginner to Advanced.
+• Hack2skill - certificate for completing chatbot creation tech camp.
+INTERESTS
+Web Development,Googling, Gaming, Songs & Music.

@@ -1,0 +1,47 @@
+SANSKRUTI CHAVAN
+Pune , Maharashtra India | schavan200410@gmail.com | +91 9021460136 |
+https://www.linkedin.com/in/sanskruti104-chavan/
+https://github.com/Sanskruti-Chavan
+SUMMARY
+Certified Data Analyst with expertise in Power BI, SQL, and Advanced Excel. Proven ability to clean,
+visualize, and automate data workflows to deliver actionable insights that improve decision-making.
+Currently pursuing an M.Sc. in Computer Science with Data Science & AI training, combining technical
+rigor with business acumen to drive data-driven outcomes for stakeholders.
+PROJECTS
+Vehicle Rental System
+Tools: MySQL
+Optimized SQL queries for a vehicle rental system, reducing query execution time by 25% through
+indexing and normalization.
+The Dashboard Garage
+Tools: Power BI
+Built a dynamic Power BI dashboard to visualize rentals by location, payments, and customers,
+reducing manual reporting time by 40% and enabling real-time decision-making for a 15% increase in
+customer retention.
+EDUCATION
+Master of Science in Computer Science June 2025 - April 2027
+Savitribai Phule Pune University
+Bachelor of Science in Computer Science June 2022 - April 2025
+Savitribai Phule Pune University
+CGPA: 9.22 / 10 — First Class with Distinction
+CERTIFICATION - DATA SCIENCE & AI
+Advanced Excel (Data Cleaning, PivotTables, Automation)
+SQL (Relational Database Design, Joins, Optimization)
+Power BI (DAX Measures, Dashboard Design)
+Python (Data Structures, Functions, OOP)
+SKILLS
+Technical Skills
+Advanced Excel (PivotTables, Power Query), SQL (Basic & Deep Dive), Power
+BI (DAX, Dashboard Design), Tableau, Python.
+Soft Skills
+Collaborated with cross-functional teams to deliver insights (Teamwork),
+managed multiple projects under tight deadlines (Time Management), and led
+data visualization workshops (Leadership).
+BI & Reporting
+Dashboard Creation, Data Visualization, Data Cleaning
+AWARDS & ACHIEVEMENTS
+Outstanding Attendance Award (2024 & 2025)
+Recognized for maintaining 100% attendance and discipline for two consecutive years, demonstrating
+commitment, consistency, and reliability.
+Top 3 Academic Excellence Award – College Level (2025)
+Ranked among the Top 3 students of the college for exceptional academic performance, leadership,
+and continuous learning.

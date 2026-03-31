@@ -1,0 +1,49 @@
+Amarnath
+6299078195
+Pursuing Masters in Computer Application from amarnathkumar9305@gmail.com
+NIT JAMSHEDPUR
+EXPERIENCE SKILLS
+Frontend Intern – Cretech
+Programming Languages: C, C++,
+Java,JavaScript
+● Worked on building responsive web pages using HTML, CSS, and
+JavaScript. Web Technologies: HTML, CSS, React.js
+Database Management: MySQL
+Trainee – Softpro India (21-Day Program) Data Structures & Algorithms: Strong
+knowledge of arrays, linked lists, trees, graphs,
+stacks, queues, and sorting techniques
+● Completed hands-on training on Django Framework for backend
+web development. Operating Systems Concepts: Memory
+management, paging, segmentation,
+synchronization problems
+EDUCATION Computer Networks: TCP/IP, OSI model,
+switching, routing, protocols
+National Institute of Technology (NIT), Jamshedpur — Master of
+Software Development Tools: Git, GitHub, VS
+Computer Applications (MCA)
+Code, Eclipse
+AUG 2024 – PRESENT
+Pursuing MCA with focus on Data Structures, Algorithms, Operating Problem Solving: Competitive coding and
+debugging skills
+Systems, and Web Development.
+Soft Skills: Team collaboration, leadership,
+AN College, Patna — Bachelor of Computer Applications (BCA) communication, adaptability
+AUG 2021 – JUN 2024
+Completed undergraduate studies in Computer Applications with strong
+foundation in programming, databases, and software development. CAMPUS INVOLVEMENT
+Delhi Public School, Bokaro — Class XII (CBSE) Joint Core Member – OJASS (Technical
+APR 2017 – MAR 2019 Society), NIT Jamshedpur
+Contributed to organizing technical events,
+Specialization in Science (Physics, Chemistry, Mathematics, Computer
+coordinating with teams, and ensuring smooth
+Science). execution during the annual
+techno-management fest.
+Hostel Vice-Captain – Inter-Hostel Sports
+Tournament
+Represented hostel students, managed team
+coordination, and motivated peers for active
+PROJECTS
+participation in various sports events.
+Project Name Vice-Captain – Pg Cricket Team
+Assisted in team strategy, leadership
+https://food-app-theta-taupe.vercel.app/

@@ -1,0 +1,34 @@
+RAUNAK PRABHAKAR
+Lakhisarai, Bihar | b23cs041@nitm.ac.in | 8210167230
+Career Objective
+I am seeking a Front-End Developer position where I can leverage my skills in modern web technologies,
+responsive design, and user-centric development to build intuitive and high-performance web applications. My
+goal is to collaborate with cross-functional teams to translate design concepts into clean, scalable code,
+enhance user experience, and contribute to the development of visually engaging and accessible digital
+products.
+Education
+National Institute of Technology, Meghalaya
+• B. Tech in Computer Science
+• 2023-2027 | CGPA: 9.41/10
+• Relevant Coursework: Data Structures, Algorithms, Database Management Systems, Web
+Development, Operating System, OOPS, Computer Networks
+Technical Skills
+Category Skills
+Programming Languages HTML ,C, C++ , JavaScript,Python
+CSS, Tailwind, React, RESTAPI, AWS, ReactJS, NextJS, NodeJS, SQL,
+Web Technologies
+MongoDB, Tableau, PowerBI
+Development Full Stack Development (Beginner to Intermediate)
+Tools & Platforms GitHub, VS Code, Linux
+Soft Skills Leadership, Collaboration, Problem Solving, Communication
+Achievements & Certifications
+• Coordinator, Robotics Club - Leadership & Web Management (2024)
+Project Experience
+Stocks Simulation and Management Website 18
+• Role: Website Developer
+• Technologies: HTML, CSS, JavaScript, ,SQLite3, NodeJS,
+• Designed and developed website for learning the stocks management in simulation using virtual cash and game
+room to compete with others and for market news and company related market news
+College Robotics Club Website 18
+• Technologies: HTML, CSS, JavaScript
+• Designed and developed the official website for the college robotics club to showcase projects and events.

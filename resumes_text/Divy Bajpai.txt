@@ -1,0 +1,43 @@
+Divy Bajpai
+• +918851807024 • divybajpai@outlook.com LinkedIn ,
+GitHub
+SUMMARY
+Highly motivated and detail-oriented B.Tech CSE student with a passion for data analytics.
+Proficient in data visualization, statistical analysis, and programming. Seeking an entry-level
+position as a Data Analyst to apply my skills in deriving actionable insights from data.
+CERTIFICATES
+Data Analytics course using Power BI
+From Cepta Infotech
+Advance Python
+From Cognitive Class
+EDUCATION
+Bachelor of Technology in Computer Science Engineering 2022- 2026
+JB Knowledge Park
+INTERMEDIATE
+2022
+N.L.K. Vidya Mandir
+ADDITIONAL INFORMATION
+Technical Skills: Python, SQL, Power BI, Excel, Decision making
+Languages: English, Hindi
+President: Code Catalyst ( College Developer Community )
+PROJECTS
+E-commerce Dataset - Power BI
+- Dashboard creation by using Power BI
+- Virtualization and Statical functional use
+- Analyzing data based on orders, regions, and ship mode
+- Report making
+Titanic Dataset - Python & Excel
+- Data cleaning using Python
+- Analyzing the average age, number of males and females
+- Finding the number of survivals
+- Dashboard creation with graphs and detailed information
+- Report making
+AIML/LLM Project
+- Write a script for concise bot response using the llama3-70b-8192 model.
+- Understanding the concepts of models and testing them
+- Documenting test cases
+INTERSHIP
+OFFBEAT TRIPS
+- Web developer using - HTML, CSS, Javascript,
+* Tech Mahindra
+- Data/FRM Analysts

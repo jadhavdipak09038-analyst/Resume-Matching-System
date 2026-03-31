@@ -1,0 +1,42 @@
+ULLAS J
+📧 ullasjayakrishna86@gmail.com | 📞 +91 6362242191 | 📍 Mysuru, Karnataka
+OBJECTIVE
+Aspiring software developer eager to apply technical skills in real-world projects, contribute to innovative solutions,
+and grow in a fast-paced, technology-driven environment.
+EDUCATION
+Bachelor of Engineering in Computer Science(AIML) 2022- 2026
+Vidyavardhaka College of Engineering,Mysore,Karnataka
+CGPA: 8.04
+CLASS XII 2020-2022
+Sadvidya Semi Residential PU College,Mysore,Karnataka
+PERCENTAGE: 84.5%
+SKILLS
+Programming Languages : Java, Python, SQL
+Technical Foundations: OOPs, DSA, OS, DBMS, CN
+Developer Tools : Github, Postman, VS code, Jupyter Notebook
+Frontend : HTML, CSS, JavaScript, React, Tailwind
+Backend : Node.js, Express.js, MongoDB, PostgreSQL, Cloudinary
+PROJECTS
+Chat App
+• Tech Stack: MERN, Socket.io, TailwindCSS, DaisyUI, Zustand, JWT
+• Developed a real-time chat app with live messaging, photo sharing, and online user status. Implemented secure
+authentication and authorization using JWT.
+• Managed global state with Zustand, implemented robust client-server error handling, and built a responsive UI using
+TailwindCSS and DaisyUI.
+Mobile Bookstore App
+• Tech Stack: React Native, Expo Router, Node.js, Express, MongoDB, Cloudinary, JWT, Render/Railway.
+• Built a cross-platform mobile bookstore app allowing users to upload novels, rate, and comment.
+• Developed a RESTful API with Node.js, Express, and MongoDB, implementing stateless JWT authentication and
+efficient infinite scrolling using pagination cursors.
+• Handled image uploads via base64 encoding integrated with Cloudinary.
+• Deployed the backend for free using Render/Railway.
+Product Store App
+• Tech Stack: PERN (PostgreSQL, Express, React, Node.js), TailwindCSS, DaisyUI, Zustand.
+• Built a full-stack product store application with modern UI and smooth UX using TailwindCSS and DaisyUI.
+• Implemented rate limiting and bot detection for security, managed global state with Zustand, and ensured robust
+error handling on both client and server sides.
+CERTIFICATIONS
+ JavaScript for Web Development, Coursera
+ Programming in C and Java, Infosys Springboard
+ Basics of Python, Infosys Springboard
+ HTML, JavaScript, AngularJS, and React Specialization, Coursera

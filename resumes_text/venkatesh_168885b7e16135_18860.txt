@@ -1,0 +1,61 @@
+Venkatesh Indrajeet Dikonda
+venkateshidikonda@gmail.com 8698735050 India 16/04/1995
+linkedin.com/in/venkatesh-dikonda-76b87a1b1 github.com/Venkatesh681
+PROFILE
+To obtain a challenging position as a Data Analyst where I can apply my analytical skills, problem-solving abilities,
+and knowledge of tools like Excel, MySQL, Power BI, Tableau, and Python to derive meaningful insights and
+support data-driven decision-making. Eager to contribute to a dynamic team while continuing to grow in the field
+of data analytics.
+SKILLS
+Data Analysis & Visualization: Proficient in Excel (advanced formulas, pivot tables, dashboards), Power BI
+(DAX, data modeling, interactive reports), and Tableau (data storytelling, visual analytics) for extracting and pre
+senting actionable insights
+Database Management: Skilled in MySQL and SQL for writing complex queries, joins, subqueries, and
+performing data cleaning, extraction, and reporting from relational databases.
+Programming & Data Science: Begineer in Python libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-
+learn for data manipulation, visualization, and implementing basic machine learning algorithms.
+Tools & Technologies: Hands-on with Jupyter Notebook for analysis, Git & GitHub for version control, Google
+Sheets, and Microsoft Office for productivity and collaboration.
+Soft Skills: Strong analytical thinking, problem-solving ability, attention to detail, effective communication, and
+collaborative team spirit.
+COURSES
+08/2024 – 04/2025 Data Science & Data Analytics with AI Pune, India
+IT Vedant
+PROJECTS
+US Car Sales Dashboard (Microsoft Power BI)
+Designed a Power BI dashboard to analyze Automobile industry trends, average vehicle range, and adoption
+•
+growth.
+Helped visualize insights on market expansion and consumer interest in vehicles.
+•
+Company Employee Dashboard (Microsoft Excel)
+Created a dynamic Excel dashboard to explore employee attrition and department-wise turnover.
+•
+Identified key factors influencing resignations, assisting in strategy formulation for HR
+•
+CERTIFICATES
+SQL for Data Science
+Microsoft Power BI
+Tableau
+Microsoft Excel
+Python
+1 / 2EDUCATION
+2013 – 2017 BHMCT Pune, India
+Dr. D.Y Patil Institute
+2011 – 2013 M.C.V.C Ahmednagar, India
+New Arts College of Science Commerce & Arts
+2010 – 2011 SSC Ahmednagar, India
+Ashokbhau Firodia English Medium School
+STRENGTHS
+• Ability to learn and apply new information, technology, and skills.
+• Possess good interpersonal, planning and decision-making abilities.
+• Creative and highly self-motivated.
+LANGUAGES
+English Hindi
+Marathi Telugu
+DECLARATION
+I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief and I
+undertake to inform you of any changes therein, immediately.
+Venkatesh Dikonda
+Pune
+2 / 2

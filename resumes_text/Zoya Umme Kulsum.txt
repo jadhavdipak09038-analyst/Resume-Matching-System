@@ -1,0 +1,45 @@
+ZOYA UMME KULSUM
+Address: Mysore, India
+Phone no: +91 8050689804
+Email: kulsumzoya098@gmail.com
+Linkedin: linkedin.com/in/zoya-umme-kulsum-9a0722292
+SUMMARY
+MCA student with a BCA background and expertise in Java, Python, SQL, and full-stack web
+development. Skilled in software design, database management, and agile project execution, with
+strong problem-solving abilities and a quick learning mindset. Passionate about applying technical
+skills to create efficient, innovative IT solutions.
+WORK EXPERIENCE
+Game Development Intern (15-02-2024 to 15-04-2024) Feb 2024 - April 2024
+ADITHYA TECH PARK Pvt Ltd (ATPPL), Mysore
+Key Objectives
+Developed various game prototypes using Unity and C#, enhancing Gameplay mechanics
+and user experience.
+Collaborated with a team of designers and developers to create engaging game levels and
+features.
+Tested and debugged games, ensuring smooth performance.
+Optimized game performance, reducing load times.
+Provided technical support and assistance to peers and community members,
+demonstrating my ability to communicate and troubleshoot effectively.
+EDUCATION
+Masters in Computer Applications Dec 2024 - Currently Pursuing
+National Institute of Engineering (NIE), Mysore, India
+Bachelors of Computer Applications
+Cresta First Grade College – Mysore, India 2021 - 2024
+Scored overall 8.2 GPA
+CERTIFICATIONS
+Inter National level student workshop 2024 on Data Science using Python in association with
+Brainovision Solutions Pvt Ltd.
+Certificate of completion of course in Python with Kaggle from the Head of Kaggle Learn Mr.
+Alexis Cook and Instructor Mr. Colin Morris
+Certification in Google UX Design
+PROJECTS
+Tic Tac Toe Game
+Developed a Tic Tac Toe game implementing various levels and character abilities.
+Utilized C# scripting to create interactive game elements.
+ADDITIONAL INFORMATION
+1 st place in Mastermind competition held in Intra college management and technical fest on
+26th November 2022
+2 nd place in design workshop conducted on 2nd March 2022 at Bangalore School of
+Design
+1 st price in organizing and managing Desi Videsi 2.0 - 2022 Ethnic Day at Cresta College
+Volunteered at ZENITH, SPACEOUT and DIGUP where I utilized my technical skills.

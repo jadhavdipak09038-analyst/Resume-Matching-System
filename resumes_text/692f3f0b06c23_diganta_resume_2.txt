@@ -1,0 +1,40 @@
+Diganta Subhash Gavhane
+Electronics and Telecommunication Engineer
+digantaa2810@gmail.com • +91-8208028185
+GitHub • LinkedIn
+Professional Summary
+Detail-oriented engineering enthusiast with strong skills in Java, SQL databases, web development, and application logic.
+Experiencedinbuildingacademicandpracticalprojects,withafocusonproblem-solving,analyticalthinking,andcontinuous
+learning. Seeking opportunities to contribute to collaborative, real-world software initiatives.
+Skills
+• Languages: Java, SQL, HTML, CSS, JavaScript
+• Tools: Git, VS Code, IntelliJ.
+• Core: OOP, DSA Basics, REST API concepts
+• Soft Skills: Communication, Problem-Solving, Analytical Thinking, Teamwork
+Experience
+QSpiders — Technical Trainee Jul 2025 – Aug 2025
+• Learned SQL, Core Java, OOP concepts, and problem solving.
+• Performed hands-on practical tasks and built small assignments.
+Melux Control Gears Pvt Ltd — Hardware Testing Intern Jun 2024
+• Worked on SMPS testing, drum core testing, coil cutting, dipping and component forming.
+• Supported hardware team in quality testing procedures.
+Projects
+Healthcare Symptom Analysis Web App
+• Users enter symptoms → app predicts possible illnesses.
+• Integrated doctor appointment module + medicine delivery system.
+House Price Prediction
+• Built a machine learning model to predict house prices using features like area, location, number of rooms, and amenities.
+• Implemented data preprocessing, feature scaling, and model training using Linear Regression.
+• Developed a simple web interface (Flask) for users to input property details and view predicted prices in real time.
+Awards & Certifications
+• Java Certification – IIT Bombay Spoken Tutorial
+• Employability Skills Training – Mahindra Pride Classroom
+• Winner of Technical Quiz – 2023, SKNSCOEK: Secured first position in the college-level technical quiz event.
+Education
+B.Tech Electronics and Telecommunication 2022–2026
+CGPA: 9.12
+HSC – 2022
+Percentage: 65.50%
+SSC – 2020
+Percentage: 93.20%
+1

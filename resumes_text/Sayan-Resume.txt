@@ -1,0 +1,51 @@
+Sayan Karmakar
+Phone: +91-7848948443 Email: sayancodder731@gmail.com
+GitHub: github.com/Sayan-dev731 LinkedIn: linkedin.com/in/sayan-karmakar-01239a242
+Portfolio: https://potfolio-ftgafnc8hud8axbs.centralus-01.azurewebsites.net/
+Education
+B.TechinComputerScienceandEngineering—RungtaCollegeofEngineeringandTechnology2022–2026
+Experience
+Azure Student Intern — Microsoft May 2025–Present
+• Built and managed backend services using cloud-native architecture with Azure App Services and AKS.
+• Containerized applications using Docker and orchestrated deployments with Kubernetes.
+• Designed CI/CD pipelines using GitHub Actions and Azure Pipelines (Jenkins-aligned workflows).
+• Implemented RBAC, Azure AD authentication, and secure secrets management using Key Vault.
+Founder — DevSync OpenSource Jan 2025–Jan 2026
+• Architected RESTful backend services using Node.js (Express) and MongoDB.
+• Designed scalable APIs, role-based access control, and optimized NoSQL queries.
+• Managed 15+ repositories, contributor workflows, and containerized dev environments.
+Gold Microsoft Student Ambassador Sep 2023–Present
+• Developed Python-based ML solutions and integrated backend APIs for prediction pipelines.
+• Pitched production-ready solutions to industry partners including TCS and NAAC.
+Projects
+Voyar E-commerce Backend API — Node.js, Express v5, MongoDB, Razorpay, Shiprocket
+• Built a production-grade RESTful backend for an eyewear e-commerce platform with secure JWT-based
+authentication and role-based admin access.
+• Implementedcompleteorderlifecyclemanagement,paymentprocessing(Razorpay),refunds,andwebhook-
+based asynchronous event handling.
+• IntegratedShiprocketforshipping,real-timetracking,courierassignment,andautomatedshipmentstatus
+updates.
+• Enforced OWASP security standards using rate limiting, input sanitization, account lockout, 2FA, and
+secure email workflows.
+DevSync OpenSource Platform — Node.js, Express, MongoDB, Docker
+• Architected scalable backend services to manage open-source projects, contributors, authentication, and
+role-based access control.
+• Designed REST APIs and optimized NoSQL schemas to support high contributor activity.
+• Containerized services using Docker for consistent development and deployment workflows.
+Azure Document Analyzer — Node.js, Azure AI Form Recognizer
+• Developed backend services for real-time document analysis using Azure AI APIs.
+• Designed API-driven workflows enabling fast, scalable document processing on cloud infrastructure.
+Zenith (Top 25 – BuzzOnEarth Hackathon) — Python, Machine Learning
+• Built ML-backed backend services for prediction and analytics using supervised learning models.
+• Deployed cloud-integrated pipelines for real-time inference and performance optimization.
+Skills
+Languages: Python, JavaScript, Java, C, C++
+Backend: Node.js, Express, REST APIs
+Databases: MySQL, MongoDB
+Caching & Search: Redis, ElasticSearch
+DevOps: Docker, Kubernetes, GitHub Actions, Jenkins (CI/CD concepts)
+Tools: Git, Postman, Linux
+Certifications
+Microsoft Azure AI Fundamentals • MongoDB Developer Toolkit • Postman API Expert • GitHub Actions •
+Google Cloud AI/ML
+1

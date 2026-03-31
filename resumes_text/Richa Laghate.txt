@@ -1,0 +1,75 @@
+RICHA LAGHATE
++91 6264734290 richap.laghate@gmail.com https://github.com/richa02
+http://linkedin.com/in/richa-laghate-5aa586244
+I am Richa Laghate, a recent graduate,I am motivated and detail-oriented engineer with hands-on experience in product
+reliability analysis, PCB development, and hardware testing through projects and industrial internships at LG Electronics and
+BHEL. My aim is to contribute to research and development in the field of electronics and instrumentation by combining
+theoretical knowledge with practical problem-solving. I thrive in collaborative, innovation-driven environments and am eager to
+contribute to impactful technological advancements in the electronics domain.
+Education
+Institute of Engineering & Technology DAVV Indore M.P. 2021 – 2025
+BTech. Electronics and Instrumentation Engineering CGPA 7.73
+Miss Hill’s Higher Secondary School Gwalior M.P. 2020 – 2021
+12th 81,2%
+The Woodstock School Gwalior M.P. 2018 – 2019
+10th 85.3%
+Professional Experience
+Graduate Engineer Trainee | LG Electronics, Noida U.P. August 2024 – Present
+• Analyzed field-returned RAC components (ODU/IDU PCBs, remotes, motors, control units) under the Customer Defect
+Rate (CDR) program to identify root causes based on error codes and service data.
+• Performed systematic hardware inspections of PCBs and electronic components to support failure analysis and quality
+improvement efforts.
+• Collaborated in the Development Team on the design and release of New PCBA Developement, including contributing
+to Engineering Change Notices (ECNs) for design and functionality improvements.
+• Prepared and analyzed weekly defect reports, identifying trends, non-achieved quality targets, and root causes to support
+continuous improvement initiatives.
+• Participated in New Product Introduction (NPI) activities, contributing to checklist creation, service-related ECOs, and
+ensuring compliance with manufacturing and service documentation standards.
+• Supported cross-functional teams in improving AC reliability through defect trend analysis and recommendations for
+design optimization
+• Maintained technical documentation and reports detailing test results, component issues, and corrective actions.
+Summer Trainee | Bharat Heavy Electrical Limited ,Jhansi U.P. May 2023-July 2023
+• Gained practical exposure to the design, manufacturing, and testing processes of power and distribution transformers.
+• Studied core components such as windings, core laminations, bushings, and cooling systems used in large-scale
+transformers.
+• Learned about transformer insulation techniques, fault detection methods, and maintenance protocols used in high-
+voltage equipment.
+• Observed assembly-line procedures including coil winding, core assembly, oil filling, and vacuum drying
+ProjectsAir Quality Index Modelling | 2nd Year Project April 2022
+• Developed a hardware-based system to monitor and model air quality using environmental sensors including MQ135,
+PMS5003, and DHT11.
+• Programmed microcontroller (Arduino/Raspberry Pi/ESP32) for real-time sensor data acquisition and AQI computation
+based on national standards.
+• Implemented onboard data visualization using OLED/LCD display to show live air quality metrics (PM2.5, CO₂,
+temperature, humidity
+Automated Integrated Smart Healthcare Assistance (AISHA) | Smart India Hackathon October 2023
+• Designed and developed an integrated smart healthcare assistance system using a combination of hardware and software
+technologies.
+• Implemented features for automated health monitoring and voice assistance, incorporating sensors and peripherals
+connected to the Raspberry Pi.
+• Utilized machine learning or AI algorithms running on the Raspberry Pi
+• Enabled real-time data analysis and visualization, providing users with actionable health insights via a user-friendly
+interface.
+Automatic Door Lock System | C, Assembly April 2023
+• Developed a door lock system using a microcontroller for secure access control.
+• Utilized a 8051 Microcontroller, 12V DC motor, Keypad for password, LCD for display.
+• The motor rotates in a clockwise direction to open the gate whenever the password is correct; otherwise, it remains
+locked.
+• Implemented features for secure locking and unlocking mechanisms.
+• Utilized microcontroller programming languages such as C and possibly Assembly.
+Technical Skills
+Skills: Circuit Analysis, Circuit Designing, Electronics, KiCAD, AutoCAD, Siemens NX,Data analysis, Root cause analysis,
+MS-Excel, PowerPoint, VLSI, CMOS, Digital Circuits, Analog Circuits, Logic Gates, Testing and Debugging.
+Languages: Verilog HDL,C, C++, Python, Assembly, Java, SQL,HTML,CSS,Javascript.
+.
+Certificates
+• Certification for CMOS Digital VLSI design | NPTEL IIT Roorkee March 2025
+• Certification for KiCAD PCB Designing | Udemy January 2025
+• Certificate for Web Development | Saylor Academy January 2024
+• Certification for Analog & Digital communications | NPTEL IIT Kharagpur October 2023
+• Certification for C/C++ programming |Coding Ninjas July 2023
+• Certificate for Object Oriented programming in JAVA | Coursera December 2023
+Volunteering
+• National Service Scheme, DAVV B Certificate March 2025
+• Academic Cadet Robin Hood Academy August 2024
+• Cadet Make A Difference August 2024

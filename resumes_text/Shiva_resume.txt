@@ -1,0 +1,45 @@
+Shiva Saini
+Shiva Saini Email: shivasaini1938@gmail.com
+(cid:135) Shivasaini2006 Mobile: +91-9315303561
+Education
+Maharshi Dayanand University, Rohtak 2023 – 2026
+•
+Bachelor of Computer Applications
+Atal Adarsh Vidyalay 2021 – 2023
+•
+Intermediate, CBSE Board
+Sarvodaya Bal Vidyalay 2019 – 2021
+•
+Matriculate, CBSE Board
+Experience
+Technical Team Member, Code Catalyst July 2025 – August 2025
+•
+Offer Letter
+– Collaborated with the technical team to design and develop web-based solutions for events and
+projects.
+– Supported event execution by providing technical assistance and troubleshooting issues.
+– Gained hands-on experience in web development, teamwork, and project management.
+Projects
+ATS Resume Scorer (cid:135)
+•
+– Built UI using React with Vite for fast development and optimized builds. backend APIs using
+Express running on Node.js.
+– Implemented secure authentication and data flow between client and server. item Used MongoDB
+with Mongoose 7.3.1 for database modeling and storage item Tech: React, Vite, Tailwind CSS,
+Node.js, Express, MongoDB, Mongoose, JWT
+Digital Pause (cid:135)
+•
+– Developed a browser extension for a hackthon ”Code Vedha ”.
+– Contributed in this by building the frontend .
+– Digital Pause is a browser extension that interrupts addictive social media usage with mindful
+exercises to help maintain focus and mental well-being .
+– Tech: React.js.
+Custom Clearance Website (cid:135)
+•
+– Developed a static frontend web page.
+– Designed and implemented using HTML, CSS, JavaScript.
+– Tech: HTML, CSS , JAVASCRIPT .
+Skills
+• Languages: C++, SQL, C,Python,PHP
+• Technical Skills: Data Structures, OOP’s,React.js, Tailwind , MongoDB , API’s , Troubleshoot
+• Tools: Visual Studio, GitHub

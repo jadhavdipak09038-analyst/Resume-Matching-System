@@ -1,0 +1,40 @@
+PRAVIN DHAMAL
++91-7066785668 | pravin.dhamal101@gmail.com
+pravindhamal
+Pune, Maharastra - 411046, India
+OBJECTIVE
+Enthusiastic Python Full Stack Developer skilled in building scalable web solutions using React.js, JavaScript (ES6+),
+HTML5, CSS3, and RESTful APIs. Eager to contribute to innovative projects, expand technical expertise, and collaborate with
+dynamic, growth-oriented teams
+EDUCATION
+-Savitribai Phule Pune University, Pune
+○ B.Sc.ComputerScience |Savitribai Phule Pune University, Pune|2020 |Grade: A
+-Shivaji University Kolhapur
+○ HigherSecondaryCertificate(12th) | ShivajiUniversity,Kolhapur|2018 |Satara,Maharashtra
+PROJECTS
+• Student Management System (Full-Stack Web App) | Jul 2021
+○ Built role-based authentication for admins, teachers, and students.
+○ Implemented student registration, attendance, grading, and reporting features.
+○ Designed a responsive UI using React.js and integrated RESTful APIs for smooth frontend-backend communication.
+○ Tech: React.js, Node.js, Express.js, MySQL, REST API, JavaScript
+• Task Management & Blog Platform | Dec 2019 – Mar 2020
+○ Developed CRUD operations for tasks and blog posts with deadlines and progress tracking.
+○ Implemented secure JWT-based authentication and password encryption using bcrypt.
+○ Tech: Node.js, Express.js, MongoDB, React.js
+• Currency Converter | 2025
+○ Built a responsive currency converter with animated visuals and live exchange rates.
+○ Added offline fallback using cached values for faster lookups.
+○ Tech: HTML, CSS, JavaScript
+SKILLS
+• Programming Languages: Python, JavaScript
+• Frontend: HTML5, CSS3, React.js, Bootstrap, Tailwind CSS
+• Databases: MySQL
+• Tools: Git, GitHub, VS Code, Visual Studio
+VOLUNTEER EXPERIENCE
+• Finalist – Technocrat’19 | AES, Pune | Mar 2019
+○ Reached the finalist stage in a competitive technical event, enhancing problem-solving and teamwork skills.
+• Coordinator – Traditional Day | AES, Pune | Sep 2019
+○ Organized and managed event activities for 50+ students, improving leadership, planning, and organizational skills.
+CERTIFICATIONS
+• Web Development Essentials - Itvedant
+• JavaScript Essentials - Itvedant

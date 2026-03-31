@@ -1,0 +1,43 @@
+Prem Kumar Gupta
+Sohra,Cherrapunji,Meghalaya
+Email: pg8231842@gmail.com — +91-7629800431
+Github§ — Linkedin(cid:239) — Portfoliol
+Education
+NationalInstituteofTechnology,Meghalaya
+B.TechinComputerScience&Engineering ExpectedMay2026
+DonBoscoCollege(H.S),Meghalaya
+Intermediate,Science Mar2022
+ShriGoudiyaVedantaVidyaPithSchool,Meghalaya
+10thEducation Mar2019
+Experience
+CybersecurityIntern
+MeghalayaPolice–COPS-TAC(cid:18) June–July2025
+• PerformedvulnerabilityassessmentsandhardenedLinuxservers.
+• Builtsecuritysolutions,includingabrowserextensionforaccesscontrolandendpointmonitoring.
+SoftwareDevelopmentEngineerIntern
+BluestockFintech(cid:18) May–June2025
+• Willcontributetoback-endsystems,APIintegration,andcloud-nativefintechsolutions.
+Projects
+HealthTracker§ Sep2025
+• BuiltaresponsiveHealthTrackerusingReact,Vite,ReduxToolkit,andTailwindCSSwithreal-time
+visualizations.
+• Implementedcleanarchitecturewithrouting,forms,andsmoothanimationsforhighperformance.
+Talent-Flow(cid:18) Oct2025
+• SoftwareDeveloperskilledinJavaScript/TypeScript,React,Node.js,andmodernwebarchitectures.
+• Builtreusablecomponentsandoptimizedperformanceforlargedatasets.
+Portfolio(cid:18) Sep2025
+• DevelopedamoderndeveloperportfoliousingNext.js,TypeScript,TailwindCSS,andThree.js,featuringa
+bento-stylelayout,3Dinteractiveelements,andsmoothFramerMotionanimations.
+• Deliveredascalable,SEO-optimized,fullyresponsivesitedeployedonVercel.
+Achievements & Extracurricular Activities
+• FlipkartGrid6.0(2024)—solvedreal-worldalgorithmicandsystemdesignproblems.
+• ActiveHeadofcodingclubsandpeerprogramminggroupsatNITMeghalaya.
+• TechnicalFestAchievements: 1st inRoboRumble&GoalAgainstTime;2nd inRoboDiction&DroneRacing.
+Technical Skills
+ProgrammingLanguages: C/C++,PHP,JavaScript,Bash,Python,HTML5,CSS
+Frameworks&Libraries: React.js,Express.js,Next.js,Bootstrap,jQuery
+Databases: MySQL,MongoDB
+Tools: Git,GitHub,Node.js
+Coursework
+DBMS,DataStructures&Algorithms,MachineLearning,OperatingSystems,Design&AnalysisofAlgorithms,
+ComputerNetworks

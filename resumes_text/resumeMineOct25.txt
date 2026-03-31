@@ -1,0 +1,24 @@
+Rahul Kumar
+Ranchi, Jharkhand, 834001
+kumarrahul30102003@gmail.com +91 7369018700
+
+
+Master of Computer Application			NIT Jamshedpur, Jamshedpur,                         2024-2027
+	(CGPA: 9.25)					Jharkhand
+
+Bachelor of Science				          DSPMU, Ranchi		                2020-2023
+	(CGPA: 8.79)					Jharkhand
+
+A common platform built using HTML, CSS and JavaScript, that caters the notes need of students.
+A system developed using C++ only to manage library efficiently.
+Programming languages: C, C++, Python, Java, Rust(basic).
+Web development: HTML, CSS, JavaScript, React(basic).
+Data Structures and algorithms
+Also learning: AI, ML, Data Analytics.
+Microsoft certified: Azure AI Fundamentals
+Oracle certified: OCI fundamental associate
+Good analytical and problem-solving skills
+Proficient in verbal communication skills.
+Hindi, English
+
+

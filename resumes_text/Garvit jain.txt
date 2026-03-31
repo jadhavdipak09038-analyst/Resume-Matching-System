@@ -1,0 +1,61 @@
+Garvit Jain
+Indore jgarvit09@gmail.com 8349307745 LinkedIn Portfolio Link
+Profile Summary
+Creative and detail-oriented UI/UX designer skilled in user research, wireframing, and prototyping.
+Proficient in Figma, and responsive design. Passionate about crafting user-centric digital
+experiences that solve real-world problems.
+Skills Summary
+Tools: 
+Figma, Adobe XD, Illustrator, Canva, Miro, Balsamiq, Framer
+
+Design Skills: 
+Wireframing, Prototyping, Interaction Design, Responsive Design, Empathy Mapping,
+Information Architecture, Usability Testing, Accessibility, User Journey Mapping
+
+Technical Skills: 
+HTML, CSS, Javascript
+Projects / Case Study
+TrackIt – Vehicle Tracking UX Case Study | Link March 2025 - May 2025
+Designed a mobile solution to address vehicle theft and real-time location tracking.
+
+Conducted user interviews and created empathy maps, user journey maps, and personas.
+
+Audited competitor tracking apps to identify UX gaps and improve usability.
+
+Built a high-fidelity Figma prototype with features like alert notifications and geo-tracking.
+
+Focused on security, simplicity, and user trust through intuitive design pattern.
+JourneyUp – Investor Connect Platform for Entrepreneurs | Link May 2025 - June 2025
+Designed an innovative app for early-stage entrepreneurs to pitch ideas via short video presentations
+(under 5 minutes).
+
+Developed end-to-end UX flow to allow users to upload, browse, like, and comment on startup pitch
+videos.
+
+Created a trending system based on user engagement to boost visibility of top-performing pitches.
+
+Ensured smooth onboarding and presentation-upload experience with minimal UI friction.
+
+Enabled investors to discover and directly connect with high-potential startups from the app interface.
+Certification
+Foundations of User Experience (UX) Design | Certificate
+Gained a strong understanding of UX principles, including user-centered design, usability, and
+interaction design fundamentals.
+
+Learned to conduct user research, create personas, and define user journeys to enhance product
+strategy.
+Build Dynamic User Interfaces (UI) for Websites | Certificate
+Developed responsive and visually engaging web interfaces using best practices in layout, typography,
+and accessibility.
+
+Applied dynamic UI design techniques to create interactive web experiences aligned with user needs.
+Create High Fidelity Designs and Prototypes In Figma | Certificate
+Mastered Figma to design high-fidelity UI mockups and interactive prototypes for web and mobile
+applications.
+
+Collaborated using Figma's components, design systems, and prototyping features to simulate real-
+world user flows.
+Education
+Devi Ahilya Vishwavidyalaya (DAVV) August 2022 - May 2025
+Bachelor of Computer Application
+Grade : 8.08 Cgpa

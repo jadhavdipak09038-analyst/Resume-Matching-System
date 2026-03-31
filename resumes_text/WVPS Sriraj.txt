@@ -1,0 +1,44 @@
+W V P S SRIRAJ
+Email: wsriraj10@gmail.com
+LinkedIn | GitHub Mobile: +91 9538881156
+EDUCATION
+Vellore Institute of Technology – AP Vijayawada, India
+Bachelors in computer science; GPA: 7.98 Aug 2023 – May 2027 (Expected)
+Narayana E-Techno School Bengaluru, India
+CBSE – Class 5th to 12th May 2015 – May 2023
+SKILLS SUMMARY
+● Languages: Python, SQL, JAVA
+● Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (basics)
+● Tools: Power BI, Excel, PowerPoint, Tableau, MySQL
+● Platforms: Google Colab, Jupyter Notebook, Visual Studio Code
+● Soft Skills: Stakeholder Management, Rapport Building, Team Collaboration, Communication
+WORK EXPERIENCE
+1. Data Analyst Intern | Prodigy InfoTech | Link March 25 - March 25
+● Conducted data analysis and visualization projects using Python and Excel.
+● Applied machine learning techniques to extract meaningful insights from datasets.
+● Worked on data cleaning, preprocessing, and statistical analysis.
+2. Cricket Analytics Workshop | Mad About Sports | Link March 25 - April 25
+● A workshop focusing on sports performance analytics.
+● Analyzed cricket match data for performance improvement.
+● Learned key metrics used in cricket analytics and predictive modeling.
+3. Data Analyst Intern | Arham World | Link August 25 – November 25
+● Generated and qualified over 500 leads for the Education Wing through targeted market research and data cleaning in
+Google Sheets. Applied machine learning techniques to extract meaningful insights from datasets.
+● Designed and built an interactive dashboard with pivot tables, charts, and slicers to visualize and analyze lead generation
+data.
+PROJECTS
+SRH IPL Cricket Stats Dashboard | Blog Link May 2025 – Jun 2025
+Tools Used: Python, Pandas, Seaborn, Matplotlib, GitHub
+● Developed an end-to-end data analysis project focused on Sunrisers Hyderabad using IPL ball-by-ball data.
+● Performed extensive data cleaning, transformation, and exploration using Pandas and NumPy.
+● Visualized player stats, dismissal types, season-wise trends, and opponent-wise performance using Seaborn and
+Matplotlib.
+● Created custom plots and annotated visuals to highlight top performers and patterns across seasons.
+● Documented insights in a blog post on Hash node and uploaded all code and results to GitHub for public access.
+CERTIFICATES
+1. Getting Started with Microsoft Excel – Coursera Project Network CERTIFICATE
+● Strengthened skills in spreadsheet navigation, data entry, and formula-based analysis.
+● Achieved 100% score and applied Excel for data organization and decision-making.
+2. Introduction to Data Science Job Simulation – Commonwealth Bank (Forage) CERTIFICATE
+● Developed pipelines for data aggregation and anonymization.
+● Proposed effective social media analysis strategies and database designs for insights.

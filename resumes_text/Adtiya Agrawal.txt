@@ -1,0 +1,33 @@
+Aditya Agrawal
++91 8103868493 | abhiagrawal005@gmail.com
+LinkedIn: linkedin.com/in/aditya-agrawal-
+Professional Summary
+Motivated and curious undergraduate student with a solid foundation in programming using C++ and Python. Enthusiastic
+about software development and problem-solving with a strong desire to learn and grow in the tech industry. Currently
+pursuing B.Tech and engaged in self-learning through academic projects and online resources.
+Skills
+Programming Languages: C++, Python (Basic)
+Problem Solving
+Object-Oriented Programming (OOP)
+Team Collaboration & Communication
+Time Management
+Basic Data Structures and Algorithms
+Projects
+Simple Calculator using C++: Developed a basic console-based calculator that
+performs arithmetic operations using switch-case and functions.
+Number Guessing Game in Python: Built an interactive terminal-based game
+using loops and conditionals to guess a random number.
+Student Record Management System (C++): Created a simple CRUD-based
+system to add, display, update, and delete student records using file handling.
+To-Do List App (Python): Created a simple terminal-based to-do list application
+using Python that allows users to add, view, and delete tasks. Focused on user
+input handling and data storage using lists.
+Education
+Higher Secondary education (XII)
+K.V.S BSF TEKANPUR, Gwalior (M.P.) | 2022 - 2023 | 69%
+Secondary Education (X)
+K.V.S BSF TEKANPUR, Gwalior (M.P.) | 2020 - 2021 | 90%
+Languages
+English, Hindi
+Interests
+Coding Practice, Learning New Technologies, Reading Tech Blogs, Fitness

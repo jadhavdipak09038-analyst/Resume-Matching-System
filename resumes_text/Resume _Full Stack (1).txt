@@ -1,0 +1,41 @@
+AADITYA MEHTA
+FULL STACK DEVELOPER
+Ujjain | aadityamehta9302@gmail.com | https://github.com/aadityamehta14
+SUMMARY
+“Enthusiastic Computer Science student with hands-on experience in React.js, Next.js, Node.js, REST APIs,
+and Git. Passionate about building scalable full-stack applications and contributing to innovative AI-driven
+solutions. Seeking an opportunity to apply my technical and problem-solving skills as a Software Engineer
+Intern (FullStack) at Zangoh.”
+TECHNICAL SKILLS
+Frontend: React.js, Backend: Node.js, APIs: REST Version Control: Git,
+Next.js, HTML5, CSS3, Express.js GitHub
+JavaScript
+EXPERIENCE
+NeuroNexus Innovations
+April - May 2025
+Web Development Intern
+Contributed to live web development projects as part of the Web Development team.
+Collaborated in developing and optimizing front-end components for client-based applications.
+Demonstrated strong proficiency in HTML, CSS, JavaScript, and team-based project execution
+EDUCATION
+Avantika University , Ujjain
+August 2022 - June2026
+Computer Science and Engineering
+Bachelor of Technology (B.Tech)
+7.01
+PROJECTS
+GYM Management System (Web App)
+Comprehensive platform for gym operations Features included member tracking, payments,
+scheduling
+Built using Node.js & Express.js (backend) with React.js (frontend) for UI
+Through strategic technology integration and innovative features, we aim to optimize operations,
+enhance member satisfaction, and ensure the financial stability of fitness centers
+Attendance Management System (Attendify)
+Designed and developed a web-based attendance management system to manage and monitor
+attendance of employees, members, or students across sectors.
+Built using PHP, MySQL, HTML, CSS, and JavaScript with integration for desktop and web
+applications.
+Focused on scalability, multi-sector usability, and user-friendly interface.
+ADDITIONAL INFORMATION
+Certifications: CSS, Bootstrap, JavaScript, Web Development Course Udemy – Aug 2025
+Languages: English, Hindi

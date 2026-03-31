@@ -1,0 +1,50 @@
+Suraj Kumar (cid:131) +91 9122601214
+Roll No:- 24UCS001 # surajkumargrow@outlook.com
+Computer Science and Engineering # Leet Code:- Suraj Kumar
+Bachelor of Technology
+National Institute of Technology - Agartala (cid:239) Suraj Kumar
+Education
+•National Institute of Technology (NIT), Agartala July 2024 - present
+Bachelor of Technology in Computer Science and Engineering CGPA: 7.76
+•Roshni Public School, Motihari,Bihar May 2022 - Feb 2024
+Senior Secondary (XII), Specialization in Science Percentage: 79.60%
+Work Experience
+•Indiamart Intermesh Limited Oct 2024 – Mar 2025
+Assistant Manager – Finance and HR Operations.
+– Maintained records of active customer data and their financial accounts accurately and securely.
+•The Entrepreneurship Network June 2025 – sep 2025
+Junior Associate – Finance Accounting and Customer Data Management.
+– Recordtransactions,verifyinvoices,managecustomerdatabases,ensureCRMaccuracy,analyzedata,andHRoperations.
+•Aakash Institute – Motihari Branch may 2025 – july 2025
+Assistant Manager – Marketing and Business Operations.
+– The Marketing, Planning, and Administrative Associate drives marketing campaigns, manages customer engagement.
+Projects
+IdeaSphere (Innovation Ideas Sharing Platform) | Next.js, Django REST Framework, PostgreSQL
+A web platform enabling users to discover and buy products from local city shops offering high-quality items available nearby.
+– Designedaninteractiveinterfaceforideasubmission,discussionthreads,andupvotingtoencouragecommunityengagement.
+.
+NITA Buddy (Social Help Portal) | GoLang, Kotlin, XML, Retrofit, Coroutines, Rest API
+An Android app enabling NIT Agartala students to assist each other with order placement and delivery services.
+– Designed & developed the front-end using Kotlin and XML, & backend using GoLang and MongoDB.
+LocalKart (E-Commerce Platform for Local Shops) | React.js, Node.js, Express.js, MongoDB
+A web platform enabling users to discover and buy products from local city shops offering high-quality items available nearby.
+– Implementedshopregistration,productlistings, andreal-timeinventoryupdatestoimproveaccessibilityforlocalsellers. .
+Technical Skills
+∗ Languages: Java, C/C++, Python, Kotlin, SQL
+∗ Technologies: Full Stack Development, Android Development, Backend Development, Room Database, Firebase
+∗ Other Tools: Android Studio, Git & GitHub, Video Editing, Figma, Canva
+∗ ComputerFundamentals&Coursework: AI/MLDesginer,DataStructures&Algorithms(DSA),OperatingSystems(OS),
+Computer Networks, Database Management Systems (DBMS), Object-Oriented Programming (OOPs)
+Non-Technical Skills
+∗ Management: Scheduling Manager, Event planning, office Management Skills, Administrative Work, Client Handling,
+Employee Managment
+∗ Technologies Using : Most Familier With ChatGpt, Google Gemini, Grok AI, perplexity AI, Microsoft Word, Power
+Point, Excel
+∗ Other Skills: Finance, Accountant, Creativity Critical Thinking, Teamwork Leadership, Negotiation
+∗ convincing : Soft Skill, Counselling, Good presentation and question Aries Solver
+∗ Social Media : Content Creating, Graphics designer Branding, content writer, Social Media handling
+Achievements
+∗ 3rd Prize winner at NIT Agartala Hackathon: IDEATHONE
+∗ I attended the National Cyber Security Exercise – “Cyber Bharat Setu: Bridging States, Securing Bharat” workshop.
+∗ Won 2nd Prize Appreciation Award in MEME-o-Tech, organized by the School of Science, University of Delhi NCR.
+∗ Solved 300+ Problems on LeetCode & other coding platforms

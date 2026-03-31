@@ -1,0 +1,43 @@
+SATYAM JHA
+📞 9967561329 | sjha07964@gmail.com
+CAREER OBJECTIVE
+I am a final-year Computer Engineering student with experience in full stack development using the
+MERN stack,ML Models. I focus on building user-friendly and functional web applications. I'm eager to
+apply my skills to real-world projects and learn continuously.
+EDUCATION
+B.E. in Computer Engineering (Pursuing) [2022-2026]
+Watumull Institute of Engineering and Technology, Mumbai University
+CGPA: 8.21 (Till 6th Semester)
+HSC – 76.33% – CHM Junior College [2022]
+SSC – 90.80% – R.G.S. English High School [2020]
+TECHNICAL SKILLS
+Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Version Control: Git, GitHub
+Tools & IDEs: Visual Studio Code, Postman, Eclipse
+Programming Languages: JavaScript, Java, C ,python,ML libraries
+PROJECTS
+1]CourseHaven – Online Course Marketplace
+A MERN stack-based educational platform that enables users to explore, purchase, and access
+online courses. Includes secure user authentication, course browsing, Stripe-based payments,and responsive UI.
+Tech Stack: MongoDB, Express.js, React.js, Node.js, Stripe API, JWT
+2]Washify – Laundry Management System
+Developed a responsive full stack web app for managing laundry services. Integrated features
+like user login, order tracking, invoice generation, and admin panel.
+3]Heart disease Prediction
+Developed a machine learning–based Heart Disease Prediction system that analyzes patient health
+parameters (age, blood pressure, cholesterol, ECG, heart rate, etc.) to determine the risk of heart
+disease. Implemented data preprocessing, feature selection, and model training using algorithms like
+Logistic Regression and Random Forest. Deployed an interactive web app using Streamlit for real-time
+prediction and user-friendly interaction.
+CERTIFICATIONS
+AI-ML Virtual Internship – Completed through Eduskills
+Hackathon Participation – Participated in Codeathon and real-world problem-solving events
+TNS INDIA TECHNICAL TRAINING
+VOLUNTEERING & EXTRACURRICULAR
+CSI Committee Member – Organized and led tech competitions like Ideathon and Code Decode
+at college level
+Active participant in coding events and tech fests
+GITHUB PROFILE
+https://github.com/Sat2005

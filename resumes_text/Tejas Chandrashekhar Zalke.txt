@@ -1,0 +1,41 @@
+Tejas Chandrashekhar Zalke
++91 9119403372 tejaszalke111@gmail.com
+EDUCATION
+JD COLLEGE OF ENGINEERING AND MANAGEMENT
+2022 – 2026
+B.Tech - Information Technology -CGPA -8.67 Nagpur, Maharashtra
+Higher Secondary Certificate (HSC) 2019-2021
+Maharashtra State Board -Percentage: 90.17% Nanaji Joshi Jr College, Shahapur
+Secondary School Certificate (SSC) 2018 – 2019
+Maharashtra State Board -Percentage: 89.00% Subodh Vidyalaya Masal
+SKILLS
+OOPS Concept Teamwork & Collaboration
+Data Structures & Algorithms Adaptability & Time Management
+PROJECT
+Weather Forecasting Web Application| React.js, Open Weather API 2025
+Developed a responsive weather forecasting application that fetches real-time weather data using
+APIs and displays information such as temperature, humidity, wind speed, and conditions
+Movie Guide App | HTML, CSS, JavaScript
+2025
+Developed a responsive Movie Guide web app using HTML, CSS, and JavaScript. Integrated the OMDb API
+to fetch real-time movie details including posters, ratings, release dates, cast, and plot.
+Spotify Clone | HTML, CSS 2025
+Developed a static Spotify clone with HTML and CSS, replicating the core UI design of Spotify.
+Implemented responsive layouts, navigation bar, playlists section, and music player interface to enhance
+front-end design skills.
+TECHNICAL SKILLS
+Languages:JavaScript, SQL, Java
+Technologies/Frameworks:HTML, CSS, React.js, Node.js, MongoDB
+Tools & Platforms: VS Code, Git & GitHub, Postman
+EXTRA CURRICULAR ACTIVITIES
+• Member, Coding Club JDCOEM : Helped to organize coding contests for students and assisted with media work,
+including creating posters.
+CERTIFICATIONS
+Joy of Computing using Python – NPTEL (8-week course). Gained hands-on knowledge of Python
+programming, problem-solving, and algorithmic thinking.
+Enhancing Soft Skills and Personality Development – NPTEL (8-week course, Elite Silver). Improved
+communication, presentation skills, and professional personality development.
+Data Structures & Algorithms in Java (Sigma 5.0) – Apna College. Learned core DSA concepts, problem-
+solving techniques, and coding best practices in Java.
+Full Stack Web Development (MERN Stack) – Apna College. Gained practical experience building web
+applications using MongoDB, Express.js, React.js, and Node.js, along with frontend-backend integration.

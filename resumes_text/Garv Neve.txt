@@ -1,0 +1,32 @@
+Garv Neve
+Mumbai, India |+91-8976204830 |garvneve1@gmail.com |linkedin.com/in/garv-neve |github.com/garvvneve
+CAREER OBJECTIVE
+RecentComputerEngineeringgraduatepassionateaboutdata engineering and business intelligence. Skilled
+in Python, SQL, Power BI, and data pipelines with hands-on work in visualization, ETL, and analytics.
+Seeking a role as Power BI Developer / Data Engineer to apply analytical skills, build data-driven solutions,
+and deliver business insights.
+EDUCATION
+B.E. Computer Engineering, Watumull Institute of Engineering, Mumbai 2025
+CGPA: 7.76 (69.04%)
+Diploma in Computer Engineering, S.H.J Polytechnic, Dombivli 2022
+Percentage: 80.86%
+Class X (SSC), Fatima High School, Badlapur 2019
+Percentage: 75%
+TECHNICAL SKILLS
+Languages: Python, SQL, C, C++
+Data & BI: Power BI, ETL , Data Cleaning, Normalization
+ML/Analytics: Pandas, NumPy, Matplotlib, Seaborn, Basic ML with Scikit-learn, TensorFlow
+Tools: Jupyter Notebook, Git/GitHub, MS Excel, Streamlit
+Databases: MySQL, SQLite
+Platforms: Local & cloud-based data environments
+PROJECTS
+Deepfake Video Detection (TensorFlow + Streamlit) 2024–2025
+• Built a TensorFlow model for real vs. manipulated video frame detection with preprocessing pipelines.
+• Deployed as a Streamlit app with login, history tracking, and interactive charts for analysis.
+Exploratory Data Analysis (Diwali Sales) 2024
+• Cleaned and analyzed retail sales data using Python and visualized trends with Power BI and Matplotlib.
+• Delivered actionable insights on customer demographics and product performance.
+ADDITIONAL INFORMATION
+Languages: English, Hindi, Marathi
+Soft Skills: Communication, Teamwork, Problem-Solving, Time Management, Critical Thinking, Creativity
+1

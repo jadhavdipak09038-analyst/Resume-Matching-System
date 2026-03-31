@@ -1,0 +1,59 @@
+LALITHYA M.L
+E-mail: 2024mca_lalithyaml_a@nie.ac.in
+Mobile: 9741178554
+CAREER OBJECTIVE :
+To seek challenging opportunities to utilize my knowledge of software as well as analytical,
+technical skills for career growth and uplift of the organization.
+ACADEMIC DETAILS:
+Name of Institution Year of pass out Marks scored
+The National Institute Of Engineering(North
+2025-26 7.44CGPA
+Campus) (MCA)
+SBRR Mahajana first grade college Mysore. university
+2021-24 9.06 CGPA
+Degree (BCA)
+Teresian pu college mysore (PUC) 2020-21 82%
+Nirmala convent, Gundlupet (SSLC)
+2018-19 80%
+TECHNICAL SKILL:
+SQL
+• Good knowledge in writing SQL Queries.
+• Very good knowledge on DML, DDL, TCL.
+• Having knowledge in Joins & Sub-Queries.
+JAVA
+• Very good in Java Architecture.
+• Knowledge in Variables and Operators.
+• Very Good Knowledge in Conditional statements and Loop statements.
+• Good Knowledge on Oops: Inheritance, Encapsulation, Polymorphism,
+Abstraction.
+WEB TECHNOLOGY
+• HTML and CSS
+• Basics of Java
+ScriptPERSONALITY TRAITS:
+• Ability to work as an individual as well as in a group.
+• Adaptability and Flexibility to work in any
+environment.
+• Quick learner.
+SOFT SKILLS:
+• Communication
+• Problem-solving
+• Teamwork
+• Active listening
+PROJECT DETAILS:
+TITTLE OFPROJECT: “PLACEMENT PORTAL”
+From a student’s perspective, placements can bring a wide range of benefits and opportunities.
+Training and management of placement is a crucial part of an educational institution in which most Of
+The work is done manually. Manual system in the colleges requires a lot of manpower and time. With
+This project we aim to develop a web portal to solve this issue. The project is aimed at Developing an
+Application for the placement department of the college. It is web based placement Management.
+CERTIFICATES:
+Internship certificate
+• Based on java full stack development in V Linkin Mysore
+• Completed google AI essential in google coursera
+INTERESTS:
+• Photography
+• Playing Badminton
+DECLARATION:
+I declare that the information presented in this resume is true and accurate. I assure you
+that my skills and qualifications meet the requirements of the job and I am committed to
+making a positive contribution to your organization.

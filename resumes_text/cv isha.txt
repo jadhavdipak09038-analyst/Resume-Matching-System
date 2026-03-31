@@ -1,0 +1,36 @@
+Ishita
+Faridabad, Haryana | +91 8826437450 | ishitakul1302@gmail.com
+Professional Summary
+Hardworking and detail-oriented Data Analyst with skills in Excel, Power BI, SQL, and Python. I enjoy working with
+data to find useful information that helps in better decision-making. I have completed projects in sales, HR, e-
+commerce, and healthcare. I can clean data, create dashboards, and explain data in a simple and clear way.
+Technical Skills
+Languages: Python, SQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Tools: Excel, Power BI
+Analytics Skills: Data Cleaning, EDA, Visualization, Dashboarding
+Education
+Bachelor of Computer Applications (BCA)
+JB Knowledge Park (Affiliated to MDU)
+Graduation Year: 2025 | Percentage: 75%
+Projects
+• Sales Insights Dashboard using Python & Power BI
+- Extracted and transformed retail sales data to identify trends, top-performing categories, and profitability
+by region.
+- Built interactive dashboards showing KPIs like total revenue, profit margin, and customer segmentation.
+• E-commerce Customer Churn Prediction
+- Cleaned and analyzed customer data to identify churn patterns.
+- Built a machine learning model to predict potential churn with 82% accuracy.
+• HR Employee Attrition Analysis
+- Analyzed attrition based on age, department, and years at company.
+- Delivered insights to HR for targeted retention strategies.
+• Healthcare Data Analysis
+- Analyzed patient records for trends in diagnosis and treatment effectiveness.
+- Visualized key health indicators for decision-making support.
+STRENGTHS
+✔Strong problem-solving and data interpretation skills
+✔ Able to present complex data in simple ways
+✔ Quick learner and team player
+ADDITIONAL INFORMATION
+• Languages: English, Hindi
+• Location Preference: Open to remote and on-site roles

@@ -1,0 +1,42 @@
+TUSHAR BISANE
+(cid:131) +91 9673279153 # tpbisane7@gmail.com (cid:239) LinkedIn § GitHub
+EDUCATION
+J D College of Engineering and Management Nov. 2022 - Present
+Bachelor of Technology in Information Technology — CGPA: 7.2/10 Nagpur, Maharashtra
+Rashtriya Junior College of Science Jun. 2020 – May 2022
+Higher Secondary Certificate (HSC) — Percentage: 81.33% Achalpur, Maharashtra
+OBJECTIVE
+• Motivated Information Technology student with strong problem-solving skills and hands-on experience in full-stack
+development (MERN stack). Proficient in building scalable web applications, writing clean and maintainable code, and
+leveraging modern tools and frameworks. Eager to contribute to innovative software engineering projects, learn from
+industry professionals, and grow into a skilled Software Engineer
+SKILLS
+Languages: C++, HTML/CSS, JavaScript, SQL
+Developer Tools: VS Code, GitHub, Visual Studio, IntellJ IDEA
+Technologies/Frameworks: React.js, Node.js, Express.js, MongoDB, REST APIs, AWS ( Basics )
+PROJECTS
+Academix | React.js, Node.js, Express.js, Mongo DB
+• Developed an edtech platform facilitating instructors and students to post learning content and study materials.
+• Implemented Selenium to create a Chrome instance for interacting with web page elements.
+• Enhanced security by integrating OTP and email verification, reducing unauthorized access by 40 percent.
+• Designed separate dashboards for instructors to track engagement.
+Pulse Student - An Online Voting System For Colleges | JavaScript, React.js, Node.js, Express.js , MongoDB
+• Developed “Pulse,” an online grievance and voting management system for colleges and universities, enabling secure
+student participation and transparent election processes.
+• Implemented user authentication and login access with JWT-based role management for students, faculty, and
+administrators to ensure data privacy and system integrity.
+• Integrated real-time video conferencing (WebRTC + React) for virtual grievance hearings and online election interactions
+within the platform.
+• Built a responsive full-stack MERN application (MongoDB, Express.js, React.js, Node.js) using Bootstrap for UI design,
+providing an intuitive and cross-device user experience.
+COURSE WORK
+• Data Structures and Algorithms • Object-Oriented Programming • Operating Systems
+• Computer Networks • Database Management Systems • Artificial Intelligence
+CODING PROFILES
+• LeetCode: tusharbisane7 • CodeChef: tusharbisane7
+CERTIFICATIONS / ACHIEVEMENTS
+∗ Solved 100+ coding problems on platforms including Leet code and Code Chief
+∗ NPTEL – The Joy of Computing using Python (IIT Ropar, Govt. of India) – Completed 12-week course covering Python
+programming, problem-solving, and data handling.
+∗ NPTEL – Introduction to Internet of Things (IoT) (IIT Kharagpur/IIT Madras, Govt. of India) – Learned IoT
+architecture, embedded systems, sensors, cloud integration, and IoT applications.

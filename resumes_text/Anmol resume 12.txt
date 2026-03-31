@@ -1,0 +1,49 @@
+CONTACT
+ANMOL KUMAR SHARMA
+Phone: +91 - 7209287673
+Aspiring Data Scientist
+Email:
+rajasharmakumar93@gmail.com
+Proven foundation in Python for data manipulation
+Location: Danapur Gavatal, Patna,
+(Pandas, NumPy) and skilled in creating actionable
+Bihar
+visualizations (Matplotlib, Seaborn, Power B'). Committed
+TECHNICAL SKILLS Linkedin : link
+to continuous learning, particularly in the application of EDA
+Generative Al and advanced statistical techniques to Programming & Data
+realworld challenges.
+Python SQL Pandas NumPy
+Data Cleaning
+PORTFOLIO PROJECTS
+Visualization & Bl
+Power Bl Matplotlib Seaborn
+E-commerce Sales Performance & Customer
+Excel (Advanced)
+Segmentation
+Tools: Python, Pandas, NumPy, Matp/otlib, Seaborn, SQL, Power B/
+Executed end-to-end Exploratory Data Analysis (EDA) view of regional
+on a sales dataset, identifying top-selling products, performance and customer
+lifetime value (CLV).
+geographical trends, and seasonal sales peaks. Used
+Pandas and NumPy to clean and transform Al & Concepts
+Generative Al Data Science Basics
+Logical Thinking
+raw sales data, handling missing values and outlier
+LANGUAGES
+detection.
+Hindi
+(Fluent)
+Visualized key metrics (revenue, order count)
+English (Working Proficiency)
+using Matplotlib and Seaborn to communicate
+findings on customer behavior.
+EDUCATION
+Designed and implemented a dynamic sales
+dashboard in Power Bl, providing an interactiveBachelor of Computer Applications (BCA)
+JB Knowledge Park, Faridabad (Delhi NCR)
+3rd Year Student (2023 - Present)
+Senior Secondary (Class 12th)
+M.D College, Naubatpur, Patna (2022)
+Secondary (Class 10th)
+Cambridge Public School, Naubatpur, Patna (2020)

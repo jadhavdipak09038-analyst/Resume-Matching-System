@@ -1,0 +1,36 @@
+VISHRUTH V
+LinkedIn| Ph no: +91 9731402727| vvishruth20@gmail.com
+SKILLS
+ Programming language: Python, C++
+ Mathematical and statistical tools: Microsoft Excel, Power BI, SQL
+ Development Tools: Git, GitHub, VS Code
+ AI/ML & Data Science: NumPy, Pandas,TensorFlow (basics), anomaly detection
+EDUCATION
+National Institute of Engineering
+Bachelor of Engineering Expected Aug 2026
+Major in Electronics and Communication Engineering
+UNIVERSITY PROJECTS
+Iot Sensor Data Anomaly Detection (AI + IoT) Dec 2024
+● Simulated Iot sensor dataset (temperature, humidity) and applied ML (Isolation Forest) for anomaly
+detection. Visualized anomalies using Python, Pandas and Matplotlib to demonstrate predictive
+maintenance use cases.
+Sales Dashboard Using Power BI Mar 2024
+● Implemented DAX measures to calculate year-over-year growth, enabling real-time insights into sales trends
+● Implemented end-to-end report generation, which helped me generate actionable insights.
+ACTIVITIES
+AJITHA NELE Aug 2023
+● Taught English to over 50 underprivileged children, focusing on foundational language skills and fostering academic
+growth in a challenging environment; also incorporated basic technical concepts to enhance overall learning.
+● Co-ordinated with the community for development, positively impacting 50+ students over two years.
+● mentored junior volunteers in lesson planning and classroom management, cultivating a sustainable teaching
+ecosystem and ensuring continuity of learning for future batches.
+EXPERIENCE
+Bharat Electronics Limited (Bengaluru) Jun 2025
+Project Intern
+● Interacted with engineers and project leads to understand real-world applications of embedded systems, signal
+processing, and hardware-software interfacing
+● Got hands-on exposure across different departments like Radar Systems, Communications, and Missile Systems by
+visiting multiple business units and observing how projects move from start to finish.
+ADDITIONAL
+Languages: Fluent in English ,Hindi ,Kannada
+Certifications & Training: Introduction to Python Programming(Coursera), Professional Skills For Workspace(Coursera)

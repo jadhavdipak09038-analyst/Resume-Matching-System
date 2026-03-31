@@ -1,0 +1,42 @@
+Swarup Das
+swarup82546@gmail.com | +91-8436430197 | Linkedin | GitHub | Leetcode
+Education
+BachelorofTechnologyinComputerScienceandEngineering Nov2022–July2026
+JalpaiguriGovernmentEngineeringCollege CGPA:7.64/10
+HigherSecondaryEducation(ScienceStream) Completed: 2021
+WestBengalCouncilofHigherSecondaryEducation Percentage: 77%
+SecondaryEducation Completed: 2019
+WestBengalBoardofSecondaryEducation Percentage: 80.4%
+Projects
+STUDYBUDDY GitHub
+• React.js,TailwindCSS,ReduxToolkit,Tiptap,Node.js,Express.js,JWT,Cloudinary,Socket.io,y-websocket,yjs,
+RESTfulAPIs
+• Builtafull-stackcollaborationsystemenablinguserstocreatesharedchannelswithareal-timecollaborativerichtext
+editor(Tiptap)andintegratedchat—handled10+activesessionswithseamlesssynchronizationpoweredbyYjs,
+Tiptap,andSocket.IO.
+• Supportschannel-basededitingwithCRUDoperations,membermanagement,andsecureJWTauthenticationwith
+real-timepresencetracking. Utilizesy-websocketandSocket.IOforinstantcontentsynchronization,message
+persistence,andseamlessmulti-userediting.
+NEWSDESK GitHub
+• MongoDB,Express.js,React.js,Node.js,ReduxToolkit,TailwindCSS,Firebase,Cloudinary
+• DevelopedanAI-powerednewsaggregationsystemthatfetches500+dailyarticlesacrosscategories,improving
+contentdiscoverytimeby50%,featuringMongoDBfull-textsearch,AI-generatedsummaries,andreal-timestate
+managementwithReduxToolkitandauthenticationwithFirebase—ensuringsecure,scalable,andresponsive
+performance.
+Skills
+Languages: C++,JavaScript,SQL
+Frontend: HTML5,CSS3,React.js,ReduxToolkit,ReactRouter,TailwindCSS
+Backend: Node.js,Express.js,RESTfulAPIs,JWTAuthentication,Firebase,APIIntegration
+Databases: MongoDB,Mongoose
+Tools: Git,Docker(Basics),Vercel,Postman,VSCode
+CoreConcepts: DataStructures&Algorithms,OOP,DBMS,OperatingSystems,ComputerNetworks
+Certifications
+ProblemSolving(Intermediate)–HackerRank(2025) Certificate
+Demonstratedstrongalgorithmicproblem-solvingandefficientcodingpractices.
+SQL(Intermediate)–HackerRank(2025) Certificate
+ValidatedintermediateSQLskillsincludingjoins,subqueries,andaggregations.
+Achievements
+• ProblemSolving: Solved400+problemsonLeetCode|ContestRating: 1600+|Top19%globally.
+• AcademicExcellence: AllIndiaRank1905inWBJEE2021among150,000+candidates—Top1.3%percentile.
+• ResearchRecognition: SuccessfullycompletedprestigiousSummerResearchProgramatISIKolkatainQuantum
+Computing.

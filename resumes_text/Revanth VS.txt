@@ -1,0 +1,51 @@
+REVANTH V S
+revanthvs04@gmail.com|9380066459 | revanth-v-s |Revanth123456| Bengaluru, karnataka
+SUMMARY
+Detail-oriented and innovative Software Developer with proven expertise in Java, Python, C++, and web
+technologies. Experienced in developing full-stack applications, optimizing database-driven solutions, and working
+with Agile teams. Recognized for strong problem-solving, analytical, and collaboration skills. Actively seeking to
+contribute to IBM’s mission of driving enterprise transformation through technology and innovation
+EDUCATION
+DR AMBEDKAR INSTITUTE OF TECHNOLOGY SINCE 2022
+•3rd year
+8.76 CGPA
+NAVKIS RESIDENTIAL PU COLLEGE 2022-96.83%
+STERLING ENGLISH SCHOOL 2020-96.61%
+INTERNSHIP
+INTERNINDIAFORAGE:[Github]
+•1 Month Internship on Python Full Stack Programm
+•Developed portfolio website, weather api, expense tracker and blog application
+INFOSYS SPRINGBOARD:[Github]
+•1 Month Internship on Java Full Stack Programm
+•Developed Tasty Treat Express using Spring Boot, Thymleaf, Mysql.
+ACADEMIC PROJECTS
+BANK MANAGEMENT SYSTEM[Github]
+•Developed a Bank Management System using Java and MySQL, enabling efficient management of
+customer accounts and transactions.
+• The system utilized Java for backend logic and MySQL for database storage and retrieval.
+AIRLINE MANAGEMENT SYSTEM[Github]
+•Designed an Airline Management System using Java and MySQL, streamlining flight
+operations,passenger management, and booking processes.
+• The system leveraged Java for backend functionality and MySQL for database management.
+SMART SKETCH BOARD[Github]
+•Developed a Smart Sketch Board application using JavaScript, HTML, CSS and React for the frontend,
+with Python powering the backend.
+• Al Integration: Discover how to utilize the Gemini Flash AI API to power the calculator's functionality
+and recognize drawn math problems.
+TECHNICAL SKILLS
+Languages:C| C ++ |Java | Python |HTML|CSS|JavaScript|React.js|Node.js
+Technolgies:GIT | GITHUB |NetBeans |SpringBoot|Anaconda |Visual Studio|PyCharm|Postman
+Databases: MySQL | Django | MongoDb| PostgreSql
+Relevant Coursework: Data Structures and Algorithms | Object Oriented Programming | Operating System|
+Analysis And Design Of Algorithm |Computer Networks|Computer Graphics | Cloud Computing
+ADDITIONAL INFORMATION
+Soft Skills: Problem solving skills, Leadership skills, Communication skills, Agile Methodology,
+CI/CD, Adaptability, Teamwork & Collaboration, Testing
+Languages: English(professional proficiency), Kannada (native/bilingual proficiency)
+Certification: C (UDEMY), Python (UDEMY),Java(Infosys), Database Management System (Infosys),
+C++(UDEMY) , Web Development Fundamentals (IBM)
+Workshop: Skill Intern, Bolt Iot/IDX(Goggle)
+Intrest: Cricket, Chess, Reading, Travel, Music
+REFERENCES
+Dr Nandini N Phone:984-475-9746
+ASSOCIATE PROFESSOR AND HOD Social:nandu_8449@rediffmail.com

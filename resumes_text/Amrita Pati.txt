@@ -1,0 +1,46 @@
+Amrita Pati
++91 7709190684 | Mumbai, India | crce.10210@gmail.com | Linkedin | Github
+PROFILE SUMMARY
+Computer Engineering undergraduate with hands-on experience building MERN stack applications and AI-powered platforms. Skilled in Mern
+stack, with a proven ability to design secure, user-focused solutions and work effectively in team environments. Seeking a dynamic engineering
+role to contribute to innovative solutions and organizational growth.
+EDUCATION
+Fr. Conceicao Rodrigues College of Engineering, Mumbai Present
+Bachelors of Engineering in Computer Engineering
+Holy Family Convent High School 2021 - 2023
+Class XI, XII
+WORK EXPERIENCE
+Junior Design Head | CODELABS, Fr. CRCE April 2024 - 2025
+● Assisted in organizing club events including technical workshops, speaker sessions, and competitive programming contests.
+● Designed promotional material such as social media posts, presentations, and banners using Figma and Canva.
+● Contributed to UI/UX design for event branding and ensured visual consistency across all communication channels.
+● Collaborated with cross-functional teams to coordinate event logistics and outreach efforts.
+.
+TECHNICAL SKILLS & AWARDS
+Skills:
+● Languages: C, JavaScript, Python
+● Frameworks & Libraries: React, Redux Toolkit, Tailwind CSS, Bootstrap, MongoDB, Express.js, Node.js
+● Tools & Technologies: Git, Github, REST APIs, Canva, Figma, Framer
+Awards and Achievements:
+● 1st Runner-Up | Google Cloud GenAI Exchange Hackathon 2025
+PROJECTS
+DIDI’S DIGITAL SAATHI - Voice-based sales, inventory & demand analytics platform | MERN Stack, Web Speech API
+● Built a full-stack sales and inventory management system using React.js, Node.js, Express, and MongoDB Atlas, enabling small
+businesses to log transactions through voice or text input.
+● Integrated automated inventory tracking with real-time stock updates and low-stock alert notifications based on predefined
+thresholds.
+● Implemented demand forecasting using historical sales data in Python, along with interactive revenue and sales trend dashboards and
+text-to-speech functionality to enhance accessibility and business insights.
+MISINTEL – AI-Powered Misinformation Detection Platform | Web App, Chrome Extension, WhatsApp Bot
+Live Demo: https://misintel.vercel.app/ | GitHub: https://github.com/Hike-12/Misintel | Google Hackathon – 1st Runner-Up
+● Built a cross-platform AI verification system that detects misinformation across text, URLs, images, videos, and audio, enabling
+users to fact-check content instantly through a web app, Chrome extension, and WhatsApp bot.
+● Developed a multi-AI pipeline using Google Gemini, Fact Check API, Custom Search, Safe Browsing to
+perform context-aware credibility analysis, real-time source verification, and malicious content detection at scale.
+● Implemented explainable AI features including highlighted misleading phrases, credibility scores, author detection, and
+“why-flagged” explanations, improving user trust and media literacy beyond simple true/false verdicts.
+ACTIVITIES
+VOLUNTEER, COMMUNITY ENGAGEMENT PROJECT (CEP)
+ST. ELIZABETH CONVENT, VASAI | AUG – OCT 2024
+Worked with children (ages 8–19) with special needs through art, games, and learning activities. Helped foster creativity, inclusion, and
+emotional connection in a supportive environment.

@@ -1,0 +1,38 @@
+Ashish Kumar Dubey
+Address – Aya Nagar, New Delhi | ashishgpj15@gmail.com | +91 6202416585 | LinkedIn
+CAREER OBJECTIVE
+As an enthusiastic and committed Java developer with knowledge of HTML,
+CSS, JavaScript, React.js, and Spring Boot, I'm interested in the position of web developer.
+By applying my technological skills to create user-friendly online apps, I hope to advance my
+knowledge and diligently contribute to the organization's success.
+EDUCATION
+● Sershah Engineering College, Sasaram (Aug. 2020 - Aug 2024)
+Bachelor’s in computer science and Engineering CGPA : 8/10
+● Ibrahim Memorial High School (March 2018 -March 2020)
+Intermediate Marks :78.6%
+PROJECTS
+Face Detection Attendance System
+Technology Used: HTML, CSS, Python, OpenCV, Firebase
+● A face detection attendance system using HTML, CSS for the frontend, Python with OpenCV
+for image recognition, and Firebase for real-time database storage ensures, automated,
+efficient and secure attendance tracking.
+Bank Management System ( JAVA, Spring Boot, MySql )
+● Developed a Bank Management System using Java for the Backend and MySQL for the Database,
+implementing account creation, update, transactions, data validation, and efficient customer record
+management.
+Amazon UI Clone (HTML, CSS, Media Queries)
+● Designed and implemented a pixel-perfect Amazon UI clone with HTML, CSS, and media queries,
+showcasing proficiency in frontend development, CSS styling, and responsive web design techniques.
+TECHNICAL SKILLS
+• Back End Development ( Spring Boot , Spring , Hibernate )
+• Front End Development ( HTML , CSS , JavaScript , React.js , Bootstrap )
+• Proficient in Java and JavaScript programming language.
+• Design & Tools ( Figma, GitHub )
+AWARD & ACHIEVEMENT
+● Participated and achieved selection at the college level in the Smart India Hackathon showcasing
+teamwork and innovative problem solving skills
+● 3 star at Hacker rank in Java programming language
+● Got 3rd place in intra college coding competition (80+ participants)
+CERTIFICATION & COURSE
+● Programming in Java -----NPTEL
+● Java Training --- Cetpa Infotech Pvt Ltd(6 Months)

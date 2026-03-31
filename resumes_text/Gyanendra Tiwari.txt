@@ -1,0 +1,66 @@
+Gyanendra Tiwari
+Machine Learning Developer
+Targeting Machine Learning Developer roles with an organization of high repute with a scope of improving knowledge
+and further career growth.
+Contact Profile Summary
+o Machine Learning Developer with expertise in Python, machine learning
+tiwari.gyanendra.9827@gmail.com
+frameworks (TensorFlow, Keras, PyTorch), and data analysis. Proficient in designing
++91 9826676196 and implementing models for image classification, object detection, and predictive
+analytics.
+www.linkedin.com/in/gyanendra- o Participated in hackathons and innovation challenges, contributing to successful
+tiwari-920a8a254 AI-driven solutions, including a crop disease prediction system and gender
+classification model.
+o Skilled in both model development and application deployment, with
+Academic Details
+experience integrating ML models into web-based applications using React, Node.js,
+and Express.js.
+o Bachelor of Technology (B.T.) o Strong communicator and team player, adept at leading and collaborating on
+o Artificial Intelligence Machine multidisciplinary teams to achieve shared goals.
+Learning (AIML) Responsibilities:
+Gyan Ganga Institute of Technology and o Led teams as a Machine Learning Developer and Team Leader in SIH
+Sciences, Jabalpur; hackathons, focusing on building robust AI solutions with a clear impact.
+CGPA: 7.31 o Worked closely with team members to analyze project requirements, aligning
+(2026) individual strengths with tasks for optimized workflow and project success.
+o Provided guidance on implementing machine learning models and optimizing their
+Soft Skills performance, ensuring alignment with project goals.
+o Delivered articulate presentations on machine learning solutions in competitive
+environments, confidently showcasing technical knowledge and project outcomes.
+Analytical | Collaborator | Leader | Adaptable
+o Improved team efficiency and productivity by fostering an environment that
+encouraged innovation and collaborative problem-solving.
+Technical Skills
+Achievements:
+o Demonstrated exceptional leadership in hackathons, guiding teams to successfully
+o Programming Languages: deliver AI-driven solutions for real-world problems, including crop disease
+JavaScript, Python, C++ management and image classification.
+o Frameworks: o Established a reputation for effective communication and team building, forging
+TensorFlow, Keras, PyTorch, Scikit-learn meaningful connections with peers and mentors in the ML community.
+Core Competencies o Played a key role in integrating ML models into full-stack applications, combining
+technical expertise in machine learning with web development skills.
+o Elevated team performance by fostering collaboration and encouraging members to
+Agile Methodologies
+pursue personal and technical growth.
+Academic Projects
+Software Development Life Cycle
+Gender Classifier
+Restful API
+Tools: Python, TensorFlow, Keras, OpenCV
+Roles: Built and deployed a CNN model using TensorFlow and Flask for real-time
+Debugging gender classification with high accuracy.
+SMS Spam Classifier
+Containerization
+Tools: Python, Scikit-learn, Pandas, Numpy, Flask
+Roles:
+Web Services
+o Built and trained a machine learning model using Scikit-learn to classify SMS
+messages as spam or not spam with high accuracy.
+Microservice Design o Developed a Flask-based web interface for real-time user interaction and deployed
+the model in a production environment.
+Performance Optimization
+https://github.com/Gyanendratiwari98
+System Scalability
+Personal Details
+Date of Birth: 26th jan 2005
+Languages Known: English and Hindi
+Address: Jabalpur, Madhya Pradesh

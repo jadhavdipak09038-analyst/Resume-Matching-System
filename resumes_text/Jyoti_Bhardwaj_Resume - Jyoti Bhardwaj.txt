@@ -1,0 +1,45 @@
+Jyoti Bhardwaj +91-9068604895
+jbb200115@gmail.com
+Noida, UP
+Associate
+https://www.linkedin.com/in/j
+yoti-bhardwaj-807b51241
+SUMMARY/OBJECTIVE
+A goal-oriented BCA graduate with 1+ year of experience in a corporate environment, skilled at utilizing technical abilities and
+analytical skills to make valuable contributions to company objectives. Skilled in using Python for web development,
+automation, and data analysis. Strong problem-solving skills, with a deep understanding of algorithms and data structures.
+Looking for an opportunity to grow as a Python developer, contribute to innovative projects, and learn from a dynamic team in
+a fast-paced environment.
+WORK EXPERIENCE
+ASSOCIATE
+British Council | Noida | Nov 2023 – Present
+● Supporting the assessment and evaluation process of various examinations and tests conducted by the organization.
+● Maintained Confidentiality by handling confidential examination materials with utmost discretion and ensure the security
+and integrity of assessment processes, including the handling and storage of examination scripts and related data.
+● Maintained accuracy and efficiency in marking examination scripts and also contributed via Cross-Skilling in various
+departments.
+FULL STACK DEVELOPER (AS AN INTERN)
+CETPA Infotech Private Limited | Noida | Sep 2024 – Present
+● Learning front-end technologies (HTML, CSS, JavaScript), back-end framework (Django) and database management skills
+(My SQL).
+PYTHON DEVELOPER (AS AN INTERN)
+CETPA Infotech Private Limited | Noida | Jan 2024 – Apr 2024
+● Has done an internship and certification course on Python programming language where I learned programming concepts,
+such as data structures, loops, and functions, and also provides hands-on experience to build foundational coding skills and
+understand real world applications.
+SKILLS
+● Programming Languages: Python, JavaScript, ● Graphic Design Tool: Canva
+HTML, CSS, SQL(MySQL) ● Soft Skills: Problem-Solving, Communication, Teamwork, Time
+● Framework: Django Management
+● Software Development Tools: VS Code,
+PyCharm
+CERTIFICATION/EDUCATION
+● CETPA Infotech Private Limited ● DCRUST University
+Certification in Python & Full Stack Course BCA with 8.41 CGPA | 2020-2023
+● Chandigarh University ● Satyam Modern Sr. Sec. School
+MCA | 2024 – Present 12th (CBSE) with 84.6% | 2019-2020
+10th (CBSE) with 86.2% | 2017-2018
+PROJECTS
+Grocery Store Management Application (Currently working on it)
+It’s a 3-tier application with a front end built using HTML, CSS, JavaScript and Bootstrap. The backend is developed with
+python and Django, while MySQL is used for database management.

@@ -1,0 +1,46 @@
+ADITI RAJESH NAIR
+aditirajeshnair5@gmail.com| 9165704865| LinkedIn | GitHub
+570, Vrindavan Colony, Jagdalpur, Bastar, Chhattisgarh – 494001, India.
+SUMMARY
+MCA student with a strong foundation in Python, SQL, data analysis, and data visualization. Experienced in working
+with Pandas, NumPy, MatplotLib, Seaborn, and basic web technologies through academic projects. Interested in
+applying analytical and technical skills to solve real-world problems and build data-driven solutions.
+PROJECTS
+Stock Market Prediction | Jun 2025 – Jul 2025
+ Predicted next-week stock trends using Python, ML algorithms, sentiment analysis on AAPL, MSFT,
+GOOGL historical data.
+Heart Disease Prediction | Jul 2025 – Aug 2025
+ Predicted heart disease risk using Python, Random Forest, Scikit-learn, Streamlit with interactive data
+visualization.
+Netflix Data Analysis | Oct 2025 – Nov 2025
+ Analysed Netflix content trends using Python, Pandas, NumPy, Matplotlib, Seaborn.
+Trip Planner Website | Nov 2025 – Dec 2025
+ Built full-stack travel planner web app using Flask, MySQL, JavaScript, JWT authentication with responsive
+UI.
+Education
+ Master of Computer Applications (MCA) (Currently Pursuing)
+Rungta College of Engineering and Technology
+Sep 2024 – Sep 2026
+ Bachelor of Computer Applications (BCA) — 78%
+GD Rungta College of Science and Technology
+Jul 2021 – Jul 2024
+ Higher Secondary & Secondary Education
+Deepti Convent Higher Secondary School
+ Class 12: 68%
+ Class 10: 79%
+ADDITIONAL INFORMATION
+Technical Skills
+ Programming Languages: Python, SQL, JavaScript
+ Web Technologies: HTML, CSS
+ Data Analysis & Visualization: Pandas, NumPy, matplotlib, seaborn
+ Tools & Concepts: Data Cleaning, Data Visualization, Basic Machine Learning Concepts
+Certifications
+ Machine Learning Foundations – AWS (July 2023)
+ Python with AI – AI for Techies (August 2025)
+Languages
+ English (Professional Proficiency)
+ Hindi (Professional Proficiency)
+Interests & Activities
+ Reading (Technology, General Knowledge & self-development)
+ Strategic Games: Chess, Carrom, sudoku
+ Sports: Badminton

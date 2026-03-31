@@ -1,0 +1,59 @@
+N V S K L
+EERTHANA INGAMALLU
+(cid:131)+917200751502 | #keerthanalingamallu@gmail.com | (cid:239)LinkedIn | §GitHub | (cid:252)Medium
+EXPERIENCE
+vThinkGlobalTechnologies May2025–July2025
+SoftwareDeveloperIntern Chennai
+-Contributedtoanemployeetransportationsystemwithfull-stackworkacrossAPIs,databaseintegration,andUIbehavior.
+FordMotorCompany Dec2024–March2025
+DataScienceandAIIntern Chennai
+-DevelopedLLM-basedHRanalyticsworkflowsachieving96%alignmentaccuracy,integratingpreprocessing,scoring,and
+validationstepsforHRdata.
+-BuiltPythonbackendpipelinesandimprovedLLMperformanceusingpromptengineering,chainedevaluation,andVertex
+AIoptimization.
+InnomaticsResearchLabs Jan2024–April2024
+DataScienceIntern Remote
+-BuiltanddeployedaFlaskbackendonAWSfordataandsentimentanalysis,integratingMLflow,validatingEC2
+deployment,anddevelopingGenAIappsincludinganAICodeReviewerandaRAGsystem. .
+EDUCATION
+ShivNadarUniversity Chennai,TamilNadu
+BachelorofTechnologyinArtificialIntelligenceandDataScience,CGPA:7.75 Aug2022–Aug2026
+NarayanaJuniorCollege Vijayawada,AndhraPradesh
+Grade12,Percentage: 90 2021–2022
+PROJECTS
+• AdversarialAttackDetectioninDeepfakeModels
+Python,TensorFlow/PyTorch,ML/DLModels(BNNs,CNNs,GANs,XceptionNet,ResNetvariants)
+– Builtadversarial-detectionpipelinesusingBNNsandXceptionNet,integratingGAN-basedaugmentations,ResNet-50
+andMesoNetbaselinesforensembledetection.
+– Quantifiedmole-basedperturbationsandperceptualblack-boxattacklimits,forbenchmarksandfailure-caseanalyses.
+• AgenticAI-BasedReal-TimeBidOptimizationSystem
+CrewAI,Python,WebScraping,DataPipelines,LLMAutomation
+– BuiltanAgentic-AIworkflowusingCrewAIforautomatedtender-marketanalysiswithcost-estimationand
+bid-generationmodules.
+– Implementedareal-timeAI-meshfordata-scrapingandinsight-extractiontoimprovebiddingdecisions.
+• IntegratedAnalysisofNeurodegenerativeDisorders(Ongoing)
+Multi-omics,Python,R,AlignmentPipelines,DEAnalysis,MLModelling,Limma,DESeq2,BWA/Bowtie2
+– Developingamulti-omicsworkflowforearlyParkinson’sdetectionusinggenomicandtranscriptomicsignatures.
+– Evaluatingvariousalignment,differentialexpression,andfeature-integrationapproachestoidentifyrobustbiomarker
+patterns.
+ACHIEVEMENTS AND ROLES
+• CodeBattlesWinner(SRMUniversity,Feb2024): Ledateamtodevelopfinance-focuseddataanalyticssolutions.
+• Dataset’24InternshipWinner(VITUniversity,Dec2024): Builtatelecompredictionmodelandatask-reallocation
+chatbottooptimizeincidentflows.
+• Intelliton2025Winner(HindustanInstituteofTechnology,Oct2025): AI-drivenrecruitmentautomationpipelineto
+reducebiasandimproveevaluationefficiency.
+• SNUCFilmClub(2022–2024): ServedasthePointofContact,managingcommunicationandcoordinatingclubactivities.
+• InventeEditorialTeam(2022–2023): Contributedtocontentwriting,editing,andeventdocumentationforthetechfest.
+• SSN–SNUCMUN2023(SponsorshipTeam): Managedsponsorshipoutreachandpartnershipcoordination.SKILL MATRIX
+ProgrammingLanguages: Python,Java,SQL,HTML/CSS,JavaScript
+Frameworks: Flask,Streamlit,ReactJS,Node.js,Bootstrap,Express.js
+Tools: JupyterNotebook,VisualStudio,Eclipse,MySQL,PostgreSQL,Git,GitHub,AWS,MicrosoftExcel
+DataAnalysisandVisualization: NumPy,Pandas,Matplotlib,Seaborn,Tableau
+GenerativeAI:GANs,LangChain,Tensorflow
+SpokenLanguages: English,Telugu,Tamil,Hindi
+CERTIFICATIONS
+• MachineLearningandDeepLearningusingPyTorch,GUVIGeekNetworks
+• IntroductiontoLargeLanguageModels(LLMs),NPTEL,EliteCertificate
+• DataEngineering: Hands-On,LinkedInLearning
+• SocialNetworks,NPTEL,EliteCertificate
+• ResponsibleandSafeAI,NPTEL,SilverEliteCertificate

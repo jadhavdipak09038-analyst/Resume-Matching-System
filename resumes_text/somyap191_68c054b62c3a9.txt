@@ -1,0 +1,31 @@
+Somya Patel
++91 8839911606
+University mail-Personalmail -LinkedIn-GitHub
+OBJECTIVE
+Enthusiastic undergraduate student specializing in AI/ML, seeking an internship to apply my passion for developing innovative AI-based projects and expand my expertise in deep learning and computer vision.
+
+EDUCATION
+Vellore Institute of Technology Bhopal University                                                                               Bhopal, India
+B.Tech in CSE with specialization in Cloud Computing                                                                             2024 - 2028
+
+PROJECTS
+Healthcare Cost Prediction Model – Developed a machine learning regression model to accurately forecast healthcare expenses using the popular Insurance dataset. Pre-processed categorical variables, split the data into training and testing sets, and trained a neural network with TensorFlow/Keras. Achieved a mean absolute error (MAE) of less than 3,500, surpassing the challenge requirement.
+Book Recommendation Engine using K-Nearest Neighbors – Developed a personalized book recommendation system using the Book-Crossings dataset. Filtered for active users and frequently rated books, created a sparse user–book ratings matrix, and implemented a cosine similarity–based KNN model to suggest similar titles. Completed as part of freeCodeCamp’s Data Science curriculum.
+Pet Image Classification with CNN – Created a convolutional neural network model to classify pet images as cats or dogs using TensorFlow/Keras. Trained on a labeled dataset, achieving high accuracy in distinguishing between the two classes. Included visualizations of training and validation performance to evaluate model effectiveness.
+Email Validator – Python Script for Email Format Validation – Created a lightweight Python script to validate email addresses both using regular expressions and through manual conditional checks without regex. Strengthened skills in input validation, string operations, and logic development while ensuring compliance with standard email formatting rules to improve data accuracy in applications.
+
+TECHNICAL SKILLS
+Technical Skills
+Programming Languages: Python, JavaScript (Node.js), Solidity
+Web Development: HTML, CSS, Express.js
+Machine Learning: TensorFlow, Keras
+Data Processing: NumPy, Pandas, Scikit-learn
+Blockchain Development: Hardhat, Ethers.js, Smart Contracts (Solidity), Remix IDE, Ganache
+APIs & Tools: RESTful APIs, Postman, Infura, Alchemy
+Other Tools: Visual Studio Code, Jupyter Notebook, MetaMask, PowerShell
+ 
+WORK EXPERIENCE
+AI Fraud Detection Project – (Hackathon Participan) Designed and implemented an AI-based system to flag suspicious transactions using Random Forest algorithms.
+Blockchain Development Intern (GitHub Activity Tracker)
+ Project | Duration: Aug 2025 – Present
+

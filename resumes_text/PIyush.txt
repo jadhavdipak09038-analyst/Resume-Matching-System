@@ -1,0 +1,57 @@
+Piyush
+Rewari, Haryana (123106)| py75206@gmail.com | (+91)7988030586
+PortFolio:- Piyush-Portfolio/ Linkedin:- Piyush/ SKILLS
+❖ Frontend:- HTML, CSS, React, TailwindCSS
+❖ Backend:- Node.js Express.js, REST APIs
+❖ Database:- MongoDB, SQL
+❖ Other Tools:- Git, Github, npm
+❖ Languages:- Python, Java, C, JavaScript
+EDUCATION
+❖ CSE(AIML) | Starex University (Gurugram, Haryana) 2022-26 ❖ XII St. Xavier
+School (Alwar,Rajasthan) 80.6%| 2021
+PROFESSIONAL SUMMARY
+❖ Full Stack Developer with hands-on experience building responsive, scalable web
+applications. Skilled in crafting modern, user-friendly interfaces and integrating them
+with secure, efficient backend systems. Strong focus on performance optimization and
+delivering production-ready solutions, with a continuous drive to learn and apply new
+technologies.
+❖ Focused on performance optimization, clean UI/UX design, and cross-browser
+compatibility.
+❖ Passionate about learning new technologies and delivering high-quality, production
+ready applications.
+EXPERIENCE
+Website Developer | Yes, Gurugram (September 2022 – November
+2022)
+● Spearheaded the design and deployment of multiple websites.
+● Improved user experience and technical compliance by optimizing website performance
+and accessibility.
+● Automated various development and deployment tasks using custom Python scripts.
+❖ Remote Mentoring Intern | Pheme Software Pvt. Ltd. (IBM) –
+Apr 2025– Jun 2025
+• Built a full-stack web application for detecting human emotions from facial expressions,
+supporting 6+ emotion classes with real-time predictions.•ACADEMIC PROJECTS
+❖ Student Task Manager
+• Engineered a full-stack web application using MongoDB, Express.js, React, and
+Node.js to manage 500+ tasks and user records efficiently.
+• Applied JWT-based authentication and role-based access control, securing 100% of
+protected API routes.
+• Designed REST APIs handling 200+ requests per minute with optimized database
+queries.
+Hosted live at – Student Task Manager.
+❖ Chatty – Chat App
+• Developed and implemented a secure, scalable real-time chat application supporting
+50+ concurrent users.
+• Enabled real-time messaging with Socket.io, reducing message delivery latency by
+~75 ms.
+• Built persistent chat storage with MongoDB to manage 10,000+ messages reliably. •
+Improved real-time communication responsiveness across Android and iOS by
+optimizing socket connections and API performance by 35%.
+Hosted live at – Chatty
+POSITION OF RESPONSIBILITY
+❖ Class Representative (CR)** – Starex University (2025) Act as the liaison between
+students and faculty, representing class concerns and
+feedback. Coordinate academic and extracurricular activities for the class.
+ACHIEVEMENTS / HOBBIES
+❖ Participated in IBM’s Encode National Hackathon (2025) and improved a full-stack e
+learning platform.
+❖ Consistently scored above 85% in academic exams throughout College.

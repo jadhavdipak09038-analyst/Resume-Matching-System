@@ -1,0 +1,48 @@
+R M
+UCHIKA ISHRA
+📞 9096172499 ✉️ ruchikaamishra@gmail.com 📍Pune linkedin.com/in/ruchika-mishra05
+Career Objective
+Aspiring Data Analyst with a strong foundation in statistics, data visualization, and Python
+programming, seeking an entry-level opportunity to apply analytical and problem-solving
+skills to drive data-informed decision-making in a dynamic organization.
+Education
+ B.Tech in Artificial Intelligence and Data Science
+Ajeenkya Dy Patil University | (Expected Graduation 2026)| 8.2 CGPA
+ 12th Matoshree Jr. College | HSC | 2024 |
+ 10th Nashik Cambridge School | CBSE | 2022 | 94.8%
+Certifications
+ Data Visualization – TATA through Forage | 2024
+ Machine Learning – AWS Academy | 2023
+ Python – Google through Coursera | 2023
+ Data Science – IBM through Coursera | 2023
+ Data Analytics with Python – NPTEL | Ongoing
+ Business Analytics and Data Mining Modelling Using R – NPTEL | Ongoing
+Projects
+Spam detection and prediction using NLP
+Tools used:
+Python – Core programming language
+Scikit-learn – Machine learning library used for model buildingNLTK (Natural Language Toolkit) – For stopword removal and tokenization
+Pandas & NumPy – Data handling and numerical computations
+Matplotlib / Seaborn (if you used) – For data visualization
+Joblib – For saving and loading the model and vectorizer
+Google Colab – For developing and executing the project in the cloud
+Experience:
+Sasken summer internship program
+Technical Skills
+ Languages – Python, Java
+ Data Analytics
+ Data Visualisation
+ Business Analytics
+ Excel Advanced
+ Power BI
+Soft Skills
+ Strong communication skills, Leadership skills
+ Problem Solving skills, Hardworking, Creative
+ Organization skills
+Personal Details
+ Date of Birth: 05/05/2004
+ Languages known: Hindi, English, Marathi
+Extracurricular Activity
+ Deputy Secretary in Promotion in #tech college fest
+ Learned and Practiced Kathak
+ Volunteered in Various college events over the years

@@ -1,0 +1,49 @@
+Lalbabu Singh
+MERN Stack Developer
+(cid:131) +91-9113382362 # anandk19570@gmail.com (cid:239) linkedin.com/in/lalbabu-singh/
+Summary
+MERN Stack Developer with strong expertise in building scalable, high-performance web applications using
+MongoDB, Express.js, React.js, and Node.js. Skilled in developing responsive frontends, robust backends, seamless
+API integrations, and secure payment solutions. Adept at problem-solving, writing clean and efficient code, and
+delivering smooth, user-focused digital experiences. Passionate about leveraging modern web technologies to
+contribute to innovative projects and drive business growth.
+Skills
+Languages: JavaScript, Python, Java
+Frontend: HTML, CSS, React.js, Next.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Other: Git, SDLC, DSA, Problem Solving
+Experience
+Software Engineer Intern June 2022 – August 2022
+Self Project Internship Remote
+– Worked on multiple web projects using HTML, CSS, JavaScript, Python, and MongoDB.
+– Learned problem handling, debugging, and project development in a real-world environment.
+– Collaborated with team members to build and deliver working solutions within deadlines.
+Projects
+Food Delivery System | MERN Stack
+– Developed a food ordering platform with smooth navigation, secure payments, and real-time order tracking.
+– Integrated live location tracking for delivery personnel to enhance customer experience.
+– Admin panel allows restaurant owners to manage menus, orders, and customer queries efficiently.
+E-Commerce Platform | MERN Stack
+– Designed an online shopping platform with product listing, search, cart, and checkout functionality.
+– Integrated payment gateway and order history for seamless customer experience.
+– Admin module includes product management, inventory updates, and sales analytics.
+Blog Management System | MERN Stack
+– Created a blogging application where users can register, create, edit, and delete posts.
+– Implemented commenting and like/dislike features for enhanced user interaction.
+– Optimized backend APIs for fast, secure content delivery.
+Awards & Certifications
+• 1st Position – Pitch Deck Competition (2024): Developed “The Pujari Website” and won first prize for innovative
+design and execution.
+• 1st Position – Showcase Competition (2024): Recognized for outstanding project presentation and technical
+implementation.
+• 2-Month Internship (2022): Completed intensive training in full-stack development, project handling, and
+debugging.Education
+B.Tech in Computer Science 2023 – 2026
+Gurgaon University Current CGPA: 7.5 / 10
+Diploma in Computer Science & Engineering 2020 – 2023
+Government Polytechnic Adampur Mandi Hisar (HSBTE Board) Final CGPA: 6.5 / 10
+Profiles
+• § GitHub: https://github.com/Lalbabu-Coder
+• — LeetCode: https://leetcode.com/YourLeetCode
+• (cid:128) Portfolio: yourportfolio.com

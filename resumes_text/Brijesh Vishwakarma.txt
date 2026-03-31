@@ -1,0 +1,42 @@
+Brijesh Vishwakarma
+brĳucsv2003@gmail.com ⋄ +91-8368709044 ⋄ https://github.com/calm-bri ⋄ linkedin.com/in/brĳesh-vishwakarma-dev
+Projects
+StoreRatingWebApp
+React,Express,PostgreSQL,Sequelize,JWT GitHub
+◦ Builtafull-stackwebapplicationthatallowsuserstobrowseandratestoreswithcommentsandanalytics.
+◦ ImplementedRole-BasedAccessControl(User/Owner/Admin)forCRUDoperationsonstores, ratings, anduser
+management.
+◦ Createddashboardswithanalytics(e.g. averageratings,totals)tailoredtoeachrole.
+◦ SecuredAPIsusingJWTauthenticationandExpressmiddleware.
+◦ Styledamodern,responsiveUIusingReactwithglassmorphismdesignprinciples.
+GestureRecognitionWebApp
+Flask,Python,OpenCV,MediaPipe
+◦ Developedareal-timegesturerecognitionappusingFlaskandMediaPipe.
+◦ TrackedgestureslikeThumbsUpandDownusingOpenCV.
+◦ Displayedreal-timefeedbackviaaresponsivewebinterface.
+CoffeeMachineSimulation
+Python
+◦ Simulatescoffeeselection,tracksinventory,andprocessescoins.
+◦ Calculatestotalpayment,provideschange,andmanagesresources.
+MiniGamesCollection
+Python
+◦ BlackJack–Simulatedaclassiccasinocardgameusingrandomnumberlogicandscoringrules.
+◦ Hangman–Implementedaword-guessinggamewithletterinput,attempttracking,andASCIIvisuals.
+◦ CaesarCipher–Developedanencryption-decryptiontooldemonstratingshift-basedciphers.
+◦ Q&AQuizGame–Builtatriviaquizappwithscoring,userinteraction,andquestionhandling.
+◦ Eachgamefocusedoncleanstructure,inputvalidation,anderrorhandling.
+Education
+AjeenkyaDYPatilUniversity Pune,Maharashtra
+B.TechinComputerScienceEngineering 2022–2026
+KendriyaVidyalaya Chennai/Pune/Gurugram
+HigherSecondarySchooling Till2021
+TechnicalSkills
+Python □□□□□
+HTML/CSS/JavaScript □□□□□
+Flask/Django □□□□□
+MediaPipe/OpenCV/Streamlit/Tkinter □□□□□
+NumPy/Pandas/Matplotlib □□□□□
+Git/GitHub/Anaconda/VSCode □□□□□
+Miscellaneous
+◦ Quicklearnerwithafocusonpractical,project-basedlearning.
+◦ Opentointernship/full-timerolesinPythondevelopmentorwebapplications.

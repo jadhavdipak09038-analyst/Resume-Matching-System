@@ -1,0 +1,53 @@
+AYUSH KUMAR DUBEY
++91 7048986892| ayushdby902@gmail.com| LinkedIn | GitHub | Leetcode
+TECHNICAL SKILLS
+Languages : Java, Python, JavaScript, Html, TailWind Css
+CS Fundamentals : Operating System, DBMS, DAA, DSA
+: Spring, Microservices ,react(vite)
+Technologie s/Frameworks
+: Postman, Git, MongoDB, Docker
+Developer Tools
+: Team Leadership , Cross-Functional Collaboration , Communication
+Soft Skills
+PROJECT WORK
+1 PlacementEase(Easy platform to connect user and HR)
+GitHub
+Built scalable backend services using Spring Boot and Java.
+Designed and implemented RESTful APIs for frontend and AI module integration.
+Integrated MySQL database using Spring Data JPA (Hibernate) for efficient data management.
+2 AI Text-to-Image Converter GitHub
+Built a full-stack application enabling generation of images from textual descriptions using a pre-trained
+transformer/ diffusion model.
+Utilized REST API endpoints to handle prompt processing and image generation workflows
+3 ML model - For the detection of microplastics in Water
+GitHub
+Developed a deep learning-based microplastics detection system using Python and PyTorch.
+Implemented model inference pipeline for loading trained .pth model and generating predictions.
+Built data preprocessing and CSV dataset generation scripts for structured input handling.
+Designed modular scripts (main.py, inference.py) for efficient model testing and deployment.
+Applied AI techniques to solve a real-world environmental monitoring problem.
+EDUCATION
+Nehru International Public School , Noida
+Class X ( 83.4%) 2020-2021
+Class XII ( 91.2%) 2022-2023
+Ajay Kumar Garg Engineering College
+B.Tech (Computer Science & Information Technology ) 2023 – 2027
+Current Grade: 7.86
+CERTIFICATES
+1) IBMCEP – Generative AI Virtual Internship (6 Weeks)
+Completed PBELGEN1IN course via IBM Developer Skills Network, gaining hands-on experience in Generative
+AI concepts and practical applications (August 2025).
+2) Successfully completed industry-oriented Python training from YBI Foundation with practical coding
+assignments and mini-projects.
+WORK EXPERIENCE
+1) IBMCEP Generative AI Virtual Intern ( Aug 2025)
+Developed a Text-to-Image Converter using Generative AI, applied prompt engineering techniques, explored
+•
+model integration, and built a functional prototype as part of a 6-week internship.
+2) Currently working as a backend developer intern at Graphura pvt ltd. Develop a full stack project(ATS checker),
+created backend APIs and connected Gemini API to generate the score.
+ACHIEVEMENTS
+1) Secured three medals in running & sprinting events, demonstrating strong athletic discipline and competitive
+performance. Awarded the School Topper Trophy for outstanding academic excellence.
+2) Got an opportunity to be the Team Head at Graphura, i had show my team leadership skills to complete the task
+before deadline.

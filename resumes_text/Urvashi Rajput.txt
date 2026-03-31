@@ -1,0 +1,47 @@
+Urvashi Rajput
++91 9354933577, urvashi8805@gmail.com
+LinkedIn: linkedin.com/in/urvashi-rajput-0b2901292/ , GitHub: github.com/UrvashiTechh
+DATA SCIENCE & ANALYTICS
+Motivated and detail-oriented Data Science and Machine Learning enthusiast seeking a position as a Data
+Scientist or Data Analyst. Strong foundation in Python, MySQL, Machine Learning, and Exploratory Data
+Analysis (EDA), with experience in analyzing trends, identifying patterns, and deriving data-driven insights.
+Passionate about critical thinking, problem-solving, and leveraging AI/ML techniques to drive business
+impact.
+KEY COMPETENCIES
+• Programming & Data Science: Python (for Data Science), MySQL, Machine Learning Algorithms, Data Visualization,
+EDA
+• Tools & Technologies: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Git & GitHub (Basic)
+• Soft Skills: Critical Thinking, Communication, Leadership, Problem-Solving, Event Management
+• Currently Learning: Linux (for cybersecurity and system administration)
+PROFESSIONAL EXPERIENCE
+Mini-Project Lead | Career Guidance System Feb 2025 - Present
+KR Mangalam University
+• Led a team to develop a Career Guidance System using Machine Learning and NLP.
+• Built a quiz-based career recommendation model with real-time job market data integration.
+• Applied Python, MySQL, and ML algorithms for career prediction and insights.
+Hackathon & Event Organizer
+Ongoing
+KR Mangalam University
+• Organized multiple technical workshops, hackathons, and tech fairs, engaging students in AI/ML.
+• Conducted AI/ML sessions as a resource person, helping peers understand Machine Learning concepts.
+• Currently volunteering for Robothon 2025, an inter-college robotics event.
+StartUp Ideation(ConnectNow) Ongoing
+KR Mangalam University
+Ongoing • Developed and incubated OneConnect, a social event-based networking app, at the college
+incubation center. • Designed the platform to help individuals connect for events, movies, and food outings
+based on shared interests. • Pitched the startup at STPI Mohali, representing the college and exploring
+further funding opportunities.
+EDUCATION & CERTIFICATIONS EXTRACURRICULAR ACTIVITIES
+Bachelor of Technology • Hackathon Participation -
+B.Tech CSE (Specialization in AIML) Competed in AI/ML ,IoT and other challenges
+KR Mangalam University(2024-2028) • Event Management-
+Active organizer of college tech fairs,cybersecurity
+Certifications:
+evrnts and AiML,GItHub,Linux workshops
+• Stanford Online Certification - Machine Learning &
+• Startup Initiative -
+Deep Learning
+• IBM Data Analyst Certification Previously incubated OneConnect, a social event-
+• Hackathon Participation Certifications based app, in the college incubation center
+• Volunteering & Event Management Appreciation
+Certificates

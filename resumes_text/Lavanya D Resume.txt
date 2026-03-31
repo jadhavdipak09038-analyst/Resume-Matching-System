@@ -1,0 +1,39 @@
+Lavanya D
+| Hebbal, Mysuru-570016 | +91 6363327813 |
+| https://www.linkedin.com/in/lavanya-dayanandan-59b16a335 |
+| lavanyadayanandan12@gmail.com |
+Objective:
+I’m a Master’s student in Computer Science with a growing interest in software development and cloud
+computing. I’m currently improving my knowledge in Java, databases, networking, and operating systems, and
+I’m eager to apply what I’ve learned so far in practical, real-world environments. I’m looking for an opportunity
+that offers hands-on experience, meaningful project work, and a chance to strengthen both my technical and
+communication skills. My long-term goal is to become a dependable, well-rounded technology professional
+through consistent learning and real-world exposure.
+Education:
+Visvesvaraya Technological University (VTU)
+The National Institute of Engineering, Mysore 2024-Present
+Master of Computer Applications CGPA-8
+University of Mysore
+Seshadripuram Degree College, Mysore 2021-2024
+Bachelor of Computer Applications CGPA -9.24
+Department of Pre-University Education 2019-2021
+Sadvidya Semi Residential College, Mysore Percentage-82%
+Technical Skills:
+• Programming Languages: Java, Python, HTML, CSS, JavaScript.
+• Frameworks and Libraries: React, Angular.
+• Tools and Platforms: MySQL, Git, VS Code.
+• Soft Skills: Interpersonal Communication, Analytical Thinking, Problem Solving, Creative Thinking.
+Experience and Projects:
+• Virtual AI Assistant
+Built an intelligent voice-based desktop assistant capable of executing user commands such as opening
+applications, sending emails, and WhatsApp messages, fetching information from the web, and more.
+Integrated speech recognition and text-to-speech to enable natural user interaction.
+Skills: Python, SpeechRecognition, pyttsx3, smtplib, pywhatkit, web scraping, Automation.
+Courses and Certifications:
+• Google AI Essentials - Certified by Coursera.
+• HTML and MySQL - Certified by Spoken Tutorial Project at IIT Bombay.
+• AWS Cloud Practitioner.
+Interests, Hobbies and Languages known:
+• Interests – Learning new Technologies.
+• Hobbies – Chess, Reading Books, Sketch, Solving puzzles (Sudoku).
+• Languages - English, Kannada, Tamil.

@@ -1,0 +1,47 @@
+Piyush Kumar Singh – Frontend
+Developer
+Home
+Hero Section:
+● Name: Piyush Kumar Singh
+● Title: Frontend Developer
+● Bio: I’m Piyush Kumar Singh, a passionate Frontend Developer with expertise in
+creating modern, responsive, and user-friendly web applications. I combine creativity
+with technical skills to deliver impactful digital experiences.
+● CTA Button: View Portfolio / Contact
+● Visuals: Profile picture, subtle 3D animations (optional Three.js integration)
+About
+● Educational Background: Currently pursuing BCA in Computer Applications from
+MDU Rohtak.
+● Frontend Experience: 6 months of freelance frontend development specializing in
+React.js, Next.js, and modern web technologies.
+● Optional photo or graphics illustrating skills.
+Skills
+● Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Next.js, Three.js, Python,
+Ruby, MongoDB, SQL
+● Emphasis: Frontend development focus
+● Presentation: Icons, progress bars, or interactive skill chartsPortfolio / Projects
+1. Modern Portfolio Website – Responsive portfolio built with React.js, TailwindCSS, and
+Three.js.
+2. E-Commerce Frontend – Dynamic product listing and checkout interface using React.js
+and Node.js.
+3. Interactive Web App – Interactive dashboard using Next.js and JavaScript with real-time
+updates.
+4. 3D Animation Web Experience – Creative 3D web project using Three.js with smooth
+animations.
+● Each project should include a screenshot or demo link, tech stack, and short
+description.
+Services
+● Freelance Frontend Development focusing on responsive web apps, UI/UX design,
+and interactive web experiences using modern JavaScript frameworks.
+Contact
+● Email: piyushsingh612006@gmail.com
+● Phone: 9773912429
+● LinkedIn: www.linkedin.com/in/piyush-kumar-singh-114069312
+● Optional: Contact form with dark-mode design and interactive hover effects
+Design Elements & Preferences
+● Dark mode theme with modern, sleek UI.
+● Smooth animations and transitions.
+● Responsive layout for desktop, tablet, and mobile.
+● Minimalist typography with clean section separation.● Optional 3D interactive element in hero or portfolio sections using Three.js.
+This Google Doc can now be used as a blueprint for building your portfolio website, or
+for sharing with a developer/designer.

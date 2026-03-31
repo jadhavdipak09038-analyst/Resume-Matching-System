@@ -1,0 +1,47 @@
+Neha D. Tudayekar (cid:131) +91-9148292872
+Bachelor of Engineering # nehatudayekar@gmail.com
+Computer Science and Engineering (cid:239) Linkedin
+KLE Technological University, Hubballi
+Education
+• KLE Technological University, Hubballi 2022-2026
+B.E Computer Science and Engineering CGPA: 9.31
+• Jss SMPU college, Dharwad 2020-2022
+Class XII Percentage: 89.6%
+• St Joseph High School Dharwad 2020
+Class X Percentage: 90.4%
+Projects
+•Distributed Denial-of-Service 2024-2025
+DDoS Detection and Mitigation Using Unsupervised Learning and PoW.
+– Developed a DDoS detection system using BIRCH clustering, improving detection accuracy to 97%.
+– Reduced false positive rates by 64%
+– Implemented on an OpenStack-based testbed, achieving real-time threat detection.
+– Technology Used: Machine Learning, OpenStack, Mininet.
+•Automatic Text Summarization 2024-2025
+Enhanced Text Summarization Using a Pointer-Generator Network.
+– DevelopedanautomatedtextsummarizationmodelusingPointer-GeneratorNetworks(PGN),improvingsummary
+coherence and accuracy.
+– Achieved 38.86% ROUGE-1 score, outperforming Bidirectional LSTM (BD-LSTM) by 8.16%, indicating better
+text retention and fluency.
+– Integrated attention and coverage techniques to enhance summary coherence and minimize redundancy.
+– Trained the model on the CNN/DailyMail dataset for scalability and high-quality performance.
+– Technologies: Deep Learning, NLP, TensorFlow, PyTorch.
+Technical Skills and Interests
+Languages: C, C++, SQL, Python
+Web Technologies: HTML, CSS, JavaScript , Node.js, React.js
+Cloud/DevOps Tools: OpenStack, Amazon Web Services, Docker, Kubernetes (Basic)
+Databases: MySQL
+Artificial Intelligence: Pandas, scikit-learn (SKlearn), TensorFlow
+Operating Systems: Linux, Microsoft Windows
+Soft Skills: Communication, Teamwork, Leadership, Problem Solving
+Area of Interest: Web Development, Networking, Cloud Computing, Machine Learning
+Workshops
+Conducted a comprehensive 3-day workshop on OpenStack Cloud covering:
+– Setup and configuration of both single-node and multi-node OpenStack environments
+– Explained usage of OpenStack API tools for resource management
+Publications
+•IEEE Conference, SR University, Hyderabad 2024-2025
+Presented Research Paper: Enhanced Text Summarization using Pointer-Generator Network
+Certifications
+•Infosys - DevOps Foundation Certificate
+•Juniper Networks - Getting Started with Networking
+•Juniper Networks - Certified Associate, Junos (JNCIA-Junos)

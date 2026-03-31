@@ -1,0 +1,81 @@
+LastUpdatedon31stMarch2025
+Sonu Sharma
+sonusharma.com
+sonuboy3333@gmail.com|+917505646227
+EDUCATION EXPERIENCE
+APGICOLLEGE
+CETPA |FullStackDeveloperusingReact|Traning
+MasterofComputer
+Jul2023–Dec2024
+Applications
+• InternedasaFullStackDeveloper,contributingtothedevelopmentofweb
+Sep2024|Agra
+applications,implementingfront-enddesigns,andintegratingback-end
+Pursing
+functionalities.Acquiredskillsinsoftwaredevelopment,problem-solving, and
+RBSCOLLEGE Teamworkinanagileenvironment.
+BachelorofComputer
+Applications CODSOFT |WebDevelopment
+Sep2023|Agra 1Month
+Percentage-73%
+• Icontributedtowebdevelopmentprojects,utilizingHTML,CSS,and
+BRBSVIDYAMANDIR JavaScript.Collaboratingwithseniordevelopers,Itackledcodingchallenges
+andimplementedenhancements.Thisinternshipenhancedmyskillsand
+Intermediate
+passionforwebdevelopment.
+Mar2020-|Agra
+Percentage-59%
+INTERNPE |WebDevelopment
+BRBSVIDYAMANDIR
+1Month
+HighSchool
+• Duringmywebdevelopmentinternship,Igainedhands-onexperiencein
+Mar2018|Agra
+buildingandmaintainingresponsivewebsitesusingHTML,CSS,andJavaScript.
+Percentage-54%
+Icollaboratedwithateamtoimplementuserinterfacedesigns,enhancesite
+functionality,andoptimizeperformance.Thisinternshipallowedmetoapply
+LINKS
+myskillsinaprofessionalsetting,strengthenmyproblem-solvingabilities,and
+deepenmyunderstandingofwebdevelopmentpractices.
+FrontendMentor://sonusharma
+Github://sonusharma023
+LinkedIn://sonusharma PROJECT
+Portfolio://sonusharma.com
+SKILLS AUTHAPP Feb2024–Mar2024
+• Developedafull-stackauthenticationproject,implementinguser
+Front-end
+authentication,authorization,andsecureaccesscontrols.Utilizedtechnologies
+Over5000lines:
+likeReact,Node.js,Express,andMongoDBtocreatearobustandsecure
+Html•Css•Bootstrap•Javascript
+application.Implementedfeatureslikeuserprofile,login/logout,password
+React
+reset,androle-basedaccesscontrol.gainedvaluableexperienceinbuilding
+Back-end
+scalableandsecurewebapplications.
+Over1000lines:
+Nodejs•Expressjs CRUDAPPLICATIONAPP |crudapplication.com
+DataBase
+Jan2024
+•Mongodb
+• DevelopedCRUDapplicationsutilizinglocalstoragetomanagedata
+Familiar: persistence.
+Figma•C•GitHub
+• Designeduser-friendlyinterfacesfordatainput,display,andmanipulation.
+• ImplementedCreate,Read,Update,andDeletefunctionalitiesensuring
+PERSONAL STRENGTH seamlessuserexperience.
+• Documentedcodeandprovidedtechnicalsupporttoend-usersasneeded.
+PositiveAttitude
+Punctual
+LANDINGWEBSITE |landingpage.com
+Honest
+Nov2022–Jan2023
+‘ • DevelopedresponsivelandingpagesusingHTML,CSS,andJavaScriptto
+createengaginguserinterfacesandinteractivewebexperiences.Applied
+LANGUAGE
+moderndesignprinciplesandoptimizedpageperformanceforseamlessuser
+interaction.
+Hindi
+• ItisalsoresponsiveWebsite.
+English

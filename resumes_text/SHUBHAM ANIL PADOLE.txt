@@ -1,0 +1,39 @@
+SHUBHAM PADOLE
+Nagpur, India| +91 9689684788 | shubhampadolework@gmail.com
+PROFESSIONAL SUMMARY
+Aspiring Data Science and Web Development professional with strong analytical and programming
+skills. Well-versed in Data Structures & Algorithms (DSA) and Object-Oriented Programming
+(OOPs), with the ability to explain complex concepts clearly. Experienced in developing machine
+learning models and web applications, with proven problem-solving, leadership, and
+communication abilities.
+EDUCATION
+• J D College of Engineering and Management, Nagpur (Pursuing)
+B. Tech in CSE (Data Science) | CGPA: 8.89
+• Government Polytechnic, Sakoli (2023)
+Diploma in Computer Technology | 72%
+• Z. P. Gandhi Jr. College, Lakhani (2020)
+HSC | 63%
+• Samarth Vidyalaya, Lakhani (2018)
+SSC | 72%
+PROJECTS
+• Optimizing Rheumatoid Arthritis Detection through Advanced Pre-processing and Deep
+Learning – Implemented advanced pre-processing and deep learning algorithms in Python,
+leveraging data structures for handling medical data efficiently and applying OOP principles for
+modular and reusable code design.
+• Inventory Management System – Developed a full-stack application using Java and SQL for
+inventory tracking. Applied OOP concepts for structured development and efficient DSA techniques
+for fast data retrieval, enhancing performance and accuracy.
+TECHNICAL SKILLS
+• Programming Languages: Python, Java, C, SQL, HTML, CSS
+• Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs),
+Problem-Solving
+• Tools & Platforms: MySQL, Git, MS Office
+• Areas of Interest: Data Analytics, Machine Learning, Web Development
+SKILLS & ABILITIES
+• Strong analytical and logical reasoning abilities with clarity in explaining technical concepts.
+• Effective communication and presentation skills for both technical and non-technical audiences.
+• Leadership qualities with experience in managing academic and project teams successfully.
+• Time management and organizational skills with a focus on achieving project goals.
+CERTIFICATIONS & ACHIEVEMENTS
+• Certified in C Programming – Spoken Tutorial, IIT Bombay
+• Winner – Coding Competition during Diploma Final Year

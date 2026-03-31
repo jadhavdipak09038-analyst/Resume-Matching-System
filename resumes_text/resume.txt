@@ -1,0 +1,42 @@
+Sarat Das
++91 8167200506 | saratdas67012@gmail.com | LinkedIn | Lucknow, India
+Professional Summary
+I’m an aspiring Financial Analyst with foundation in financial analytics, FP&A, budgeting, forecasting,
+varianceanalysis,anddatavisualization. SkilledinSQL,Python,Excel,PowerBI,Tableaufordelivering
+insights in revenue forecasting, pricing, cost optimization, and dashboards. Base in financial modeling,
+valuation (DCF, NPV, IRR), and risk assessment, supported by academic projects and coursework.
+Core Competencies
+Financial Analysis: FinancialModeling,Budgeting,Fore- Tableau,PowerBI,SAP,Oracle,BloombergTerminal,VBA,
+casting, Variance Analysis, Cost Analysis, Risk Assessment, Pivot Tables, Database Management, Statistical Modeling
+Investment Analysis, DCF Analysis, Financial Reporting, Analytics: Regression Analysis, Time Series Analysis,
+KPI Development MonteCarloSimulation,PredictiveAnalytics,DataMining,
+Technical Skills: Advanced Excel, SQL, Python, R, Machine Learning, Sensitivity Analysis, Scenario Planning
+Education
+Indian Institute of Information Technology, Lucknow (IIIT Lucknow) Expected Aug 2026
+MSc in Economics and Management
+• Expected Coursework: Mathematical Economics, Econometrics, Corporate Finance (DCF, CAPM), Business
+Analytics (Excel, SQL, R), Operations Management, Professional Communication
+WorldQuant University (WQU) Expected Mar 2027
+MSc in Financial Engineering
+• Expected Coursework: Financial Markets, Financial Econometrics, Derivative Pricing, Stochastic Modeling,
+Machine Learning in Finance, Deep Learning for Finance, Portfolio Management, Risk Management
+Academic & Personal Projects
+Revenue Forecasting Model
+Developed a time-series forecasting model using Python (pandas, statsmodels) to predict quarterly revenues
+with 92% accuracy.
+Risk Analysis Dashboard
+Created an interactive Power BI dashboard analyzing loan portfolio risk, with filters for credit score, default
+probability, and interest rates.
+Financial Modeling – Investment Valuation
+Built Excel-based models (DCF, NPV, IRR) for evaluating investment projects and prepared scenario/sensitivity
+analysis reports.
+Technical Skills
+Analytics & Programming: SQL, Python (pandas, numpy, matplotlib), R
+BI/Visualization: Power BI, Tableau, Excel (Pivot Tables, Power Query, VBA)
+Finance: Financial Modeling, Forecasting, Budgeting, Variance Analysis, Valuation (DCF, NPV, IRR)
+Reporting: MIS, KPI Dashboards, Data Cleaning & Transformation
+Certifications
+• CFA Institute Investment Foundations (Expected 2025)
+• Financial Modeling & Valuation (Udemy)
+• SQL for Data Analytics and Python for finance (Udemy)
+• Financial Analyst and Time series Analysis and also Credit Risk Modeling in python (Udemy)

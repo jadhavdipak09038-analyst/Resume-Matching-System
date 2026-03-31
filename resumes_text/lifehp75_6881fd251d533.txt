@@ -1,0 +1,26 @@
+Shireen Begum
+Sizu67337@gmail.com +918951553896 linkedin.com/in/SHIREEN I
+Education
+CENTRAL UNIVERSITY OF KARNATAKA (GULBARGA)
+Bachelor of Technology in Electronics and Communication Engineering.
+Karnataka ,India Nov 2022 ---- May 2026
+Experience
+Software Development intern , Energy system
+Karnataka , india.
+Developed a function in which a current direction is provided.
+
+Developed a software for ESP8266 used use SPI to
+connect with a can controller .
+Project
+Rc –bluetooth control car , automatics irrigation , snake
+game .
+Certificates
+TCS iON ---  career Edge-Young Professional,
+Office master --power BI workshop
+HP LIFE –-> Data science and Analytics
+BCG >< (fOrage) —>Data science
+Electronics Arts --- >software enginnering job simulation.
+Sololearn -  introduction to SQL
+FREE CODECAMP ----
+Technical Skills
+C , HTML , JAVASCRIPT , INTRO SQL , Intermediate ,Embedded c .
